@@ -1,11 +1,11 @@
-Language Variety,Language,Representative City,latitude,longitude,language_code
+ï»¿Language Variety,Language,Representative City,latitude,longitude,language_code
 EU Portuguese,POR,"Lisbon, PT",38.725278,-9.15,EU POR
-Brazilian Portuguese,POR,"São Paulo, BR",-23.55,-46.633333,BR POR
+Brazilian Portuguese,POR,"SÃ£o Paulo, BR",-23.55,-46.633333,BR POR
 Galician,GAL,"Santiago de Compostela, ES",42.877778,-8.544444,GAL
 Astur-Leonese,ASL,"Oviedo, ES",43.36,-5.845,ASL
 Castilian Spanish,ESP,"Madrid, ES",40.416944,-3.703333,CAS ESP
-Andalusian Spanish,ESP,"Málaga, ES",36.719444,-4.42,AND ESP
-American Spanish,ESP,"Bogotá, CO",4.711111,-74.072222,AMR ESP
+Andalusian Spanish,ESP,"MÃ¡laga, ES",36.719444,-4.42,AND ESP
+American Spanish,ESP,"BogotÃ¡, CO",4.711111,-74.072222,AMR ESP
 Aragonese,ARG,"Zaragoza, ES",41.65,-0.883333,ARG
 Catalan,CVB,"Barcelona, ES",41.383333,2.183333,CAT
 Valencian,CVB,"Valencia, ES",39.47,-0.376389,VEN
@@ -13,15 +13,15 @@ Balearic,CVB,"Palma, ES",39.566667,2.65,BAL
 Occitan,OCI,"Toulouse, FR",43.6045,1.444,OCC
 Gascon,OCI,"Bordeaux, FR",44.84,-0.58,GAS OCC
 EU French,FRA,"Paris, FR",48.856667,2.352222,EU FRA
-Québécois French,FRA,"Montréal, CA",45.508889,-73.554167,QBC FRA
+QuÃ©bÃ©cois French,FRA,"MontrÃ©al, CA",45.508889,-73.554167,QBC FRA
 Walloon,WAL,"Namur, BE",50.466667,4.866667,WAL
 Arpitan,ARP,"Lyon, FR",45.76,4.84,ARP
 Ligurian,LIG,"Genoa, IT",44.411111,8.932778,LIG
 Lombard,LMO,"Milan, IT",45.466944,9.19,LMO
 Romansh,RMH,"Chur, CH",46.85,9.533333,RMH
 Friulian,FUR,"Udine, IT",46.066667,13.233333,FUR
-Logudorese Sardinian,SRD,"Nuoro, IT",40.316667,9.333333,LOG SRD
-Campidanese Sardinian,SRD,"Cagliari, IT",39.227778,9.111111,CPN SRD
+LogudoreseÂ Sardinian,SRD,"Nuoro, IT",40.316667,9.333333,LOG SRD
+CampidaneseÂ Sardinian,SRD,"Cagliari, IT",39.227778,9.111111,CPN SRD
 Corsican,COR,"Ajaccio, FR",41.9267,8.7369,COR
 Italian,ITA,"Florence, IT",43.771389,11.254167,ITA
 Abruzzese,ABR,"Pescara, IT",42.463889,14.214167,ABR
