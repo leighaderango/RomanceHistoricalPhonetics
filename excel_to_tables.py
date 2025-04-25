@@ -111,6 +111,22 @@ double_treatment = pd.concat(double_treatment_tables, axis = 0)
 # put all_df with double_treatments 
 all_consonants_data = pd.concat([all_df, double_treatment], axis = 0)
 
+all_consonants_data['Voice +/−'].value_counts()
+
+all_consonants_data['voice'] = all_consonants_data['Voice +/−'].map({'+': 0,
+                                                                      '−': 255,
+                                                                      '+ (−)': 85,
+                                                                      '− (+)': 170,
+                                                                      '+/−': 127.5,
+                                                                      '−/+': 127.5})
+
+
+
+
 all_consonants_data.to_csv('all_consonants_data.csv')
 
+
+#all_consonants_data = pd.read_csv('all_consonants_data.csv')
+
+#all_consonants_data.columns
 

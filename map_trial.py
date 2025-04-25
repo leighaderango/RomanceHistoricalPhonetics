@@ -1,7 +1,8 @@
 import plotly.express as px
 import geopandas as gpd
 import pandas as pd
-from dash import Dash, dcc, html, Output, Input, callback
+from dash import Dash, dcc, html, Output, Input, callback, dash_table
+import itertools
 
 cities = pd.read_csv('languageCities.csv', encoding = 'utf-8')
 
@@ -15,10 +16,20 @@ display_data['sonority_scaled'] = (display_data['sonority_avg'] - display_data['
 display_data['place_scaled'] = (display_data['place_avg'] - display_data['place_avg'].min()) / (display_data['place_avg'].max() - display_data['place_avg'].min())
 
 
-def blend_colors(r, b):
-    return f'rgb({int(r * 255)}, 0, {int(b * 255)})'
+def blend_colors(r, g, b):
+    return f'rgb({int(r * 255)}, {int(g)}, {int(b * 255)})'
 
-display_data['color'] = [blend_colors(r, b) for r, b in zip(display_data['sonority_scaled'], display_data['place_scaled'])]
+display_data['color'] = [blend_colors(r, g, b) for r, g, b in zip(display_data['sonority_scaled'], display_data['voice_avg'], display_data['place_scaled'])]
+
+#display_data['color'].describe()
+
+#x_range = [range(0, 1, 0.01)]
+#y_range = [range(0, 1, 0.01)]
+
+#print(itertools.product(x_range, y_range))
+
+filter = display_data[(display_data['treatment'] == '-P-')]
+
 
 app = Dash()
 
@@ -51,6 +62,10 @@ app.layout = html.Div(children=[
     dcc.Graph(
         id='map'
     )
+
+    #dash_table.DataTable(
+        #id = 'ipa table'
+    #)
 ])
 
 @callback(
@@ -69,6 +84,8 @@ def update_environments(treatment):
 def update_versions(treatment, environment):
     versions_list = display_data[(display_data['treatment'] == treatment) & (display_data['environment'] == environment)]['version'].unique().tolist()
     return versions_list
+
+
 
 
 @callback(
@@ -97,14 +114,17 @@ def update_map(selected_treatment, selected_environment, selected_version):
     else:
         version_sub = pd.DataFrame(columns=display_data.columns)
 
-    city_context = pd.merge(cities_geo, version_sub, left_on = 'Language', right_on = 'language').dropna(subset = 'display')
-    
 
+    city_context = pd.merge(cities_geo, version_sub, left_on = 'Language', right_on = 'language').dropna(subset = 'display')
 
     fig = px.scatter_geo(city_context,
                     lat=city_context.geometry.x,
                     lon=city_context.geometry.y, 
                     text = 'display',
+                    hover_data={'Language Variety': True, 
+                                'latitude': False,
+                                'longitude': False,
+                                'display': False},
                     color = city_context['color'],
                     color_discrete_map = 'identity')
 
@@ -114,9 +134,7 @@ def update_map(selected_treatment, selected_environment, selected_version):
                                     size = 16,
                                     color = 'black'),
                         marker = dict(size = 30,
-                                      opacity = 0.5),
-                        hovertemplate='<b>%{hovertext}</b><extra></extra>',
-                        hovertext=city_context['Language Variety'])
+                                      opacity = 0.4))
     fig.update_geos(showcountries = True)
     return fig
 

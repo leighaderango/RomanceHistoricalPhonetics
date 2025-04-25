@@ -5,66 +5,122 @@ import re
 consonants_long = pd.read_csv('all_consonants_data.csv')
 
 
+
 consonants_grouped = consonants_long.groupby(['treatment', 'environment', 'Languages', 'version'])
+#consonants_grouped = consonants_long.sample(1000, random_state = 42).groupby(['treatment', 'environment', 'Languages', 'version'])
 
 
 display_tables = []
 
-for setting, df in consonants_grouped:
-    print(setting)
+for setting, df in consonants_grouped: # for each col in each sheet
+    #print(setting) # print col id
 
     df.sort_values('position', inplace=True) 
     positions_list = []
 
     sonority_avg = 0
     place_avg = 0
+    voice_avg = 0
 
-    for _,row in df.iterrows(): # for each position in the setting
+    for _,row in df.iterrows(): # for each segment in the column
 
         if pd.notna(row['Sonority value']):
             sonority_avg += row['Sonority value']
         if pd.notna(row['Place value']):
             place_avg += row['Place value']
+        if pd.notna(row['voice']):
+            voice_avg += row['voice']
 
+        
         orig_ipa = row['IPA']
 
-        # if ipa is not null and has a tilde, then split
+
+        # if ipa of segment is not null and has a tilde, then split
         if isinstance(orig_ipa, str) and ('~' in orig_ipa):
             split = orig_ipa.split('~')
 
-            positions_list.append(split)
+            positions_list.append(split) # append list of possible outcomes to positions_list
 
-        # if orig_ipa is not null but does not have a tilde, use ipa as position
+        # else if orig_ipa has a set of parenthesis
+
+        # finally if orig_ipa is not null but does not have a tilde or parenthesis, use ipa as position
         elif isinstance(orig_ipa, str):
-            positions_list.append([orig_ipa])
+            positions_list.append([orig_ipa]) # else append only possible outcome to positions_list
+         
+         # each element of positions_list represents possible outcomes at that index of the segments
+            
+    
+    # create all versions of possible display strings
+        # where phi is empty
+        
+        # ex. QU- #_a' RMH should show k|kw
+        # CL- #_ ARP is an example of two tildes, should show tl|kj
+    
 
     
-    
-    combos = product(*positions_list)
+    # create list to store all possible display strings
+    combos = []
 
-    # Join characters, skipping '∅'
-    display = [''.join(c for c in combo if c != '∅') for combo in combos]
+    # if only one segment
+    if len(positions_list) == 1:
+        # if one possibility:
+        if len(positions_list[0]) == 1:
+            combos.append(positions_list[0][0])
+        else:
+            range_string = '|'.join(positions_list[0])
+            combos.append(str(range_string))
 
-    temp_display = '|'.join(display[:2])
+    # if two segments:
+    elif len(positions_list) == 2:
+        # if both segments have two parts, zip indicies
+        if len(positions_list[0]) == 2 & len(positions_list[1]) == 2:
+            zipped = zip(positions_list[0], positions_list[1])
+            combos = [''.join(pair) for pair in zipped]
+             
+        elif (len(positions_list[0]) == 2 or len(positions_list[1]) == 2): 
+            combos = [''.join(pair) for pair in product(*positions_list)]
+        else:
+            zipped = zip(positions_list[0][0], positions_list[1][0])
+            combos = [''.join(pair) for pair in zipped]
 
-    if len(temp_display) != 1:
+
+
+    display = '|'.join(combos)
+    if len(display) > 1:
+        display = display.replace('∅', '')
+
+    if len(display) == 0:
+        continue
+
+
+    print(display)
+
+    if len(positions_list) > 1:
         sonority_avg = sonority_avg/len(df)
         place_avg = place_avg/len(df)
+        voice_avg = voice_avg/len(df)
+
     
     display_table = pd.DataFrame({'treatment': [setting[0]],
                                     'environment': [setting[1]],
                                     'language': [setting[2]],
                                     'version': [setting[3]],
-                                    'display': [temp_display],
+                                    'display': [display],
                                     'sonority_avg': [sonority_avg],
-                                    'place_avg': [place_avg]})
+                                    'place_avg': [place_avg],
+                                    'voice_avg': [voice_avg]})
 
 
-    display_tables.append(display_table)
+    display_tables.append(display_table) 
 
 
 all_displays = pd.concat(display_tables, axis = 0)
 
+
 all_displays.to_csv('display_data.csv')
 
+
+#all_displays.columns
+filter = all_displays[(all_displays['treatment'] == '-P-')]
+print(filter) 
 
