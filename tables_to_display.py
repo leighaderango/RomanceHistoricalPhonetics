@@ -6,14 +6,14 @@ consonants_long = pd.read_csv('all_consonants_data.csv')
 
 
 
-consonants_grouped = consonants_long.groupby(['treatment', 'environment', 'Languages', 'version'])
+consonants_grouped = consonants_long.groupby(['number', 'treatment', 'environment', 'Languages', 'version'])
 #consonants_grouped = consonants_long.sample(1000, random_state = 42).groupby(['treatment', 'environment', 'Languages', 'version'])
 
 
 display_tables = []
 
 for setting, df in consonants_grouped: # for each col in each sheet
-    #print(setting) # print col id
+    print(setting) # print col id
 
     df.sort_values('position', inplace=True) 
     positions_list = []
@@ -93,18 +93,17 @@ for setting, df in consonants_grouped: # for each col in each sheet
         continue
 
 
-    print(display)
-
     if len(positions_list) > 1:
         sonority_avg = sonority_avg/len(df)
         place_avg = place_avg/len(df)
         voice_avg = voice_avg/len(df)
 
     
-    display_table = pd.DataFrame({'treatment': [setting[0]],
-                                    'environment': [setting[1]],
-                                    'language': [setting[2]],
-                                    'version': [setting[3]],
+    display_table = pd.DataFrame({'number': float(setting[0].strip('abcdefghijklmnopqrstuvwxyz')),
+                                  'treatment': [setting[1]],
+                                    'environment': [setting[2]],
+                                    'language': [setting[3]],
+                                    'version': [setting[4]],
                                     'display': [display],
                                     'sonority_avg': [sonority_avg],
                                     'place_avg': [place_avg],
@@ -114,13 +113,12 @@ for setting, df in consonants_grouped: # for each col in each sheet
     display_tables.append(display_table) 
 
 
-all_displays = pd.concat(display_tables, axis = 0)
+all_displays = pd.concat(display_tables, axis = 0).sort_values(by = 'number')
+
 
 
 all_displays.to_csv('display_data.csv')
 
 
-#all_displays.columns
-filter = all_displays[(all_displays['treatment'] == '-P-')]
-print(filter) 
+
 

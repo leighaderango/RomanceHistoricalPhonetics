@@ -5,9 +5,9 @@ excel_file = pd.ExcelFile('QDFH.xlsx')
 
 sheet_names = excel_file.sheet_names
 data_sheets = sheet_names[1:-4]
-selected = np.r_[0:31, 55:76]
-# 90 - end
-singles = [data_sheets[i] for i in selected]
+
+singles = np.r_[0:31, 55:77, 93:len(data_sheets)]
+singles = [data_sheets[i] for i in singles]
 
 
 # single consonant treatments
@@ -35,7 +35,7 @@ for sheet_name in singles: #[0:33]
         # deal with a/b/c versions
         pivot['version'] = pivot.groupby('Languages').cumcount().add(1)
 
-        
+        pivot.insert(0, 'number', number)
         pivot.insert(0, 'treatment', treatment)
         pivot.insert(1, 'environment', environment)
         pivot.insert(2, 'position', 1)
@@ -52,10 +52,11 @@ all_df = pd.concat(single_treatment_tables, axis = 0)
 #all_df.to_csv('single_consonants_data.csv')
 
 
-### two positions
-
+### two positions 
+ 
 doubles = np.r_[31:47, 77:93]
 doubles = [data_sheets[i] for i in doubles]
+
 
 double_treatment_tables = []
 n_consonants = 2
@@ -89,7 +90,7 @@ for sheet_name in doubles:
                 # deal with a/b/c versions
                 pivot['version'] = pivot.groupby('Languages').cumcount().add(1)
 
-                
+                pivot.insert(0, 'number', number)
                 pivot.insert(0, 'treatment', treatment)
                 pivot.insert(1, 'environment', environment)
                 pivot.insert(2, 'position', i+1)
@@ -121,7 +122,7 @@ all_consonants_data['voice'] = all_consonants_data['Voice +/−'].map({'+': 0,
                                                                       '−/+': 127.5})
 
 
-
+all_consonants_data.columns
 
 all_consonants_data.to_csv('all_consonants_data.csv')
 

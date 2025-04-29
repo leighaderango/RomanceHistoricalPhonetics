@@ -9,8 +9,9 @@ cities = pd.read_csv('languageCities.csv', encoding = 'utf-8')
 cities_geo = gpd.GeoDataFrame(cities, geometry = gpd.points_from_xy(cities['latitude'], cities['longitude']))
 
 display_data = pd.read_csv('display_data.csv')
-#latin_to_rom = pd.read_csv('all_consonants_data.csv')
 
+#filter = display_data[(display_data['treatment'] == 'T-') & (display_data['environment'] == '#_E')]
+#print(filter)
 
 display_data['sonority_scaled'] = (display_data['sonority_avg'] - display_data['sonority_avg'].min()) / (display_data['sonority_avg'].max() - display_data['sonority_avg'].min())
 display_data['place_scaled'] = (display_data['place_avg'] - display_data['place_avg'].min()) / (display_data['place_avg'].max() - display_data['place_avg'].min())
@@ -21,14 +22,6 @@ def blend_colors(r, g, b):
 
 display_data['color'] = [blend_colors(r, g, b) for r, g, b in zip(display_data['sonority_scaled'], display_data['voice_avg'], display_data['place_scaled'])]
 
-#display_data['color'].describe()
-
-#x_range = [range(0, 1, 0.01)]
-#y_range = [range(0, 1, 0.01)]
-
-#print(itertools.product(x_range, y_range))
-
-filter = display_data[(display_data['treatment'] == '-P-')]
 
 
 app = Dash()
@@ -42,7 +35,8 @@ app.layout = html.Div(children=[
 
     html.Div(children = [
         html.Label('Treatment'),
-        dcc.Dropdown(display_data['treatment'].unique().tolist(),
+        dcc.Dropdown(display_data.sort_values(by = 'number')['treatment'].unique().tolist(),
+            #display_data['treatment'].unique().tolist(),
                      value = '-R-',
                      id = 'select_treatment')
         ]),
@@ -115,7 +109,7 @@ def update_map(selected_treatment, selected_environment, selected_version):
         version_sub = pd.DataFrame(columns=display_data.columns)
 
 
-    city_context = pd.merge(cities_geo, version_sub, left_on = 'Language', right_on = 'language').dropna(subset = 'display')
+    city_context = pd.merge(cities_geo, version_sub, left_on = 'language_code', right_on = 'language').dropna(subset = 'display')
 
     fig = px.scatter_geo(city_context,
                     lat=city_context.geometry.x,
