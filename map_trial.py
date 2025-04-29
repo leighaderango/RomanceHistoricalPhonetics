@@ -10,8 +10,6 @@ cities_geo = gpd.GeoDataFrame(cities, geometry = gpd.points_from_xy(cities['lati
 
 display_data = pd.read_csv('display_data.csv')
 
-#filter = display_data[(display_data['treatment'] == 'T-') & (display_data['environment'] == '#_E')]
-#print(filter)
 
 display_data['sonority_scaled'] = (display_data['sonority_avg'] - display_data['sonority_avg'].min()) / (display_data['sonority_avg'].max() - display_data['sonority_avg'].min())
 display_data['place_scaled'] = (display_data['place_avg'] - display_data['place_avg'].min()) / (display_data['place_avg'].max() - display_data['place_avg'].min())
@@ -22,6 +20,8 @@ def blend_colors(r, g, b):
 
 display_data['color'] = [blend_colors(r, g, b) for r, g, b in zip(display_data['sonority_scaled'], display_data['voice_avg'], display_data['place_scaled'])]
 
+version_sub = display_data[(display_data['treatment'] == 'B-') & (display_data['environment'] == 'V_V')]
+version_sub = version_sub[['language', 'display']]
 
 
 app = Dash()
@@ -36,8 +36,7 @@ app.layout = html.Div(children=[
     html.Div(children = [
         html.Label('Treatment'),
         dcc.Dropdown(display_data.sort_values(by = 'number')['treatment'].unique().tolist(),
-            #display_data['treatment'].unique().tolist(),
-                     value = '-R-',
+                     value = 'B-',
                      id = 'select_treatment')
         ]),
 
@@ -51,15 +50,18 @@ app.layout = html.Div(children=[
              html.Label('Version'),
              dcc.Dropdown(value = 1,
                           id = 'select_version')
-    ]),    
+                          ]),
 
-    dcc.Graph(
-        id='map'
-    )
+    html.Div([
+        html.Div([
+            html.Div(id='ipa_table_1', style={'width': '49%', 'display': 'inline-block'}),
+            html.Div(id='ipa_table_2', style={'width': '49%', 'display': 'inline-block'}),
+        ], style={'width': '40%', 'display': 'inline-block', 'verticalAlign': 'top'}),
 
-    #dash_table.DataTable(
-        #id = 'ipa table'
-    #)
+        
+        dcc.Graph(id='map', style={'width': '60%', 'display': 'inline-block', 'verticalAlign': 'top'})
+        ], style={'display': 'flex', 'flexDirection': 'row', 'gap': '20px'})
+
 ])
 
 @callback(
@@ -81,9 +83,10 @@ def update_versions(treatment, environment):
 
 
 
-
 @callback(
     Output('map', 'figure'),
+    Output('ipa_table_1', 'children'),
+    Output('ipa_table_2', 'children'),
     Input('select_treatment', 'value'),
     Input('select_environment', 'value'),
     Input('select_version', 'value'))
@@ -130,7 +133,20 @@ def update_map(selected_treatment, selected_environment, selected_version):
                         marker = dict(size = 30,
                                       opacity = 0.4))
     fig.update_geos(showcountries = True)
-    return fig
+
+
+    version_sub = version_sub[['language', 'display']]
+    columns = [{'name': i, 'id': i} for i in version_sub.columns]
+    version_sub = version_sub.to_dict('records')
+    mid = len(version_sub) //2 if len(version_sub) > 16 else len(version_sub)
+    col1_data = version_sub[:mid]
+    col2_data = version_sub[mid:] if len(version_sub) > 16 else []
+
+
+    table1 = dash_table.DataTable(data=col1_data, columns=columns, style_table={'overflowX': 'auto'})
+    table2 = dash_table.DataTable(data=col2_data, columns=columns, style_table={'overflowX': 'auto'}) if col2_data else None
+
+    return fig, table1, table2
 
 
 if __name__ == '__main__':

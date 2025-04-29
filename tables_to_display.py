@@ -35,13 +35,17 @@ for setting, df in consonants_grouped: # for each col in each sheet
         orig_ipa = row['IPA']
 
 
-        # if ipa of segment is not null and has a tilde, then split
-        if isinstance(orig_ipa, str) and ('~' in orig_ipa):
+        # if ipa of segment is not null and has only a tilde, then split
+        if isinstance(orig_ipa, str) and ('~' in orig_ipa) and ('(' not in orig_ipa):
             split = orig_ipa.split('~')
 
             positions_list.append(split) # append list of possible outcomes to positions_list
 
         # else if orig_ipa has a set of parenthesis
+
+        elif isinstance(orig_ipa, str) and ('(' in orig_ipa):
+            split = orig_ipa.split('(')
+            positions_list.append(split)
 
         # finally if orig_ipa is not null but does not have a tilde or parenthesis, use ipa as position
         elif isinstance(orig_ipa, str):
@@ -66,6 +70,10 @@ for setting, df in consonants_grouped: # for each col in each sheet
         # if one possibility:
         if len(positions_list[0]) == 1:
             combos.append(positions_list[0][0])
+        elif ')' in positions_list[0]:
+            range_string = '('.join(positions_list[0])
+            range_string = '{}{}'.format(range_string, ')')
+            combos.append(str(range_string))
         else:
             range_string = '|'.join(positions_list[0])
             combos.append(str(range_string))
@@ -84,8 +92,13 @@ for setting, df in consonants_grouped: # for each col in each sheet
             combos = [''.join(pair) for pair in zipped]
 
 
+    if any([')' in combo for combo in combos]):
+        display = '('.join(combos)
+    else:
+        display = '|'.join(combos)
 
-    display = '|'.join(combos)
+
+
     if len(display) > 1:
         display = display.replace('∅', '')
 
@@ -104,7 +117,7 @@ for setting, df in consonants_grouped: # for each col in each sheet
                                     'environment': [setting[2]],
                                     'language': [setting[3]],
                                     'version': [setting[4]],
-                                    'display': [display],
+                                    'display': [display.replace(' ', '')],
                                     'sonority_avg': [sonority_avg],
                                     'place_avg': [place_avg],
                                     'voice_avg': [voice_avg]})
