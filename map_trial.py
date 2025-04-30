@@ -25,7 +25,6 @@ display_data['color'] = [blend_colors(r, g, b) for r, g, b in zip(display_data['
 version_sub = display_data[(display_data['treatment'] == 'B-') & (display_data['environment'] == 'V_V')]
 version_sub = version_sub[['language', 'display']]
 
-print(version_sub)
 
 app = Dash()
 

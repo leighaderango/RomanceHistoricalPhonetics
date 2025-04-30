@@ -8,74 +8,39 @@ consonants_long = pd.read_csv('all_consonants_data.csv')
 consonants_grouped = consonants_long.groupby(['number', 'treatment', 'environment', 'Languages', 'version'])
 #consonants_grouped = consonants_long.sample(1000, random_state = 42).groupby(['treatment', 'environment', 'Languages', 'version'])
 
-""" groups = [('7.0', 'C-', '#_E', 'ABR', np.float64(1.0)),
-('7.0', 'C-', '#_E', 'AMR ESP', np.float64(1.0)),
-('7.0', 'C-', '#_E', 'AND ESP', np.float64(1.0)),
-('7.0', 'C-', '#_E', 'ARG', np.float64(1.0)),
-('7.0', 'C-', '#_E', 'ARO', np.float64(1.0)),
-('7.0', 'C-', '#_E', 'ARP', np.float64(1.0)),
-('7.0', 'C-', '#_E', 'ASL', np.float64(1.0)),
-('7.0', 'C-', '#_E', 'BAL', np.float64(1.0)),
-('7.0', 'C-', '#_E', 'BR POR', np.float64(1.0)),
-('7.0', 'C-', '#_E', 'CAM', np.float64(1.0)),
-('7.0', 'C-', '#_E', 'CAS ESP', np.float64(1.0)),
-('7.0', 'C-', '#_E', 'CAT', np.float64(1.0)),
-('7.0', 'C-', '#_E', 'COR', np.float64(1.0)),
-('7.0', 'C-', '#_E', 'CPN SRD', np.float64(1.0)),
-('7.0', 'C-', '#_E', 'EU FRA', np.float64(1.0)),
-('7.0', 'C-', '#_E', 'EU POR', np.float64(1.0)),
-('7.0', 'C-', '#_E', 'FUR', np.float64(1.0)),
-('7.0', 'C-', '#_E', 'GAL', np.float64(1.0)),
-('7.0', 'C-', '#_E', 'GAS OCC', np.float64(1.0)),
-('7.0', 'C-', '#_E', 'ITA', np.float64(1.0)),
-('7.0', 'C-', '#_E', 'LAT', np.float64(1.0)),
-('7.0', 'C-', '#_E', 'LIG', np.float64(1.0)),
-('7.0', 'C-', '#_E', 'LMO', np.float64(1.0)),
-('7.0', 'C-', '#_E', 'LOG SRD', np.float64(1.0)),
-('7.0', 'C-', '#_E', 'OCC', np.float64(1.0)),
-('7.0', 'C-', '#_E', 'PGL', np.float64(1.0)),
-('7.0', 'C-', '#_E', 'QBC FRA', np.float64(1.0)),
-('7.0', 'C-', '#_E', 'RMH', np.float64(1.0)),
-('7.0', 'C-', '#_E', 'ROM', np.float64(1.0)),
-('7.0', 'C-', '#_E', 'SCN', np.float64(1.0)),
-('7.0', 'C-', '#_E', 'VAL', np.float64(1.0)),
-('7.0', 'C-', '#_E', 'VEN', np.float64(1.0)),
-('7.0', 'C-', '#_E', 'WAL', np.float64(1.0)),
-('38', 'CL-', '#_', 'ABR', np.float64(1.0)),
-('38', 'CL-', '#_', 'AMR ESP', np.float64(1.0)),
-('38', 'CL-', '#_', 'AND ESP', np.float64(1.0)),
-('38', 'CL-', '#_', 'ARG', np.float64(1.0)),
-('38', 'CL-', '#_', 'ARO', np.float64(1.0)),
-('38', 'CL-', '#_', 'ARP', np.float64(1.0)),
-('38', 'CL-', '#_', 'ASL', np.float64(1.0)),
-('38', 'CL-', '#_', 'BAL', np.float64(1.0)),
-('38', 'CL-', '#_', 'BR POR', np.float64(1.0)),
-('38', 'CL-', '#_', 'CAM', np.float64(1.0)),
-('38', 'CL-', '#_', 'CAS ESP', np.float64(1.0)),
-('38', 'CL-', '#_', 'CAT', np.float64(1.0)),
-('38', 'CL-', '#_', 'COR', np.float64(1.0)),
-('38', 'CL-', '#_', 'CPN SRD', np.float64(1.0)),
-('38', 'CL-', '#_', 'EU FRA', np.float64(1.0)),
-('38', 'CL-', '#_', 'EU FRA', np.float64(2.0)),
-('38', 'CL-', '#_', 'EU POR', np.float64(1.0)),
-('38', 'CL-', '#_', 'FUR', np.float64(1.0)),
-('38', 'CL-', '#_', 'GAL', np.float64(1.0)),
-('38', 'CL-', '#_', 'GAS OCC', np.float64(1.0)),
-('38', 'CL-', '#_', 'ITA', np.float64(1.0)),
-('38', 'CL-', '#_', 'LAT', np.float64(1.0)),
-('38', 'CL-', '#_', 'LAT', np.float64(2.0)),
-('38', 'CL-', '#_', 'LIG', np.float64(1.0)),
-('38', 'CL-', '#_', 'LMO', np.float64(1.0)),
-('38', 'CL-', '#_', 'LOG SRD', np.float64(1.0)),
-('38', 'CL-', '#_', 'OCC', np.float64(1.0)),
-('38', 'CL-', '#_', 'PGL', np.float64(1.0)),
-('38', 'CL-', '#_', 'QBC FRA', np.float64(1.0)),
-('38', 'CL-', '#_', 'RMH', np.float64(1.0)),
-('38', 'CL-', '#_', 'ROM', np.float64(1.0)),
-('38', 'CL-', '#_', 'SCN', np.float64(1.0)),
-('38', 'CL-', '#_', 'VAL', np.float64(1.0)),
-('38', 'CL-', '#_', 'VEN', np.float64(1.0)),
-('38', 'CL-', '#_', 'WAL', np.float64(1.0))]
+""" groups = [('79', '-DJ-', 'V_V', 'AMR ESP', 'a'),
+('79', '-DJ-', 'V_V', 'AMR ESP', 'b'),
+('79', '-DJ-', 'V_V', 'AND ESP', 'a'),
+('79', '-DJ-', 'V_V', 'AND ESP', 'b'),
+('79', '-DJ-', 'V_V', 'ARG', 'a'),
+('79', '-DJ-', 'V_V', 'ARG', 'b'),
+('79', '-DJ-', 'V_V', 'ARO', 'a'),
+('79', '-DJ-', 'V_V', 'ARP', 'a'),
+('79', '-DJ-', 'V_V', 'ASL', 'a'),
+('79', '-DJ-', 'V_V', 'ASL', 'b'),
+('79', '-DJ-', 'V_V', 'BAL', 'a'),
+('79', '-DJ-', 'V_V', 'BR POR', 'a'),
+('79', '-DJ-', 'V_V', 'BR POR', 'b'),
+('79', '-DJ-', 'V_V', 'CAS ESP', 'a'),
+('79', '-DJ-', 'V_V', 'CAS ESP', 'b'),
+('79', '-DJ-', 'V_V', 'CAT', 'a'),
+('79', '-DJ-', 'V_V', 'EU FRA', 'a'),
+('79', '-DJ-', 'V_V', 'EU POR', 'a'),
+('79', '-DJ-', 'V_V', 'EU POR', 'b'),
+('79', '-DJ-', 'V_V', 'GAL', 'a'),
+('79', '-DJ-', 'V_V', 'GAL', 'b'),
+('79', '-DJ-', 'V_V', 'GAS OCC', 'a'),
+('79', '-DJ-', 'V_V', 'GAS OCC', 'b'),
+('79', '-DJ-', 'V_V', 'ITA', 'a'),
+('79', '-DJ-', 'V_V', 'ITA', 'b'),
+('79', '-DJ-', 'V_V', 'LAT', 'a'),
+('79', '-DJ-', 'V_V', 'OCC', 'a'),
+('79', '-DJ-', 'V_V', 'OCC', 'b'),
+('79', '-DJ-', 'V_V', 'QBC FRA', 'a'),
+('79', '-DJ-', 'V_V', 'ROM', 'a'),
+('79', '-DJ-', 'V_V', 'SCN', 'a'),
+('79', '-DJ-', 'V_V', 'VAL', 'a'),
+('79', '-DJ-', 'V_V', 'WAL', 'a')]
 
 sub_table = [consonants_grouped.get_group(group) for group in groups]
 sub_table = pd.concat(sub_table).groupby(['number', 'treatment', 'environment', 'Languages', 'version'])
@@ -133,6 +98,7 @@ for setting, df in consonants_grouped: # for each col in each sheet
 
     # create list to store all possible display strings
     combos = []
+    print(positions_list)
 
     # if only one segment
     if len(positions_list) == 1:
@@ -147,6 +113,8 @@ for setting, df in consonants_grouped: # for each col in each sheet
             else: 
                 range_string = '~'.join(positions_list[0])
                 combos.append(str(range_string))
+
+    
 
     # if two segments:
     elif len(positions_list) == 2:
@@ -168,13 +136,18 @@ for setting, df in consonants_grouped: # for each col in each sheet
 
 
     if len(display) > 1:
-        if display[-2:] != '~∅':
+        if '∅∅' in display:
+            display = display.replace('∅∅', '∅')
+
+        if display[-2:] != '~∅' and len(display) > 1:
             display = display.replace('∅', '')
+        
+        if (display[0] == '∅') & (display[:1] != '∅~'):
+            display = display[1:]
 
 
     if len(display) == 0:
         continue
-
 
     if len(positions_list) > 1:
         sonority_avg = sonority_avg/len(df)

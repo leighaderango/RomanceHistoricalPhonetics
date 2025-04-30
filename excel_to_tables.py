@@ -31,10 +31,12 @@ for sheet_name in singles: #[0:33]
         pivot.set_index('Languages', inplace = True)
         pivot.reset_index(inplace = True)
 
-        
+        pivot = pivot.dropna(subset = ['Languages', 'Place value', 'Sonority value'])
+
+
         # deal with a/b/c versions
         pivot['version'] = pivot.groupby('Languages').cumcount().add(1)
-
+        pivot['version'] = pivot['version'].apply(lambda x:  chr(97 + int(x)-1))
 
         pivot.insert(0, 'number', number)
         pivot.insert(0, 'treatment', treatment)
@@ -43,7 +45,7 @@ for sheet_name in singles: #[0:33]
 
         # clean language names and empty rows
         pivot['Languages'] = pivot['Languages'].str.replace('\n', ' ', regex = False)
-        pivot = pivot.dropna(subset = ['Languages'])
+        
 
         single_treatment_tables.append(pivot)
 
@@ -81,6 +83,7 @@ for sheet_name in doubles:
                 elif i == 1:
                         pos_table = df.iloc[np.r_[5, 18:29], :]
                 
+
                 # pivot table so rows = cols
                 melted =  pos_table.melt(id_vars = 'A - Consonantism', var_name = 'Variable', value_name = 'Value')
                 pivot = melted.pivot(index = 'Variable', columns = 'A - Consonantism', values = 'Value')
@@ -91,7 +94,7 @@ for sheet_name in doubles:
 
                 # deal with a/b/c versions
                 pivot['version'] = pivot.groupby('Languages').cumcount().add(1)
-                pivot['version'] = pivot['version'].apply(lambda x:  chr(97 + int(x)))
+                pivot['version'] = pivot['version'].apply(lambda x:  chr(97 + int(x)-1))
 
                 pivot.insert(0, 'number', number)
                 pivot.insert(0, 'treatment', treatment)
