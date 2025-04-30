@@ -31,7 +31,7 @@ for sheet_name in singles: #[0:33]
         pivot.set_index('Languages', inplace = True)
         pivot.reset_index(inplace = True)
 
-        pivot = pivot.dropna(subset = ['Languages', 'Place value', 'Sonority value'])
+        pivot = pivot.dropna(subset = ['Languages'])
 
 
         # deal with a/b/c versions
@@ -52,7 +52,6 @@ for sheet_name in singles: #[0:33]
 
 all_df = pd.concat(single_treatment_tables, axis = 0)
 
-#all_df.to_csv('single_consonants_data.csv')
 
 
 ### two positions 
@@ -90,7 +89,7 @@ for sheet_name in doubles:
                 pivot.set_index('Languages', inplace = True)
                 pivot.reset_index(inplace = True)
 
-                pivot = pivot.dropna(subset = ['Languages', 'Place value', 'Sonority value'])
+                pivot = pivot.dropna(subset = ['Languages'])
 
                 # deal with a/b/c versions
                 pivot['version'] = pivot.groupby('Languages').cumcount().add(1)
@@ -127,7 +126,17 @@ all_consonants_data['voice'] = all_consonants_data['Voice +/−'].map({'+': 0,
                                                                       '−/+': 127.5})
 
 
-all_consonants_data.columns
+ipa_vals = pd.read_csv('IPA.csv')
+
+place_dict = dict(zip(ipa_vals['IPA'], ipa_vals['Place\nvalue']))
+place_dict['∅'] = 0
+sonority_dict = dict(zip(ipa_vals['IPA'], ipa_vals['Sonority\nvalue']))
+sonority_dict['∅'] = 0
+
+all_consonants_data['place'] = all_consonants_data['IPA'].map(place_dict)
+all_consonants_data['sonority'] = all_consonants_data['IPA'].map(sonority_dict)
+
+all_consonants_data.dropna(subset = ['place', 'sonority'], inplace = True)
 
 all_consonants_data.to_csv('all_consonants_data.csv')
 

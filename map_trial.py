@@ -22,7 +22,7 @@ def blend_colors(r, g, b):
 
 display_data['color'] = [blend_colors(r, g, b) for r, g, b in zip(display_data['sonority_scaled'], display_data['voice_avg'], display_data['place_scaled'])]
 
-version_sub = display_data[(display_data['treatment'] == 'B-') & (display_data['environment'] == 'V_V')]
+version_sub = display_data[(display_data['treatment'] == '001 B-') & (display_data['environment'] == 'V_V')]
 version_sub = version_sub[['language', 'display']]
 
 
@@ -80,7 +80,7 @@ def update_environments(treatment):
     Input('select_environment', 'value')
 )
 def update_versions(treatment, environment):
-    versions_list = display_data[(display_data['treatment'] == treatment) & (display_data['environment'] == environment)]['version'].unique().tolist()
+    versions_list = display_data[(display_data['treatment'] == treatment) & (display_data['environment'] == environment)]['version'].sort_values().unique().tolist()
     return versions_list
 
 
@@ -120,16 +120,14 @@ def update_map(selected_treatment, selected_environment, selected_version):
                     lat=city_context.geometry.x,
                     lon=city_context.geometry.y, 
                     text = 'display',
-                    hover_data={'Language Variety': True, 
-                                'latitude': False,
-                                'longitude': False,
-                                'display': False},
+                    hover_name = 'Language Variety',
+                    hover_data=['sonority_avg', 'place_avg'],
                     color = city_context['color'],
                     color_discrete_map = 'identity')
 
     fig.update_layout(geo = dict(projection_scale = 8,
-                                 center = dict(lat = 45.76, lon = 4.84))
-                        #margin=dict(t=0,l=0,b=0,r=0)
+                                 center = dict(lat = 45.76, lon = 4.84)),
+                        margin=dict(t=10,l=10,b=10,r=10)
                         )
     fig.update_traces(textfont = dict(family = 'Arial',
                                     size = 16,
@@ -139,7 +137,10 @@ def update_map(selected_treatment, selected_environment, selected_version):
     fig.update_geos(showcountries = True)
 
 
+    #version_sub = city_context.sort_values(['latitude'])
+    version_sub = pd.merge(cities_geo, version_sub, left_on = 'language_code', right_on = 'language').sort_values('longitude')
     version_sub = version_sub[['language', 'display']]
+
     columns = [{'name': i, 'id': i} for i in version_sub.columns]
     version_sub = version_sub.to_dict('records')
     mid = len(version_sub) //2 if len(version_sub) > 16 else len(version_sub)

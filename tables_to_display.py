@@ -8,44 +8,6 @@ consonants_long = pd.read_csv('all_consonants_data.csv')
 consonants_grouped = consonants_long.groupby(['number', 'treatment', 'environment', 'Languages', 'version'])
 #consonants_grouped = consonants_long.sample(1000, random_state = 42).groupby(['treatment', 'environment', 'Languages', 'version'])
 
-""" groups = [('79', '-DJ-', 'V_V', 'AMR ESP', 'a'),
-('79', '-DJ-', 'V_V', 'AMR ESP', 'b'),
-('79', '-DJ-', 'V_V', 'AND ESP', 'a'),
-('79', '-DJ-', 'V_V', 'AND ESP', 'b'),
-('79', '-DJ-', 'V_V', 'ARG', 'a'),
-('79', '-DJ-', 'V_V', 'ARG', 'b'),
-('79', '-DJ-', 'V_V', 'ARO', 'a'),
-('79', '-DJ-', 'V_V', 'ARP', 'a'),
-('79', '-DJ-', 'V_V', 'ASL', 'a'),
-('79', '-DJ-', 'V_V', 'ASL', 'b'),
-('79', '-DJ-', 'V_V', 'BAL', 'a'),
-('79', '-DJ-', 'V_V', 'BR POR', 'a'),
-('79', '-DJ-', 'V_V', 'BR POR', 'b'),
-('79', '-DJ-', 'V_V', 'CAS ESP', 'a'),
-('79', '-DJ-', 'V_V', 'CAS ESP', 'b'),
-('79', '-DJ-', 'V_V', 'CAT', 'a'),
-('79', '-DJ-', 'V_V', 'EU FRA', 'a'),
-('79', '-DJ-', 'V_V', 'EU POR', 'a'),
-('79', '-DJ-', 'V_V', 'EU POR', 'b'),
-('79', '-DJ-', 'V_V', 'GAL', 'a'),
-('79', '-DJ-', 'V_V', 'GAL', 'b'),
-('79', '-DJ-', 'V_V', 'GAS OCC', 'a'),
-('79', '-DJ-', 'V_V', 'GAS OCC', 'b'),
-('79', '-DJ-', 'V_V', 'ITA', 'a'),
-('79', '-DJ-', 'V_V', 'ITA', 'b'),
-('79', '-DJ-', 'V_V', 'LAT', 'a'),
-('79', '-DJ-', 'V_V', 'OCC', 'a'),
-('79', '-DJ-', 'V_V', 'OCC', 'b'),
-('79', '-DJ-', 'V_V', 'QBC FRA', 'a'),
-('79', '-DJ-', 'V_V', 'ROM', 'a'),
-('79', '-DJ-', 'V_V', 'SCN', 'a'),
-('79', '-DJ-', 'V_V', 'VAL', 'a'),
-('79', '-DJ-', 'V_V', 'WAL', 'a')]
-
-sub_table = [consonants_grouped.get_group(group) for group in groups]
-sub_table = pd.concat(sub_table).groupby(['number', 'treatment', 'environment', 'Languages', 'version'])
- """
-
 display_tables = []
 
 for setting, df in consonants_grouped: # for each col in each sheet
@@ -60,10 +22,10 @@ for setting, df in consonants_grouped: # for each col in each sheet
 
     for _,row in df.iterrows(): # for each segment in the column
 
-        if pd.notna(row['Sonority value']):
-            sonority_avg += row['Sonority value']
-        if pd.notna(row['Place value']):
-            place_avg += row['Place value']
+        if pd.notna(row['sonority']):
+            sonority_avg += row['sonority']
+        if pd.notna(row['place']):
+            place_avg += row['place']
         if pd.notna(row['voice']):
             voice_avg += row['voice']
 
@@ -89,7 +51,7 @@ for setting, df in consonants_grouped: # for each col in each sheet
          
          # each element of positions_list represents possible outcomes at that index of the segments
             
-    
+
     # create all versions of possible display strings
         # where phi is empty
         
@@ -98,7 +60,6 @@ for setting, df in consonants_grouped: # for each col in each sheet
 
     # create list to store all possible display strings
     combos = []
-    print(positions_list)
 
     # if only one segment
     if len(positions_list) == 1:
@@ -155,9 +116,13 @@ for setting, df in consonants_grouped: # for each col in each sheet
         voice_avg = voice_avg/len(df)
 
 
+
+    number = float(setting[0].strip('abcdefghijklmnopqrstuvwxyz'))
+
+    treatment = str(int(number)).zfill(3) + ' ' + setting[1]
     
-    display_table = pd.DataFrame({'number': float(setting[0].strip('abcdefghijklmnopqrstuvwxyz')),
-                                  'treatment': [setting[1]],
+    display_table = pd.DataFrame({'number': [number],
+                                  'treatment': [treatment],
                                     'environment': [setting[2]],
                                     'language': [setting[3]],
                                     'version': [setting[4]],
@@ -167,8 +132,8 @@ for setting, df in consonants_grouped: # for each col in each sheet
                                     'voice_avg': [voice_avg]})
 
 
-    display_tables.append(display_table) 
 
+    display_tables.append(display_table) 
 
 
 all_displays = pd.concat(display_tables, axis = 0).sort_values(by = 'number')
