@@ -61,7 +61,9 @@ for setting, df in consonants_grouped: # for each col in each sheet
         # CL- #_ ARP is an example of two tildes, should show tl|kj
     
 
-    
+    ### fix parenthesis for single consonant
+
+
     # create list to store all possible display strings
     combos = []
 
@@ -69,14 +71,15 @@ for setting, df in consonants_grouped: # for each col in each sheet
     if len(positions_list) == 1:
         # if one possibility:
         if len(positions_list[0]) == 1:
+            # add only possibility to combos
             combos.append(positions_list[0][0])
-        elif ')' in positions_list[0]:
-            range_string = '('.join(positions_list[0])
-            range_string = '{}{}'.format(range_string, ')')
-            combos.append(str(range_string))
         else:
-            range_string = '|'.join(positions_list[0])
-            combos.append(str(range_string))
+            if any([')' in position for position in positions_list[0]]):
+                range_string = '('.join(positions_list[0])
+                combos.append(str(range_string))
+            else: 
+                range_string = '|'.join(positions_list[0])
+                combos.append(str(range_string))
 
     # if two segments:
     elif len(positions_list) == 2:
@@ -98,7 +101,6 @@ for setting, df in consonants_grouped: # for each col in each sheet
         display = '|'.join(combos)
 
 
-
     if len(display) > 1:
         display = display.replace('∅', '')
 
@@ -110,6 +112,7 @@ for setting, df in consonants_grouped: # for each col in each sheet
         sonority_avg = sonority_avg/len(df)
         place_avg = place_avg/len(df)
         voice_avg = voice_avg/len(df)
+
 
     
     display_table = pd.DataFrame({'number': float(setting[0].strip('abcdefghijklmnopqrstuvwxyz')),

@@ -10,6 +10,8 @@ cities_geo = gpd.GeoDataFrame(cities, geometry = gpd.points_from_xy(cities['lati
 
 display_data = pd.read_csv('display_data.csv')
 
+#filter = display_data[(display_data['treatment'] == 'T-') & (display_data['environment'] == '#_E')]
+#print(filter)
 
 display_data['sonority_scaled'] = (display_data['sonority_avg'] - display_data['sonority_avg'].min()) / (display_data['sonority_avg'].max() - display_data['sonority_avg'].min())
 display_data['place_scaled'] = (display_data['place_avg'] - display_data['place_avg'].min()) / (display_data['place_avg'].max() - display_data['place_avg'].min())
