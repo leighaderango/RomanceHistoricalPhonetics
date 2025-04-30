@@ -1,14 +1,85 @@
 import pandas as pd
 from itertools import product
-import re
+import numpy as np
 
 consonants_long = pd.read_csv('all_consonants_data.csv')
-
 
 
 consonants_grouped = consonants_long.groupby(['number', 'treatment', 'environment', 'Languages', 'version'])
 #consonants_grouped = consonants_long.sample(1000, random_state = 42).groupby(['treatment', 'environment', 'Languages', 'version'])
 
+""" groups = [('7.0', 'C-', '#_E', 'ABR', np.float64(1.0)),
+('7.0', 'C-', '#_E', 'AMR ESP', np.float64(1.0)),
+('7.0', 'C-', '#_E', 'AND ESP', np.float64(1.0)),
+('7.0', 'C-', '#_E', 'ARG', np.float64(1.0)),
+('7.0', 'C-', '#_E', 'ARO', np.float64(1.0)),
+('7.0', 'C-', '#_E', 'ARP', np.float64(1.0)),
+('7.0', 'C-', '#_E', 'ASL', np.float64(1.0)),
+('7.0', 'C-', '#_E', 'BAL', np.float64(1.0)),
+('7.0', 'C-', '#_E', 'BR POR', np.float64(1.0)),
+('7.0', 'C-', '#_E', 'CAM', np.float64(1.0)),
+('7.0', 'C-', '#_E', 'CAS ESP', np.float64(1.0)),
+('7.0', 'C-', '#_E', 'CAT', np.float64(1.0)),
+('7.0', 'C-', '#_E', 'COR', np.float64(1.0)),
+('7.0', 'C-', '#_E', 'CPN SRD', np.float64(1.0)),
+('7.0', 'C-', '#_E', 'EU FRA', np.float64(1.0)),
+('7.0', 'C-', '#_E', 'EU POR', np.float64(1.0)),
+('7.0', 'C-', '#_E', 'FUR', np.float64(1.0)),
+('7.0', 'C-', '#_E', 'GAL', np.float64(1.0)),
+('7.0', 'C-', '#_E', 'GAS OCC', np.float64(1.0)),
+('7.0', 'C-', '#_E', 'ITA', np.float64(1.0)),
+('7.0', 'C-', '#_E', 'LAT', np.float64(1.0)),
+('7.0', 'C-', '#_E', 'LIG', np.float64(1.0)),
+('7.0', 'C-', '#_E', 'LMO', np.float64(1.0)),
+('7.0', 'C-', '#_E', 'LOG SRD', np.float64(1.0)),
+('7.0', 'C-', '#_E', 'OCC', np.float64(1.0)),
+('7.0', 'C-', '#_E', 'PGL', np.float64(1.0)),
+('7.0', 'C-', '#_E', 'QBC FRA', np.float64(1.0)),
+('7.0', 'C-', '#_E', 'RMH', np.float64(1.0)),
+('7.0', 'C-', '#_E', 'ROM', np.float64(1.0)),
+('7.0', 'C-', '#_E', 'SCN', np.float64(1.0)),
+('7.0', 'C-', '#_E', 'VAL', np.float64(1.0)),
+('7.0', 'C-', '#_E', 'VEN', np.float64(1.0)),
+('7.0', 'C-', '#_E', 'WAL', np.float64(1.0)),
+('38', 'CL-', '#_', 'ABR', np.float64(1.0)),
+('38', 'CL-', '#_', 'AMR ESP', np.float64(1.0)),
+('38', 'CL-', '#_', 'AND ESP', np.float64(1.0)),
+('38', 'CL-', '#_', 'ARG', np.float64(1.0)),
+('38', 'CL-', '#_', 'ARO', np.float64(1.0)),
+('38', 'CL-', '#_', 'ARP', np.float64(1.0)),
+('38', 'CL-', '#_', 'ASL', np.float64(1.0)),
+('38', 'CL-', '#_', 'BAL', np.float64(1.0)),
+('38', 'CL-', '#_', 'BR POR', np.float64(1.0)),
+('38', 'CL-', '#_', 'CAM', np.float64(1.0)),
+('38', 'CL-', '#_', 'CAS ESP', np.float64(1.0)),
+('38', 'CL-', '#_', 'CAT', np.float64(1.0)),
+('38', 'CL-', '#_', 'COR', np.float64(1.0)),
+('38', 'CL-', '#_', 'CPN SRD', np.float64(1.0)),
+('38', 'CL-', '#_', 'EU FRA', np.float64(1.0)),
+('38', 'CL-', '#_', 'EU FRA', np.float64(2.0)),
+('38', 'CL-', '#_', 'EU POR', np.float64(1.0)),
+('38', 'CL-', '#_', 'FUR', np.float64(1.0)),
+('38', 'CL-', '#_', 'GAL', np.float64(1.0)),
+('38', 'CL-', '#_', 'GAS OCC', np.float64(1.0)),
+('38', 'CL-', '#_', 'ITA', np.float64(1.0)),
+('38', 'CL-', '#_', 'LAT', np.float64(1.0)),
+('38', 'CL-', '#_', 'LAT', np.float64(2.0)),
+('38', 'CL-', '#_', 'LIG', np.float64(1.0)),
+('38', 'CL-', '#_', 'LMO', np.float64(1.0)),
+('38', 'CL-', '#_', 'LOG SRD', np.float64(1.0)),
+('38', 'CL-', '#_', 'OCC', np.float64(1.0)),
+('38', 'CL-', '#_', 'PGL', np.float64(1.0)),
+('38', 'CL-', '#_', 'QBC FRA', np.float64(1.0)),
+('38', 'CL-', '#_', 'RMH', np.float64(1.0)),
+('38', 'CL-', '#_', 'ROM', np.float64(1.0)),
+('38', 'CL-', '#_', 'SCN', np.float64(1.0)),
+('38', 'CL-', '#_', 'VAL', np.float64(1.0)),
+('38', 'CL-', '#_', 'VEN', np.float64(1.0)),
+('38', 'CL-', '#_', 'WAL', np.float64(1.0))]
+
+sub_table = [consonants_grouped.get_group(group) for group in groups]
+sub_table = pd.concat(sub_table).groupby(['number', 'treatment', 'environment', 'Languages', 'version'])
+ """
 
 display_tables = []
 
@@ -59,10 +130,6 @@ for setting, df in consonants_grouped: # for each col in each sheet
         
         # ex. QU- #_a' RMH should show k|kw
         # CL- #_ ARP is an example of two tildes, should show tl|kj
-    
-
-    ### fix parenthesis for single consonant
-
 
     # create list to store all possible display strings
     combos = []
@@ -78,7 +145,7 @@ for setting, df in consonants_grouped: # for each col in each sheet
                 range_string = '('.join(positions_list[0])
                 combos.append(str(range_string))
             else: 
-                range_string = '|'.join(positions_list[0])
+                range_string = '~'.join(positions_list[0])
                 combos.append(str(range_string))
 
     # if two segments:
@@ -91,18 +158,19 @@ for setting, df in consonants_grouped: # for each col in each sheet
         elif (len(positions_list[0]) == 2 or len(positions_list[1]) == 2): 
             combos = [''.join(pair) for pair in product(*positions_list)]
         else:
-            zipped = zip(positions_list[0][0], positions_list[1][0])
-            combos = [''.join(pair) for pair in zipped]
+            combos = [''.join(item for sublist in positions_list for item in sublist)]
 
 
     if any([')' in combo for combo in combos]):
         display = '('.join(combos)
     else:
-        display = '|'.join(combos)
+        display = '~'.join(combos)
 
 
     if len(display) > 1:
-        display = display.replace('∅', '')
+        if display[-2:] != '~∅':
+            display = display.replace('∅', '')
+
 
     if len(display) == 0:
         continue
@@ -129,8 +197,8 @@ for setting, df in consonants_grouped: # for each col in each sheet
     display_tables.append(display_table) 
 
 
-all_displays = pd.concat(display_tables, axis = 0).sort_values(by = 'number')
 
+all_displays = pd.concat(display_tables, axis = 0).sort_values(by = 'number')
 
 
 all_displays.to_csv('display_data.csv')

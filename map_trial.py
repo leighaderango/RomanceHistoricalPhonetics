@@ -25,6 +25,7 @@ display_data['color'] = [blend_colors(r, g, b) for r, g, b in zip(display_data['
 version_sub = display_data[(display_data['treatment'] == 'B-') & (display_data['environment'] == 'V_V')]
 version_sub = version_sub[['language', 'display']]
 
+print(version_sub)
 
 app = Dash()
 
@@ -50,7 +51,7 @@ app.layout = html.Div(children=[
 
     html.Div(children = [
              html.Label('Version'),
-             dcc.Dropdown(value = 1,
+             dcc.Dropdown(value = 'a',
                           id = 'select_version')
                           ]),
 
@@ -103,7 +104,7 @@ def update_map(selected_treatment, selected_environment, selected_version):
         if selected_version in df['version'].unique().tolist():
             select_version = selected_version
         else:
-            select_version = 1
+            select_version = 'a'
         
         lang_table = df[df['version'] == select_version]
         version_tables.append(lang_table)
@@ -128,7 +129,9 @@ def update_map(selected_treatment, selected_environment, selected_version):
                     color_discrete_map = 'identity')
 
     fig.update_layout(geo = dict(projection_scale = 8,
-                                 center = dict(lat = 45.76, lon = 4.84)))
+                                 center = dict(lat = 45.76, lon = 4.84))
+                        #margin=dict(t=0,l=0,b=0,r=0)
+                        )
     fig.update_traces(textfont = dict(family = 'Arial',
                                     size = 16,
                                     color = 'black'),

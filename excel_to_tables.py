@@ -35,6 +35,7 @@ for sheet_name in singles: #[0:33]
         # deal with a/b/c versions
         pivot['version'] = pivot.groupby('Languages').cumcount().add(1)
 
+
         pivot.insert(0, 'number', number)
         pivot.insert(0, 'treatment', treatment)
         pivot.insert(1, 'environment', environment)
@@ -86,9 +87,11 @@ for sheet_name in doubles:
                 pivot.set_index('Languages', inplace = True)
                 pivot.reset_index(inplace = True)
 
-                
+                pivot = pivot.dropna(subset = ['Languages', 'Place value', 'Sonority value'])
+
                 # deal with a/b/c versions
                 pivot['version'] = pivot.groupby('Languages').cumcount().add(1)
+                pivot['version'] = pivot['version'].apply(lambda x:  chr(97 + int(x)))
 
                 pivot.insert(0, 'number', number)
                 pivot.insert(0, 'treatment', treatment)
@@ -97,7 +100,6 @@ for sheet_name in doubles:
 
                 # clean language names and empty rows
                 pivot['Languages'] = pivot['Languages'].str.replace('\n', ' ', regex = False)
-                pivot = pivot.dropna(subset = ['Languages'])
 
                 treatment_tables.append(pivot)
         
