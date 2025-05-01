@@ -119,7 +119,7 @@ for setting, df in consonants_grouped: # for each col in each sheet
 
     number = float(setting[0].strip('abcdefghijklmnopqrstuvwxyz'))
 
-    treatment = str(int(number)).zfill(3) + ' ' + setting[1]
+    treatment =  setting[1]
     
     display_table = pd.DataFrame({'number': [number],
                                   'treatment': [treatment],

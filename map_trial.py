@@ -10,6 +10,24 @@ cities_geo = gpd.GeoDataFrame(cities, geometry = gpd.points_from_xy(cities['lati
 
 display_data = pd.read_csv('display_data.csv')
 
+# group by treatment, find min and max number, add to treatment var
+treatment_range = display_data.groupby('treatment')['number'].agg(['min', 'max']).reset_index()
+
+treatment_dict = {}
+for treatment,row in treatment_range.iterrows():
+    key = row['treatment']
+
+    if row['min'] == row['max']:
+        string =  str(int(row['min'])).zfill(3) + ' ' + key   
+        treatment_dict[key] = string
+
+    else:
+        string = str(int(row['min'])).zfill(3) + '-' + str(int(row['max'])).zfill(3) + ' ' + key
+        treatment_dict[key] = string
+
+display_data['treatment'] = display_data['treatment'].map(treatment_dict)
+
+
 #filter = display_data[(display_data['treatment'] == 'T-') & (display_data['environment'] == '#_E')]
 #print(filter)
 
@@ -22,7 +40,7 @@ def blend_colors(r, g, b):
 
 display_data['color'] = [blend_colors(r, g, b) for r, g, b in zip(display_data['sonority_scaled'], display_data['voice_avg'], display_data['place_scaled'])]
 
-version_sub = display_data[(display_data['treatment'] == '001 B-') & (display_data['environment'] == 'V_V')]
+version_sub = display_data[(display_data['treatment'] == '001-002 B-') & (display_data['environment'] == 'V_V')]
 version_sub = version_sub[['language', 'display']]
 
 
@@ -38,7 +56,7 @@ app.layout = html.Div(children=[
     html.Div(children = [
         html.Label('Treatment'),
         dcc.Dropdown(display_data.sort_values(by = 'number')['treatment'].unique().tolist(),
-                     value = 'B-',
+                     value = '001-002 B-',
                      id = 'select_treatment')
         ]),
 
