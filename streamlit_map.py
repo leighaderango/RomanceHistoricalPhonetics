@@ -157,4 +157,4 @@ with col2:
         st.dataframe(col2_data, use_container_width=True, hide_index=True)
 
 
-st.write('Data compiled digitally by Tim Bertucci (tbertucci@luc.edu), app created by Leigha DeRango (lderango@luc.edu)')
+st.write('Data compiled digitally by Tim Bertucci (tbertucci@luc.edu), app created by Leigha DeRango (lderango@luc.edu), in collaboration with Loyola University Chicago Center for Data Science and Consulting (data@luc.edu)')
