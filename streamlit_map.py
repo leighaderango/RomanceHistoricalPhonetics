@@ -60,8 +60,8 @@ display_data["color"] = [
 # -------------------------------
 # Streamlit UI
 # -------------------------------
-st.title("QDFH")
-st.write("A visual presentation of Latin consonants across the Romance languages")
+st.title("Digitally Mapping Romance Phonetic Outcomes")
+st.write("A visual presentation of the modern pronunciation of Latin consonants across the Romance languages, inspired by the L'Atlas Linguistique Roman (ALiR) 1987")
 
 # Dropdowns
 treatment = st.selectbox(
@@ -156,3 +156,5 @@ with col2:
     if not col2_data.empty:
         st.dataframe(col2_data, use_container_width=True, hide_index=True)
 
+
+st.write('Data compiled digitally by Tim Bertucci (tbertucci@luc.edu), app created by Leigha DeRango (lderango@luc.edu)')
