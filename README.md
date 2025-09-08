@@ -1,3 +1,7 @@
-# RomanceHistoricalPhonetics
+# Digitally Mapping Romance Phonetic Outcomes
 
-Helping Tim Bertucci with his masters project, digitally mapping the development of latin consonant sounds across the romance languages
+A visual presentation of the modern pronunciation of Latin consonants across the Romance languages, inspired by the L'Atlas Linguistique Roman (ALiR) 1987
+
+View the app here: https://digital-qdfh.streamlit.app/
+
+Data compiled digitally by Tim Bertucci, code by Leigha DeRango
