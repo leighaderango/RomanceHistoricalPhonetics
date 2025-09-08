@@ -1,8 +1,8 @@
+import streamlit as st
 import plotly.express as px
 import geopandas as gpd
 import pandas as pd
 from dash import Dash, dcc, html, Output, Input, callback, dash_table
-import itertools
 
 cities = pd.read_csv('languageCities.csv', encoding = 'utf-8')
 
@@ -40,7 +40,7 @@ def blend_colors(r, g, b):
 
 display_data['color'] = [blend_colors(r, g, b) for r, g, b in zip(display_data['sonority_scaled'], display_data['voice_avg'], display_data['place_scaled'])]
 
-version_sub = display_data[(display_data['treatment'] == '001-002 B-') & (display_data['environment'] == 'V_V')]
+version_sub = display_data[(display_data['treatment'] == '001-002 B-') & (display_data['environment'] == '#_{a,O}')]
 version_sub = version_sub[['language', 'display']]
 
 
@@ -158,6 +158,7 @@ def update_map(selected_treatment, selected_environment, selected_version):
     #version_sub = city_context.sort_values(['latitude'])
     version_sub = pd.merge(cities_geo, version_sub, left_on = 'language_code', right_on = 'language').sort_values('longitude')
     version_sub = version_sub[['language', 'display']]
+    
 
     columns = [{'name': i, 'id': i} for i in version_sub.columns]
     version_sub = version_sub.to_dict('records')
@@ -172,5 +173,3 @@ def update_map(selected_treatment, selected_environment, selected_version):
     return fig, table1, table2
 
 
-if __name__ == '__main__':
-    app.run(debug=True)
