@@ -143,7 +143,8 @@ st.plotly_chart(fig, width='stretch')
 version_sub = pd.merge(
     cities_geo, version_sub, left_on="language_code", right_on="language"
 ).sort_values("longitude")
-version_sub = version_sub[["language", "display"]]
+
+version_sub = version_sub[["Language Variety", "display"]]
 
 mid = len(version_sub) // 2 if len(version_sub) > 16 else len(version_sub)
 col1_data = version_sub.iloc[:mid]
@@ -151,10 +152,10 @@ col2_data = version_sub.iloc[mid:] if len(version_sub) > 16 else pd.DataFrame()
 
 col1, col2 = st.columns(2)
 with col1:
-    st.dataframe(col1_data, use_container_width=True, hide_index=True)
+    st.dataframe(col1_data, width='stretch', hide_index=True)
 with col2:
     if not col2_data.empty:
-        st.dataframe(col2_data, use_container_width=True, hide_index=True)
+        st.dataframe(col2_data, width='stretch', hide_index=True)
 
 
 st.write('Data compiled digitally by Tim Bertucci (tbertucci@luc.edu), app created by Leigha DeRango (lderango@luc.edu), in collaboration with Loyola University Chicago Center for Data Science and Consulting (data@luc.edu)')
