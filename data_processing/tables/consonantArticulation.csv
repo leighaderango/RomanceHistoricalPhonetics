@@ -1,0 +1,19 @@
+,articulation_manner,consonantality_value,description
+0,PP,5.0,Geminate plosive
+1,P,4.0,Plosive
+2,PP͡F,3.75,Geminate affricate
+3,P͡F,3.0,Affricate
+4,FF,2.5,Geminate fricative
+5,F,2.0,Fricative
+6,RRR,1.875,Geminate trill
+7,NN,1.5625,Geminate nasal
+8,RR,1.5,Trill
+9,N,1.25,Nasal
+10,R,1.0,Tap/flap
+11,LL,0.9375,Geminate lateral approximant
+12,L,0.75,Lateral approximant
+13,WW,0.625,Geminate approximant
+14,W,0.5,Approximant
+15,GG,0.46875,Geminate glide/semivowel
+16,G,0.375,Glide/semivowel
+17,∅,0.0,Zero/Absorption into vowel

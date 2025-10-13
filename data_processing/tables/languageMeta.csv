@@ -1,0 +1,33 @@
+,language_name,language_code,parent_language,rep_city,latitude,longitude
+0,EU Portuguese,EU POR,POR,"Lisbon, PT",38.725278,-9.15
+1,Brazilian Portuguese,BR POR,POR,"São Paulo, BR",-23.55,-46.633333
+2,Galician,GAL,GAL,"Santiago de Compostela, ES",42.877778,-8.544444
+3,Astur-Leonese,ASL,ASL,"Oviedo, ES",43.36,-5.845
+4,Castilian Spanish,CAS ESP,ESP,"Madrid, ES",40.416944,-3.703333
+5,Andalusian Spanish,AND ESP,ESP,"Málaga, ES",36.719444,-4.42
+6,American Spanish,AMR ESP,ESP,"Bogotá, CO",4.711111,-74.072222
+7,Aragonese,ARG,ARG,"Zaragoza, ES",41.65,-0.883333
+8,Catalan,CAT,CVB,"Barcelona, ES",41.383333,2.183333
+9,Valencian,VAL,CVB,"Valencia, ES",39.47,-0.376389
+10,Balearic,BAL,CVB,"Palma, ES",39.566667,2.65
+11,Occitan,OCC,OCI,"Toulouse, FR",43.6045,1.444
+12,Gascon,GAS OCC,OCI,"Bordeaux, FR",44.84,-0.58
+13,EU French,EU FRA,FRA,"Paris, FR",48.856667,2.352222
+14,Québécois French,QBC FRA,FRA,"Montréal, CA",45.508889,-73.554167
+15,Walloon,WAL,WAL,"Namur, BE",50.466667,4.866667
+16,Arpitan,ARP,ARP,"Lyon, FR",45.76,4.84
+17,Ligurian,LIG,LIG,"Genoa, IT",44.411111,8.932778
+18,Lombard,LMO,LMO,"Milan, IT",45.466944,9.19
+19,Romansh,RMH,RMH,"Chur, CH",46.85,9.533333
+20,Friulian,FUR,FUR,"Udine, IT",46.066667,13.233333
+21,Logudorese Sardinian,LOG SRD,SRD,"Nuoro, IT",40.316667,9.333333
+22,Campidanese Sardinian,CPN SRD,SRD,"Cagliari, IT",39.227778,9.111111
+23,Corsican,COR,COR,"Ajaccio, FR",41.9267,8.7369
+24,Italian,ITA,ITA,"Florence, IT",43.771389,11.254167
+25,Abruzzese,ABR,ABR,"Pescara, IT",42.463889,14.214167
+26,Campanan,CAM,CAM,"Naples, IT",40.835833,14.248611
+27,Pugliese,PGL,PGL,"Bari, IT",41.125278,16.866667
+28,Sicilian,SCN,SCN,"Palermo, IT",38.111111,13.351667
+29,Venetan,VEN,VEN,"Venice, IT",45.4375,12.335833
+30,Aromanian,ARO,ARO,"Metsovo, GR",39.770278,21.183889
+31,Romanian,ROM,ROM,"Bucharest, RO",44.4325,26.103889
