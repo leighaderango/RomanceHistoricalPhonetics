@@ -9,46 +9,35 @@ Data compiled digitally by Tim Bertucci, code by Leigha DeRango
 
 ## Environment Setup
 
-There are two ways to set up the development environment:
+Requires **Python 3.13**. Install it from [python.org](https://www.python.org/downloads/) if needed.
 
-### Option 1: Using Conda (Recommended)
-
-1. Install [Anaconda](https://www.anaconda.com/download) or [Miniconda](https://docs.conda.io/en/latest/miniconda.html)
-
-2. Clone the repository:
+1. Clone the repository:
    ```bash
    git clone https://github.com/leighaderango/RomanceHistoricalPhonetics.git
    cd RomanceHistoricalPhonetics
    ```
 
-3. Create and activate the Conda environment:
-   ```bash
-   conda env create -f environment.yml
-   conda activate romance_phonetics
-   ```
-
-### Option 2: Using pip and venv
-
-1. Ensure you have Python 3.10 or later installed
-
-2. Clone the repository:
-   ```bash
-   git clone https://github.com/leighaderango/RomanceHistoricalPhonetics.git
-   cd RomanceHistoricalPhonetics
-   ```
-
-3. Create and activate a virtual environment:
+2. Create and activate a virtual environment:
    ```bash
    python -m venv .venv
    # On Windows:
    .venv\Scripts\activate
-   # On Unix or MacOS:
+   # On macOS/Linux:
    source .venv/bin/activate
    ```
 
-4. Install the required packages:
+3. Install dependencies:
    ```bash
    pip install -r requirements.txt
    ```
+
+4. Run the app locally:
+   ```bash
+   streamlit run streamlit_map.py
+   ```
+
+## Deployment
+
+The app is deployed on [Streamlit Community Cloud](https://streamlit.io/cloud). The `runtime.txt` file in the repo root pins the Python version used at build time.
 
 
