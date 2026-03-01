@@ -1,0 +1,821 @@
+{
+  "001 B-": {
+    "b // #_{a,O}": [
+      "typically /b/"
+    ]
+  },
+  "002 B-": {
+    "b // #_E": [
+      "typically /b/"
+    ]
+  },
+  "003 T-": {
+    "003a: t // #_{ĕNC,ē,ĭ}": [
+      "typically /t/"
+    ],
+    "003b: t / ? / #_{ĕ²}": [
+      "typically /t/",
+      "/t͡s/ in ARO,ROM"
+    ],
+    "003c: t / ? / #_ī": [
+      "typically /t/",
+      "/t͡ʃ/ in BR.POR",
+      "/t͡s/ in ARO,ROM,QBC.FRA"
+    ],
+    "Romanian: t͡s̪": [
+      "1) ē; ĭ; stressed /ĕ/~/æ/ followed by a cluster /NC/ (> ERom. /e/)",
+      "2) stressed /ĕ/~/æ/ *not* followed by a cluster /NC/ (> ERom. /je/)",
+      "3) i + vowel (consonantal /i/) (> ERom. /j/)",
+      "4) long /i:/ (> ERom. /i/), if not elided"
+    ]
+  },
+  "004 T-": {
+    "004a: t // #_{a,o,ŭ}": [
+      "typically /t/"
+    ],
+    "004b: t // #_ū": [
+      "typically /t/"
+    ]
+  },
+  "005 D-": {
+    "005a: d // #_{ĕNC,ē,ĭ}": [
+      "typically /d/"
+    ],
+    "005b: d /? / #_{ĕ³}": [
+      "typically /d/",
+      "/d͡z/ in ARO, /z/ in ROM"
+    ],
+    "005c: d / ? / #_ī": [
+      "typically /d/",
+      "/d͡ʒ/ in BR.POR",
+      "/d͡z/ in ARO, QBC.FRA, /z/ in ROM"
+    ],
+    "Romanian: t͡s̪": [
+      "1) ē; ĭ; stressed /ĕ/~/æ/ followed by a cluster /NC/ (> ERom. /e/)",
+      "2) stressed /ĕ/~/æ/ *not* followed by a cluster /NC/ (> ERom. /je/)",
+      "3) i + vowel (consonantal /i/) (> ERom. /j/)",
+      "4) long /i:/ (> ERom. /i/), if not elided"
+    ]
+  },
+  "006 D-": {
+    "006a: d // #_{a,o,ŭ}": [
+      "typically /d/"
+    ],
+    "006b: d // #_ū": [
+      "typically /t/"
+    ]
+  },
+  "007 C-": {
+    "007a: k / ? / #_{e,ĭ}": [
+      "/k/ in LOG.SRD, DAL",
+      "/t͡ʃ/ in ITA, ROM",
+      "/s/ in POR, AND.ESP, AMR.ESP, CVB, FRA",
+      "/θ/ in CAS.ESP"
+    ],
+    "007b: k / ? / #_ī": [
+      "/k/ in LOG.SRD",
+      "/t͡ʃ/ in ITA, ROM",
+      "/s/ in POR, AND.ESP, AMR.ESP, CVB, FRA",
+      "/θ/ in CAS.ESP"
+    ]
+  },
+  "008 C-": {
+    "008a: k / ? / #_a": [
+      "typically /k/",
+      "palatalized to /(t)ʃ/ in Gallo-Romance"
+    ],
+    "008b: k / ɡ / #_a": [
+      "typically /ɡ/",
+      "palatalized to /(d)ʒ/ in Gallo-Romance"
+    ]
+  },
+  "009 C-": {
+    "009a: k // #_{o,ŭ}": [
+      "typically /k/"
+    ],
+    "009b: k / ɡ / #_{o,ŭ}": [
+      "typically /ɡ/"
+    ]
+  },
+  "010 C-": {
+    "k // #_ū": [
+      "typically /k/"
+    ]
+  },
+  "011 G-": {
+    "ɡ / ? / ˈ#_E": [
+      "typically palatalized to /(d̠͡)ʒ/",
+      "/ɟ͡ʝ/ in ESP"
+    ]
+  },
+  "012 G-": {
+    "g / ? / #_E.ˈ": [
+      "typically palatalized to /(d̠͡)ʒ/",
+      "∅ in ESP"
+    ]
+  },
+  "013 G-": {
+    "ɡ / ? / #_a": [
+      "typically /ɡ/",
+      "palatalized to /(d̠͡)ʒ/ in Gallo-Romance"
+    ]
+  },
+  "014 G-": {
+    "ɡ // #_O": [
+      "typically /ɡ/"
+    ]
+  },
+  "015 N-": {
+    "n // #_E": [
+      "typically /n/"
+    ]
+  },
+  "016 N-": {
+    "n // #_{a,O}": [
+      "typically /n/"
+    ]
+  },
+  "016.5 M-": {
+    "m // #_": [
+      "typically /m/"
+    ]
+  },
+  "017 F-": {
+    "f / ? / ˈ#_{ĕ,ŏ}": [
+      "typically /f/"
+    ],
+    "17b: FŎSSA > Spanish huesa, against expected /f/ (cf. also fosa)": []
+  },
+  "018 F-": {
+    "f / ? / #_{a,ē,i,ō,u}": [
+      "typically /f/",
+      "∅ in ESP"
+    ]
+  },
+  "019 V-": {
+    "w // #_E": [
+      "typically /v/"
+    ]
+  },
+  "020 V-": {
+    "020a: w // #_{a,O}": [
+      "typically /v/"
+    ],
+    "020b: w / ? / #_{a,O}": [
+      "typically /v/",
+      "/h/ in ROM"
+    ]
+  },
+  "021 S-": {
+    "021a: s // ˈ#_{ĕNC,ē,ĭ}": [
+      "typically /s/"
+    ],
+    "021b: s / ? / ˈ#_{ĕ³,ī}": [
+      "typically /s/",
+      "/ʃ/ in ROM"
+    ],
+    "Romanian:": [
+      "1) long /i:/ (> ERom. /i/), if not elided.",
+      "2) i + vowel (consonantal /i/) (> ERom. /j/)",
+      "3) stressed short /e/ ~ /ae/ *not* followed by a nasal cluster /NC/ (> ERom. /je/)"
+    ]
+  },
+  "022 S-": {
+    "022a: s // #_{ē,ĭ}ˈ": [
+      "typically /s/"
+    ],
+    "022b: s / ? / #_{ī,j}ˈ": [
+      "typically /s/",
+      "/ʃ/ in ROM"
+    ],
+    "Romanian:": [
+      "1) long /i:/ (> ERom. /i/), if not elided.",
+      "2) i + vowel (consonantal /i/) (> ERom. /j/)"
+    ]
+  },
+  "023 S-": {
+    "s / ? / #_{a,O}": [
+      "typically /s/"
+    ]
+  },
+  "024 H-": {
+    "h / ∅ / #_": [
+      "almost always silent"
+    ],
+    "(024a: Germanic-derived words)": [],
+    "(024b: native Latin-derived words)": []
+  },
+  "025 R-": {
+    "r / ? / #_": [
+      "typically /r/",
+      "/ʁ~ʀ/ in EU.POR, FRA",
+      "/x~h/ in BR.POR"
+    ]
+  },
+  "026 L-": {
+    "026a: l / ? / #_e": [
+      "typically /l/",
+      "/ȴ/ [ʎ̟] in CVB"
+    ],
+    "026b: l / ? / #_ĭ": [
+      "typically /l/",
+      "/ȴ/ [ʎ̟] in CVB"
+    ],
+    "026c: l / ? / #_ī": [
+      "typically /l/",
+      "/ȴ/ [ʎ̟] in CVB, RMH"
+    ]
+  },
+  "027 L-": {
+    "027a: l / ? / #_{a,o,ŭ}": [
+      "typically /l/",
+      "/ȴ/ [ʎ̟] in CVB"
+    ],
+    "027b: l / ? / #_ū": [
+      "typically /l/",
+      "/ȴ/ [ʎ̟] in CVB, RMH"
+    ]
+  },
+  "028 J-": {
+    "j / ? / #_O": [
+      "typically palatalized to /(d̠͡)ʒ/",
+      "/x~h/ in ESP"
+    ]
+  },
+  "029 J-": {
+    "j / ? / #_{a,E}ˈ": [
+      "typically palatalized to /(d̠͡)ʒ/",
+      "∅ in ESP"
+    ]
+  },
+  "030 J-": {
+    "j / ? / ˈ#_{a,E}": [
+      "typically palatalized to /(d̠͡)ʒ/",
+      "/ɟ͡ʝ/ in ESP"
+    ]
+  },
+  "031a W-": {
+    "031a: w / ? / #_E": [
+      "typically /ɡ/",
+      "/ɡw/ in ITA"
+    ],
+    "https://en.wiktionary.org/w/index.php?title=Category:Latin_terms_spelled_with_W&from=W": []
+  },
+  "031b W-": {
+    "031b: w / ? / #_{a,O}": [
+      "typically /ɡw/",
+      "/ɡ/ in FRA"
+    ],
+    "https://en.wiktionary.org/w/index.php?title=Category:Latin_terms_spelled_with_W&from=W": []
+  },
+  "032 PL-": {
+    "032a: pl / ? / #_{a,e,O}\n032b: pl / ? / #_i": [
+      "/pl/ in CVB, FRA, ROM",
+      "/ʃ/ in POR",
+      "/pj/ in ITA",
+      "/ʎ~ɟ͡ʝ/ in ESP"
+    ]
+  },
+  "033 BR-": {
+    "bɾ // #_": [
+      "typically /bɾ/"
+    ]
+  },
+  "034 BL-": {
+    "034a: bl / ? / #_{a,e,O}": [
+      "/bl/ in ESP, CVB, FRA, ROM",
+      "/bj/ in ITA",
+      "/bɾ/ in POR"
+    ],
+    "034b: bl / ? / #_i": [],
+    "034c: bl / ? / #_": []
+  },
+  "035 TR-": {
+    "tɾ // #_": [
+      "typically /tɾ/"
+    ]
+  },
+  "036 DR-": {
+    "dɾ // #_": [
+      "typically /dɾ/"
+    ]
+  },
+  "037 CR-": {
+    "037a: kɾ // #_": [
+      "typically /kɾ/"
+    ],
+    "037b: kɾ / ɡr / #_": [
+      "typically voiced to /ɡr/"
+    ]
+  },
+  "038 CL-": {
+    "038a: kl / ? / #_{a,O}": [
+      "/kl/ in CVB, FRA",
+      "/kj/ in ITA, ROM",
+      "/ʎ~ɟ͡ʝ/ in ESP",
+      "/ʃ/ in POR"
+    ],
+    "038b: kl / ɡl / #_{a,O}": [
+      "voices to /ɡl/ in FRA"
+    ],
+    "038c: kl / ɡl / #_i": []
+  },
+  "039 QU-": {
+    "039a: kʷ / ? / ˈ#_a": [
+      "typically /kw/",
+      "/k/ in FRA",
+      "/p/ in ROM"
+    ],
+    "039b: by analogy to QU- question words": [
+      "/kw/ in ROM"
+    ]
+  },
+  "040 QU-": {
+    "040a: kʷ / ? / #_aˈ": [
+      "typically /k/",
+      "/kw/ in ITA",
+      "/p/ in ROM"
+    ],
+    "040b: kʷ / ? / #_aˈ": [
+      "typically /k/",
+      "/kw/ in CVB, ITA",
+      "/p/ in ROM"
+    ]
+  },
+  "041 QU-": {
+    "kʷ / k / #_O": [
+      "typically /k/"
+    ]
+  },
+  "042 QU-": {
+    "042a: kʷ / ? / #_E": [
+      "typically /k/",
+      "/t͡ʃ/ in ROM"
+    ],
+    "042b: semi-learned?": [
+      "typically /k/",
+      "/kw/ in ITA",
+      "/t͡ʃ/ in ROM"
+    ]
+  },
+  "043 GL-": {
+    "043a: ɡl / ? / #_\n(kept g)": [
+      "/ɡl/ in CVB, FRA",
+      "/ɡj/ in ITA, ROM",
+      "/l/ in POR, ESP"
+    ],
+    "043b: ɡl / ? / #_\n(dropped g)": [
+      "/ɡl/ in CVB(?)",
+      "/l/ in POR, ESP, FRA",
+      "/ɡj/ in ITA, ROM"
+    ],
+    "043c: gl / ? / #_i": []
+  },
+  "044 FR-": {
+    "fɾ // #_": [
+      "typically  /fɾ/"
+    ]
+  },
+  "045 FL-": {
+    "045a: fl / ? / #_{a,e,O}": [
+      "/fl/ in CVB, FRA, ROM",
+      "/fj/ in ITA",
+      "/ʎ~ɟ͡ʝ/ in ESP",
+      "/ʃ/ in POR"
+    ],
+    "045b: fl / ? / #_i": [],
+    "045c: likely borrowings": [
+      "/fl/ in ESP, CVB, FRA, ROM",
+      "/fj/ in ITA",
+      "/fɾ/ in POR"
+    ]
+  },
+  "046 SP-": {
+    "sp / ? / #_": [
+      "/esp/ in POR, ESP, CVB",
+      "/ep/ in FRA",
+      "/sp/ in ITA, ROM"
+    ]
+  },
+  "047 ST-": {
+    "047a: st / ? / #_E": [
+      "/est/ in POR, ESP, CVB",
+      "/et/ in FRA",
+      "/st/ in ITA, ROM"
+    ],
+    "047b: st / ? / #_E": [
+      "/est/ in POR, ESP, CVB",
+      "/et/ in FRA",
+      "/st/ in ITA",
+      "/ʃt/ in ROM"
+    ]
+  },
+  "048 ST-": {
+    "st / ? / #_{a,O}": [
+      "/est/ in POR, ESP, CVB",
+      "/et/ in FRA",
+      "/st/ in ITA, ROM"
+    ]
+  },
+  "049a SC-": {
+    "049a₁: sk / ? / #_E": [
+      "/esk/ in POR, ESP, CVB",
+      "/eʃ/ in FRA",
+      "/sk/ in ITA"
+    ],
+    "049a₂: sk / ? / #_E": [
+      "/esk/ in POR, ESP, CVB",
+      "/ek/ in FRA",
+      "/sk/ in ITA"
+    ]
+  },
+  "049b SC-": {
+    "049b₁: sk / ? / #_E": [
+      "/s/ in POR, CVB, AND.ESP, AMR.ESP, FRA",
+      "/θ/ in CAS.ESP",
+      "/ʃ/ in ITA",
+      "/sk/ in ROM"
+    ],
+    "049b₂: sk / ? / #_E": [
+      "/esk/ in POR, ESP, CVB, FRA",
+      "/sk/ in ITA",
+      "/ʃt/ in ROM"
+    ]
+  },
+  "050 SC-": {
+    "050a: sk / ? / #_O": [
+      "/esk/ in POR, ESP, CVB",
+      "/ek/ in FRA",
+      "/sk/ in ITA, ROM"
+    ],
+    "050b: sk / ? / #_a": [
+      "/esk/ in POR, ESP, CVB",
+      "/eʃ/ in FRA",
+      "/sk/ in ITA, ROM"
+    ]
+  },
+  "051 STR-": {
+    "stɾ / ? / #_": [
+      "/estɾ/ in POR, ESP, CVB",
+      "/etʁ/ in FRA",
+      "/stɾ/ in ITA, ROM"
+    ]
+  },
+  "052 SCR-": {
+    "skɾ / ? / #_": [
+      "/eskɾ/ in POR, ESP, CVB",
+      "/ekʁ/ in FRA",
+      "/skɾ/ in ITA, ROM"
+    ]
+  },
+  "053 -P-": {
+    "p / ? / V_V": [
+      "/p/ in ITA, ROM",
+      "/b/ in POR, ESP, CVB",
+      "/v/ in FRA"
+    ]
+  },
+  "054 -B-": {
+    "b / ? / V_V": [
+      "typically /v/"
+    ]
+  },
+  "055 -T-": {
+    "055a: t / ? / V_{ĕ¹,ē,ĭ}": [
+      "/d/ in POR, ESP, CVB",
+      "/t/ in ITA, ROM",
+      "∅ in FRA"
+    ],
+    "055b: t / ? / V_{ĕ²}": [
+      "/d/ in POR, ESP, CVB",
+      "/t/ in ITA",
+      "∅ in FRA",
+      "/t͡s/ in ARO, ROM"
+    ],
+    "055c: t / ? / V_ī": [
+      "/d/ in EU.POR, ESP, CVB",
+      "/t/ in ITA",
+      "∅ in FRA",
+      "/d͡ʒ/ in BR.POR",
+      "/t͡s/ in ARO, ROM"
+    ],
+    "Romanian: t͡s̪": [
+      "1) ē; ĭ; atonic ĕ; tonic /ĕ/~/æ/ followed by a cluster /NC/ (> ERom. /e/)",
+      "2) tonic /ĕ/~/æ/ *not* followed by a cluster /NC/ (> ERom. /je/)",
+      "3) long /i:/ (> ERom. /i/), if not elided"
+    ]
+  },
+  "056 -T-": {
+    "t / ? / V_{a,O}": [
+      "/d/ in POR, ESP, CVB",
+      "/t/ in ITA, ROM",
+      "∅ in FRA"
+    ]
+  },
+  "057 -D-": {
+    "057a: d / ? / V_{ĕ¹,ē,ĭ}": [
+      "/d/ in ITA, ROM",
+      "/j~∅/ in CVB",
+      "∅ in POR, ESP, FRA"
+    ],
+    "057b: d / ? / V_{ĕ²,ī}": [
+      "/d/ in ITA",
+      "/z/ in ROM",
+      "/j~∅/ in CVB",
+      "∅ in POR, ESP, FRA"
+    ],
+    "Romanian: t͡s̪": [
+      "1) ē; ĭ; atonic ĕ; tonic /ĕ/~/æ/ followed by a cluster /NC/ (> ERom. /e/)",
+      "2) tonic /ĕ/~/æ/ *not* followed by a cluster /NC/ (> ERom. /je/)",
+      "3) long /i:/ (> ERom. /i/), if not elided"
+    ]
+  },
+  "058 -D-": {
+    "058a: d / ? / {a,O}_{a,O}": [
+      "/d/ in ESP, ITA, ROM",
+      "∅ in POR, CVB, FRA"
+    ],
+    "058b: d / ? / E_{a,O}": [
+      "/d/ in ESP, ITA, ROM",
+      "/j/ in POR",
+      "∅ in ESP, CVB, FRA"
+    ],
+    "058c: cauda~cōda": [
+      "/d/ in ESP, ITA, ROM",
+      "/l/ in POR, ESP",
+      "∅ in CVB, FRA"
+    ]
+  },
+  "059 -C-": {
+    "k / ? / V_O": [
+      "typically /ɡ/",
+      "/k/ in ITA, ROM",
+      "∅ in FRA"
+    ],
+    "059b: in the suffixes -īcum and -(i)ācum, FRA presents /j/": []
+  },
+  "060 -C-": {
+    "k / ? / V_E": [
+      "often /z~s/",
+      "∅~/w/ in CVB",
+      "/t͡ʃ/ in ITA, ROM"
+    ]
+  },
+  "061 -C-": {
+    "061a: k / ? / {E,a}_a": [
+      "typically /ɡ/",
+      "/k/ in ITA, ROM",
+      "/j/ or dropped in FRA"
+    ],
+    "061b: k / ? / O_a": [
+      "typically /ɡ/",
+      "/k/ in ITA, ROM",
+      "∅ in FRA"
+    ]
+  },
+  "062 -G-": {
+    "ɡ / ? / V_O": [
+      "typically /ɡ/"
+    ]
+  },
+  "063 -G-": {
+    "ɡ / ? / V_a": [
+      "typically /ɡ/"
+    ]
+  },
+  "064 -G-": {
+    "064a: ɡ / ? / V_E\noften dropped": [
+      "/j/~∅ in POR, ESP, FRA, ITA, ROM"
+    ],
+    "064b: ɡ / ? / V_E\noften w/ fortition": [
+      "/ʒ/ in POR, CVB, FRA",
+      "/(d)dʒ/ in CVB, ITA, ROM"
+    ]
+  },
+  "065 -M-": {
+    "m // V_V": [
+      "typically remains /m/"
+    ]
+  },
+  "066 -N-": {
+    "n // V_V": [
+      "typically remains /n/"
+    ]
+  },
+  "067 -F-": {
+    "f / ? / V_V": [
+      "often voiced to /v/"
+    ]
+  },
+  "068 -V-": {
+    "w / ? / V_V": [
+      "typically /v/"
+    ]
+  },
+  "069 -S-": {
+    "s / ? / V_E": [
+      "often voiced to /z/"
+    ]
+  },
+  "070 -S-": {
+    "s / ? / V_{a,O}": [
+      "often voiced to /z/"
+    ]
+  },
+  "071 -R-": {
+    "r // V_V": [
+      "typically remains /r/"
+    ]
+  },
+  "072 -L-": {
+    "072a: l / ? / V_{a,e,O}": [
+      "typically remains /l/"
+    ],
+    "072b: l / ? / V_i": []
+  },
+  "073 -J-": {
+    "073a: j / ? / {Vˈ_V, V_Vˈ}\noften dropped": [],
+    "073b: j / ? / {Vˈ_V, V_Vˈ}\noften w/ fortition": []
+  },
+  "074 -J-": {
+    "074a: j / ? / ˈV_V\noften dropped": [],
+    "074b: j / ? / ˈV_V\noften w/ fortition": []
+  },
+  "075 -PJ-": {
+    "075a: pj / ? / ˈV_V": [],
+    "075b: pj / ? / V_ˈV": []
+  },
+  "076 -BJ-": {
+    "076a: bj / ? / V_V": [],
+    "076b₁: habere/debere": [
+      "SJV.1S, SJV.3S"
+    ],
+    "076b₂: habere": [
+      "FUT.1S"
+    ]
+  },
+  "077 -TJ-": {
+    "077a: tj / ? / Vˈ_V": [
+      "truly singleton, often show voicing"
+    ],
+    "077b: tj / ? / Vˈ_{a,E}": [
+      "may have geminated, not typically voiced"
+    ],
+    "077c: tj / ? / Vˈ_O": [
+      "ROM shows different result: t̠͡ʃ"
+    ],
+    "cf. \"Notes on the Development of -KJ-, -TJ- in Spanish and Portuguese\" by Hugh E. Wilkinson": []
+  },
+  "078 -TJ-": {
+    "078a: tj / ? / ˈV_V": [
+      "truly singleton, often show voicing"
+    ],
+    "078b: tj / ? / ˈV_V": [
+      "may have geminated, not typically voiced"
+    ],
+    "cf. \"Notes on the Development of -KJ-, -TJ- in Spanish and Portuguese\" by Hugh E. Wilkinson": []
+  },
+  "079 -DJ-": {
+    "079a: dj / ? / V_V\noften merged with [j]": [],
+    "079b: dj / ? / V_V\noften w/ fortition": []
+  },
+  "080 -CJ-": {
+    "080a: kj / ? / Vˈ_{a,E}": [
+      "often merges with palatalized C"
+    ],
+    "080b: kj / ? / Vˈ_O": [
+      "ROM shows different result: t̠͡ʃ",
+      "FĂCĬĔNDA shows frequent voicing"
+    ]
+  },
+  "081 -CJ-": {
+    "kj / ? / ˈV_V": []
+  },
+  "082 -GJ-": {
+    "082a: ɡj / ? / V_V\noften dropped": [],
+    "082b: ɡj / ? / V_V\noften w/ fortition": [
+      "FŬGĬŌ/-ĬAT may show analogy"
+    ]
+  },
+  "083 -VJ-": {
+    "083a: βj / ? / ˈV_V": [],
+    "SĂLVĬA possible if L pre-vocalized as in Gallo-Romance;\nFŎVĔA/PLŬVĬA behave as -J- if dropped /β/ early on": [],
+    "083b: βj / ? / Vˈ_V": []
+  },
+  "083.5 -FJ-": {
+    "083.5: fj / ? / V_V": [
+      "typically either /fj/ or /jf/"
+    ],
+    "The FEW notes SŎFĬA with voicing to /v/ in Cisalpine varieties.": []
+  },
+  "084 -SJ-": {
+    "084a: sj / ? / V_V": [],
+    "084b: sj / ? / V_V": [
+      "i_V or only ī_V?"
+    ],
+    "ECCLĒSIA semi-learned": []
+  },
+  "085 -MJ-": {
+    "mj / ? / V_V": []
+  },
+  "086 -NJ-": {
+    "nj / ? / V_V": [
+      "typically /ɲ/"
+    ],
+    "cf. Recasens on alveolopalatals": []
+  },
+  "087 -RJ-": {
+    "rj / ? / V_V": [
+      "frequent metathesis"
+    ]
+  },
+  "088 -LJ-": {
+    "lj / ? / i_V": []
+  },
+  "089 -LJ-": {
+    "lj / ? / {a,e,o,u}_V": []
+  },
+  "090 -PP-": {
+    "pp / ? / V_V": [
+      "typically degeminated"
+    ]
+  },
+  "091 -BB-": {
+    "bb / ? / V_V": [
+      "typically degeminated"
+    ]
+  },
+  "092 -TT-": {
+    "092a: tt / ? / V_{a,e,ī,O}": [
+      "typically degeminated"
+    ],
+    "092b: tt / ? / V_ī": []
+  },
+  "093 -DD-": {
+    "dd / ? / V_V": [
+      "typically degeminated"
+    ]
+  },
+  "094 -CC-": {
+    "kk / ? / V_O": [
+      "typically degeminated"
+    ]
+  },
+  "095 -CC-": {
+    "kk / ? / V_a": [
+      "typically degeminated"
+    ]
+  },
+  "096 -CC-": {
+    "kk / ? / V_E": [
+      "typically palatalizes"
+    ]
+  },
+  "097 -GG-": {
+    "ɡɡ / ? / V_V": [
+      "would typically have degeminated; the given forms here are learned and only show the context V_E"
+    ]
+  },
+  "098 -MM-": {
+    "mm / ? / V_V": [
+      "typically degeminated"
+    ]
+  },
+  "099 -NN-": {
+    "nn / ? / V_V": [
+      "typically degeminated"
+    ]
+  },
+  "100 -FF-": {
+    "ff / ? / V_V": [
+      "typically degeminated; the given forms here are typically learned"
+    ]
+  },
+  "101 -SS-": {
+    "101a: ss / ? / V_E": [
+      "typically palatalized/degeminated"
+    ],
+    "101b: ss / ? / V_E": [
+      "typically degeminated"
+    ]
+  },
+  "102 -SS-": {
+    "ss / ? / V_{a,O}": [
+      "typically degeminated"
+    ],
+    "CRĂSSU, BĂSSU": [
+      "occasional palatalized forms likely from -SSJ- rather than true -SS-"
+    ]
+  },
+  "103 -RR-": {
+    "rr / ? / V_V": [
+      "typically remains [rː]"
+    ]
+  },
+  "104 -LL-": {
+    "104a: ll / ? / V_{a,e,ĭ,O}": [],
+    "104b: ll / ? / V_ī": [
+      "Balkan Romance shows palatalization before /i/"
+    ]
+  }
+}

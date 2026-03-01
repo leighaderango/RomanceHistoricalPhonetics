@@ -1,0 +1,798 @@
+{
+  "001 B-": [
+    "BASSU",
+    "BĀSIU",
+    "BŎVE",
+    "BOLĒTU",
+    "BŬCCA",
+    "BŬXU"
+  ],
+  "002 B-": [
+    "BĔLLU",
+    "BĔNE",
+    "BĬBĔRE",
+    "BILĂNCIA",
+    "BITTŪME",
+    "BĪSTIA"
+  ],
+  "003 T-": [
+    "003a) TĒ",
+    "TĒGULA",
+    "TĬNGERE",
+    "003b) TENĒRE",
+    "TĔRRA",
+    "TĔRTIU",
+    "TĔSTA",
+    "TĔXERE",
+    "003c) TĪTIŌNE"
+  ],
+  "004 T-": [
+    "TĀBŬLA",
+    "TĂNGERE",
+    "TĂXU/TAXŎNE",
+    "TOCCĀRE",
+    "TŎRCULU",
+    "TŬRRE",
+    "TŪ"
+  ],
+  "005 D-": [
+    "005a) DĒ",
+    "DĒBĒRE",
+    "DĔNTE",
+    "DĬGĬTU",
+    "005b) DĔCE",
+    "DĪCERE",
+    "DĪĒ/DĪA",
+    "DĪĀNA"
+  ],
+  "006 D-": [
+    "DĂMNU",
+    "DĂRE",
+    "DŎMĬNA",
+    "DORMĪRE",
+    "DŬLCE",
+    "DŬO(S)"
+  ],
+  "007 C-": [
+    "007a: CĬNĔRE",
+    "CÆLU",
+    "CĔRĔBĔLLU",
+    "CĔNTU",
+    "CĔRĔSĔA",
+    "CĒPA",
+    "CĬCĔRU",
+    "CĬLĬU",
+    "007b: CĪNCTU",
+    "CĪMĬCE",
+    "CĪVĬTĀTE",
+    "CĪCCU"
+  ],
+  "008 C-": [
+    "008a: CĂPRA",
+    "CĂRBŌNE",
+    "CĂNTĀRE",
+    "008b: CĂTTU",
+    "CĂRY̆ŎPHY̆LLU"
+  ],
+  "009 C-": [
+    "009a) CŎCERE",
+    "CŎLLU",
+    "CŎLŌRE",
+    "CŬM",
+    "CŬNĪCŬLU",
+    "009b) CŬBĬTU"
+  ],
+  "010 C-": [
+    "CŪLU",
+    "CŪRA",
+    "CŪNA"
+  ],
+  "011 G-": [
+    "GĔNĔRU",
+    "GĔLU",
+    "GY̆PSU"
+  ],
+  "012 G-": [
+    "GĔLĀRE",
+    "GENŬCŬLU",
+    "GENĔSTA",
+    "GĬNGĪVA"
+  ],
+  "013 G-": [
+    "GĂLLU",
+    "GĂLLĪNA",
+    "GĂLBĬNU",
+    "GĂUDĬU",
+    "GĂLLA"
+  ],
+  "014 G-": [
+    "GŬBĔRNĀRE",
+    "GŬLA",
+    "GŬRGU",
+    "GŬSTĀRE",
+    "GŬTTA"
+  ],
+  "015 N-": [
+    "NĬVE/NĔVE",
+    "NEPŌTE"
+  ],
+  "016 N-": [
+    "NŬRA/NŎRA",
+    "NŌMEN/NŌMĬNE",
+    "NĀSU",
+    "NATĀRE"
+  ],
+  "016.5 M-": [
+    "MĂNU",
+    "MĒ",
+    "MĬLLE",
+    "MŎLLE",
+    "MŬLTU"
+  ],
+  "017 F-": [
+    "FŎCU",
+    "FĔRA",
+    "FĔBRE",
+    "FŎNTE",
+    "FŎRĪS",
+    "FŎSSA"
+  ],
+  "018 F-": [
+    "FĂRĪNA",
+    "FÆNU/FĒNU",
+    "FĒMINA",
+    "FŬRNU",
+    "FŬRCA",
+    "FŪMU",
+    "FĂBA"
+  ],
+  "019 V-": [
+    "VĪNEA",
+    "VĬTĔLLU",
+    "VĪCĪNU/*VECĪNU",
+    "*VĬRDE",
+    "VĔSPA",
+    "*VESSĪCA"
+  ],
+  "020 V-": [
+    "020a) VĂCCA",
+    "VŬLPĔ",
+    "VOLĒRĔ",
+    "VŎLŬTA",
+    "VŬLTŬRĔ",
+    "020b) VŎLVĔRĔ"
+  ],
+  "021 S-": [
+    "021a) SĬCCU",
+    "SĒBU",
+    "SĬTĬ",
+    "SĬGNU",
+    "021b) SĔRVU",
+    "SĔPTĔ",
+    "SĪMĬU/SĪMĬA",
+    "SĪC"
+  ],
+  "022 S-": [
+    "022a) SĬGĔLLU/SĬGĬLLU",
+    "SĬCCĀRE",
+    "SĔNTĪRE",
+    "SĒMINĀRE",
+    "022b) SĔCĀRE",
+    "SÆTĂCĬU"
+  ],
+  "023 S-": [
+    "SŎNU",
+    "SĀNU",
+    "SAPĒRE",
+    "SĀL[E]",
+    "SŬBTU/-A"
+  ],
+  "024 H-": [
+    "024a) *HĂPPIA",
+    "*HĂGGIA",
+    "HĂRPA",
+    "*HERIWALD",
+    "*HĂSPA",
+    "HĒNRĪCUS",
+    "024b) HĔRBA",
+    "HŎMŌ/HŎMĬNĔ"
+  ],
+  "025 R-": [
+    "RĪPA",
+    "RŎTA",
+    "RĀNA"
+  ],
+  "026 L-": [
+    "LĪNU",
+    "LĔCTU",
+    "LĔPORE",
+    "LĬGĀRE"
+  ],
+  "027 L-": [
+    "LĀNA",
+    "LŪNA",
+    "LŎNGU"
+  ],
+  "028 J-": [
+    "JŎCU",
+    "JŎCĀRE",
+    "JŬNCU",
+    "JŬGU",
+    "JŌANNE"
+  ],
+  "029 J-": [
+    "JĂNUĀRIU/JĔNUĀRIU",
+    "JĒJŪNĀRE",
+    "JĬNĬPĔRU",
+    "JĔCTĀRE"
+  ],
+  "030 J-": [
+    "JĂCĔŌ",
+    "JĂM",
+    "JĂMBU",
+    "*JĂNTĀRE"
+  ],
+  "031a W-": [
+    "031a) WĔRRA",
+    "WILIĔLMU",
+    "WĪTAN"
+  ],
+  "031b W-": [
+    "031b) WARDŌN",
+    "WADANIĀRE",
+    "WARĪRE",
+    "WARNĪRE",
+    "WANTU",
+    "WADIU",
+    "WAI",
+    "(WAPSA)"
+  ],
+  "032 PL-": [
+    "PLŬVĬA",
+    "PLĀNA",
+    "PLĀNU",
+    "PLĬCĀRE",
+    "PLŌRĀRE",
+    "PLĂNGĔRE"
+  ],
+  "033 BR-": [
+    "BRĂCCHIU",
+    "BRĂNCA",
+    "BRŪMA"
+  ],
+  "034 BL-": [
+    "034a) BLĂTTA",
+    "*BLĂNK (grm)",
+    "BLĂVU/*BLĀO (grm)",
+    "BLĂNDU",
+    "034b) BLĬTU",
+    "034c) BLĂSTĬMĀRE"
+  ],
+  "035 TR-": [
+    "TRĒS",
+    "TRĂBE",
+    "TRĂHĔRE",
+    "TRĔMĔRE"
+  ],
+  "036 DR-": [
+    "DRĂPPU",
+    "DIRECTU > D(I)RITTU"
+  ],
+  "037 CR-": [
+    "037a) CRĪTĀRE",
+    "CRŬCE",
+    "CRĬSTA",
+    "CRŬSTA",
+    "037b) CRĀTE",
+    "CRĂSSU/-ĬA"
+  ],
+  "038 CL-": [
+    "038a) CLĀVE",
+    "CLAUDERE",
+    "CLAUDU",
+    "CLĀMĀRE",
+    "038b) CLĂSSU",
+    "*CLŌCIĀRE",
+    "038c) CLĪNĀRE"
+  ],
+  "039 QU-": [
+    "039a) QUĂTT(Ŭ)ŎR",
+    "QUĀRTU",
+    "039b) QUĂNDŌ",
+    "QUĂNTU"
+  ],
+  "040 QU-": [
+    "040a) QUĂTT(Ŭ)ŎRDĔCI",
+    "040b) *QUARRA(I)NTA",
+    "QUĂTĔRNU"
+  ],
+  "041 QU-": [
+    "QUŌMŎDO",
+    "QUŎD",
+    "QUŎTA"
+  ],
+  "042 QU-": [
+    "042a) QUÆRĔRE",
+    "QUÆSITU",
+    "QUĬĒTU/QUĬĒTĀRE",
+    "QUĪ",
+    "042b) QUĪNTU/A",
+    "QUĪNDĔCĬ"
+  ],
+  "043 GL-": [
+    "043a) GLĂNDE/GLĂNDŬLA",
+    "GLĂCĬE",
+    "GLĀRĔA",
+    "043b) GLĪR[ŌN]E",
+    "GLŎM[ĬSCĔLL]U",
+    "GLŎB[ŬSCĔLL]U"
+  ],
+  "044 FR-": [
+    "FRĀXĬNU",
+    "FRŎNTE",
+    "FRŎNDIA",
+    "FRĒNU"
+  ],
+  "045 FL-": [
+    "FLĂMMA",
+    "FLŎCCU",
+    "FLĂCCĬDU",
+    "FLĀTU",
+    "FLŌRE",
+    "FLŪME",
+    "FLŬXU"
+  ],
+  "046 SP-": [
+    "SPĔC(Ŭ)LU",
+    "SPĒRĀRE",
+    "SPĂTHA",
+    "SPĂTŬLA",
+    "SPĪCA",
+    "SPĪNA"
+  ],
+  "047 ST-": [
+    "047a) STĒLLA",
+    "STĔRNŪTĀRE",
+    "STĔRNĔRE",
+    "047b) STĔPHĂNU",
+    "STĔRCU"
+  ],
+  "048 ST-": [
+    "STĀRE",
+    "STĂNTIA",
+    "STĂNTICU/STĂNTICĀRE",
+    "*STĂLL"
+  ],
+  "049a SC-": [
+    "049a₁) *SKĪNA",
+    "*SKĬRPA",
+    "*SKILLA",
+    "049a₂) *SKĬPA",
+    "*SKEUH",
+    "*SKIRMĪRE"
+  ],
+  "049b SC-": [
+    "049b₁) SCĬNTĬLLA",
+    "SCĒPTRU",
+    "SCHĔDA",
+    "SCĬNDŬLA",
+    "049b₂) SCĪRE",
+    "SCHĬDĬA",
+    "SCĬŪRU"
+  ],
+  "050 SC-": [
+    "050a) SCHŎLA",
+    "SCŪRĬU",
+    "SCŌPA",
+    "050b) SCĀLA",
+    "*SCĂNTĬLĬA",
+    "SCĂNDŬLA",
+    "SCĂMNU",
+    "SCĂLPRU"
+  ],
+  "051 STR-": [
+    "STRĀTA",
+    "STRĬCTA",
+    "STRĬNGĔRE",
+    "STRĬNCTU"
+  ],
+  "052 SCR-": [
+    "SCRĪBĔRE",
+    "SCRĪBĀNE"
+  ],
+  "053 -P-": [
+    "CĂPĬLLU",
+    "NĔPŌTE",
+    "LŬPU",
+    "RĪPA",
+    "SĂPĒRE"
+  ],
+  "054 -B-": [
+    "CĂBĂLLU",
+    "HĂBĒRE/HĂBŪTU",
+    "DĒBĔT",
+    "CĔRĔBĔLLU",
+    "FĂBA"
+  ],
+  "055 -T-": [
+    "055a) CĂTĒNA",
+    "055b) PĂTĔLLA",
+    "CĂTĔLLU",
+    "CĂTHĔDRA",
+    "055c) PĔTĪRE",
+    "PĂTĪRE",
+    "MĒTĪRĪ",
+    "PŪTĪRE"
+  ],
+  "056 -T-": [
+    "SĒTA",
+    "RŎTA",
+    "MŪTĀRE",
+    "MŪTA",
+    "PRĀTU"
+  ],
+  "057 -D-": [
+    "057a) PĔDE",
+    "RĪDĔRE/-ĔNTE/-ĔNDU",
+    "CRĒDĔRE",
+    "SĔDĒRE",
+    "CĂDĔNTE",
+    "057b) NŌDĔLLU",
+    "AUDĪRE",
+    "ĔXPĔDĪRE"
+  ],
+  "058 -D-": [
+    "058a) NŪDA",
+    "SŪDĀRE/SŪDŌRE",
+    "NŌDU/NŌDĀRE",
+    "CRŪDU",
+    "058b) NĪDU",
+    "CRĒDO",
+    "PĒDŬCŬLU",
+    "058c) CAUDA/CŌDA"
+  ],
+  "059 -C-": [
+    "ĂMĪCU",
+    "SĒCŪRU",
+    "DĪCŌ",
+    "ĂCŪCŬLA",
+    "ĂCU"
+  ],
+  "060 -C-": [
+    "VĬCĪNU",
+    "NŬCE/*NŌCE",
+    "VŌCE",
+    "*CŎCĪNA",
+    "RĂCĒMU",
+    "PLĂCĒRE"
+  ],
+  "061 -C-": [
+    "061a) ŬRTĪCA",
+    "PĀCĀRE",
+    "PLĬCĀRE",
+    "ĂMĪCA",
+    "FŎRMĪCA",
+    "SPĪCA",
+    "SĔCĀRE",
+    "061b) JŎCĀRE",
+    "LĂCTŪCA"
+  ],
+  "062 -G-": [
+    "062a) A[U]GŬSTU",
+    "FĀGU",
+    "IŬGU",
+    "062b) Ĕ[G]O"
+  ],
+  "063 -G-": [
+    "PLĀGA",
+    "RŎGĀRE",
+    "DŎGA",
+    "FRĀGA"
+  ],
+  "064 -G-": [
+    "-GĬNTA",
+    "MĂGĬSTRA",
+    "FĀGĪNA",
+    "SĂGĬTTA",
+    "SĂGĪNU/SĂGĪME",
+    "SĬGĬLLU",
+    "ÆRŪGĬNE",
+    "FŬGĪRE"
+  ],
+  "065 -M-": [
+    "FŪMU/FŪMĀRE",
+    "ĂMŌRE"
+  ],
+  "066 -N-": [
+    "LŪNA",
+    "LĀNA",
+    "VĔNĪRE",
+    "MĂNU"
+  ],
+  "067 -F-": [
+    "DĒFĒNSA",
+    "PRŌFĔCTU",
+    "AURĬFĬCE",
+    "SCRŌFA",
+    "*AFANNĀRE"
+  ],
+  "068 -V-": [
+    "NŎVE",
+    "NŎVA/U",
+    "VĪVA",
+    "LĂVĀRE",
+    "NĬVE"
+  ],
+  "069 -S-": [
+    "DĒSĔRTU",
+    "RĒSĪNA"
+  ],
+  "070 -S-": [
+    "RŎSA",
+    "CAUSA",
+    "CĂSA"
+  ],
+  "071 -R-": [
+    "071a) AURU",
+    "MŌRU",
+    "CĀRU/A",
+    "071b) SĔRĒNU"
+  ],
+  "072 -L-": [
+    "CÆLU",
+    "ĀLA",
+    "VŎLĀRE",
+    "VĒLA/U",
+    "PĀLA",
+    "TĒLA",
+    "TRĪBŬLĀRE"
+  ],
+  "073 -J-": [
+    "MĂJŌRE",
+    "PĔJŌRE",
+    "JĔJŪNU/AJŪNU",
+    "MĒJĀRE",
+    "JĔJŪNĀRE/*AJŪNĀRE"
+  ],
+  "074 -J-": [
+    "MĀJU",
+    "*PLŎJA",
+    "RĂJA",
+    "TRŎJA",
+    "PĔJU"
+  ],
+  "075 -PJ-": [
+    "075a) SĂPĬA/AT/U",
+    "ĂPĬU/A",
+    "PRŎPĬU",
+    "SĒPĬA",
+    "*SCUPĬO",
+    "075b) PRŎPĔĀNU",
+    "ĂPPRŎPĬĀRE"
+  ],
+  "076 -BJ-": [
+    "076a) RŬBĔA/U",
+    "GŬBĬA",
+    "LĂBĬU",
+    "LAUBĬA",
+    "RĂBĬA",
+    "SCĂBĬA",
+    "076b₁) ĂBĔO",
+    "ĂBĔA[T]",
+    "DĒBĔO",
+    "076b₂) -ĂBĔO"
+  ],
+  "077 -TJ-": [
+    "077a) RĂTĬŌNE",
+    "PRETĬĀRE",
+    "SĂTĬŌNE",
+    "STĂTĬŌNE",
+    "TRĀDĬTĬŌNE",
+    "[A]VĬTĬĀRE",
+    "*WĂRITĬŌNE",
+    "077b) TĪTĬŌNE/ATTĪTĬĀRE",
+    "ĂCŪTĬĀRE"
+  ],
+  "078 -TJ-": [
+    "078a) VĬTĬU",
+    "PĂLĀTĬU",
+    "078b) PŬTĔU",
+    "PRĔTĬU",
+    "CĂPĬTĬA/U",
+    "CĂPĬTĬŬLU",
+    "PŪTĬU",
+    "STĂTĬO",
+    "TĪTĬŌ"
+  ],
+  "079 -DJ-": [
+    "RĂDĬU",
+    "PŎDĬU",
+    "HŎDĬE",
+    "PŎDĬĀRE",
+    "MĔDĬU",
+    "ĂDĬŪTĀRE"
+  ],
+  "080 -CJ-": [
+    "ĂCĬĀRĬU",
+    "ĒRĪCĬŌNE",
+    "FĂCĬĔNDA"
+  ],
+  "081 -CJ-": [
+    "FĂCĬA",
+    "VĪNĀCEU",
+    "ĒRĪCĬU",
+    "FĂCTĪCĬU",
+    "FŎCĀCĬA",
+    "GLĂCĬE/A",
+    "LĪCĬU",
+    "LŪCĬU",
+    "MĬNĀCĬA",
+    "MĬXTĪCĬU"
+  ],
+  "082 -GJ-": [
+    "FĀGĔA/U",
+    "CŎRRĬGĬA",
+    "PLĂGĬA",
+    "GRĔGĬU/A",
+    "ĔXĂGĬU/ĀRE",
+    "SĂGĬA",
+    "HŌRŎLŎGĬU",
+    "FŬGĬAT/Ō"
+  ],
+  "083 -VJ-": [
+    "083a) CĂVĔA",
+    "DĪLŬVĬU",
+    "FŎVĔA",
+    "LĔVĬU",
+    "NŎVĬU",
+    "PLŬVĬA",
+    "083b) CĂVĔŎLA",
+    "LĔVĬĀRĬU/ĀNU",
+    "PLŬVĬŌSU"
+  ],
+  "083.5 -FJ-": [
+    "CŌFIA/CŪF(F)ĬA",
+    "SŎFĬA"
+  ],
+  "084 -SJ-": [
+    "084a) BĀSĬU/ĀRE",
+    "CĀSĔU",
+    "NAUSĔA",
+    "CĔRĔSĬA",
+    "PHĂSĔOLU",
+    "CĔRVĒSĬA",
+    "PHĀSĬĀNU",
+    "084b) CĂMĬSĬA",
+    "CĬNĬSĬA",
+    "*MĂSĬŌNE"
+  ],
+  "085 -MJ-": [
+    "VĪNDĒMĬA/ĀRE",
+    "DĬFFĀMĬA",
+    "SĪMĬA/U",
+    "CŎMMĔĀTU"
+  ],
+  "086 -NJ-": [
+    "086a) CĂSTĂNĔA",
+    "MONTĀNĔA",
+    "VĪNĔA",
+    "ĂRĀNĔA",
+    "PĪNĔA",
+    "CŬNĔU/ĀRE",
+    "BĂNĔU",
+    "CĂLCĀNĔU",
+    "086b) LINEU",
+    "EXTRANEU"
+  ],
+  "087 -RJ-": [
+    "JĀN-/JĔNŬĀRĬU",
+    "LĂCTĀRĬU",
+    "FŬRNĀRĬU"
+  ],
+  "088 -LJ-": [
+    "FĪLĬA/U",
+    "CĬLĬA",
+    "MĬLĬU",
+    "MĪLĬA"
+  ],
+  "089 -LJ-": [
+    "PĂLĔA",
+    "FŎLĬA",
+    "ŎLĔU"
+  ],
+  "090 -PP-": [
+    "CŬPPA",
+    "STŬPPA/ĀRE"
+  ],
+  "091 -BB-": [
+    "ĂBBĀTE",
+    "GĬBBA",
+    "SĂBBĂTU"
+  ],
+  "092 -TT-": [
+    "092a) CĂTTA/U",
+    "PLĂTTU",
+    "BŬTTE",
+    "SĂGĬTTA",
+    "MĬTTĔRE",
+    "092b) *PĬTTĪTU",
+    "*MĬTTĪTU"
+  ],
+  "093 -DD-": [
+    "ĂDDŪCĔRE",
+    "RĔDDĔRE",
+    "(ĬN)ĂDDĔRE"
+  ],
+  "094 -CC-": [
+    "SĬCCU",
+    "BĔCCU"
+  ],
+  "095 -CC-": [
+    "*TŬCCĀRE",
+    "BŬCCA",
+    "VĂCCA"
+  ],
+  "096 -CC-": [
+    "ŎCCĪDĔRE",
+    "*BĂCCĬNU",
+    "CŎCCĬNU",
+    "BŬCCĬNĀRE",
+    "FLĂCCĬDU"
+  ],
+  "097 -GG-": [
+    "ĔXĂGGĔRĀRE",
+    "SŬGGĔRĀRE"
+  ],
+  "098 -MM-": [
+    "FLĂMMA",
+    "GĔMMA",
+    "CŎMMŪNE",
+    "SŬMMA/U",
+    "MĂMMA"
+  ],
+  "099 -NN-": [
+    "CĂNNA",
+    "ĂNNU",
+    "CĬNNU/ĀRE",
+    "PĂNNU",
+    "CĂNNŬLA"
+  ],
+  "100 -FF-": [
+    "ŎFFĔNDĔRE",
+    "SŬFFĔRĪRE",
+    "DĬFFĬCĬLE"
+  ],
+  "101 -SS-": [
+    "101a) VĔSSĪCA",
+    "*VĬSSĪNA/ĪRE",
+    "101b) TŬSSĬ/ĪRE",
+    "*ĂSSĒCŪRĀRE",
+    "ĂSSĬMĬLĀRE"
+  ],
+  "102 -SS-": [
+    "PĂSSU/ĀRE",
+    "ŎSSU",
+    "FŎSSA",
+    "ĂSSĀRE",
+    "SPĬSSU",
+    "CRĂSSU",
+    "BĂSSU"
+  ],
+  "103 -RR-": [
+    "TĔRRA",
+    "CĂRRU",
+    "CĂRRĀRĬA"
+  ],
+  "104 -LL-": [
+    "104a) BĔLLA",
+    "PĂTĔLLA",
+    "VĬLLA",
+    "MĬLLE",
+    "VĬTĔLLU",
+    "FŎLLE",
+    "ĂLLĬGĀRE",
+    "104b) GĂLLĪNA",
+    "BŬLLĪRE",
+    "-LLĪ"
+  ]
+}
