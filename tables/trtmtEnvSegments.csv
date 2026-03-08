@@ -1,0 +1,4765 @@
+trtmt_env_id,language,version,position,IPA_key,IPA,is_vowel,component,is_dialect,main_usage_prop
+1.0,BR POR,a,1,26.0,b,False,a,False,1.0
+1.0,AMR ESP,a,1,26.0,b,False,a,False,1.0
+1.0,LAT,a,1,26.0,b,False,a,False,1.0
+1.0,CAT,a,1,26.0,b,False,a,False,1.0
+1.0,VAL,a,1,26.0,b,False,a,False,1.0
+1.0,BAL,a,1,26.0,b,False,a,False,1.0
+1.0,OCC,a,1,26.0,b,False,a,False,1.0
+1.0,GAS OCC,a,1,26.0,b,False,a,False,1.0
+1.0,EU FRA,a,1,26.0,b,False,a,False,1.0
+1.0,QBC FRA,a,1,26.0,b,False,a,False,1.0
+1.0,WAL,a,1,26.0,b,False,a,False,1.0
+1.0,ARP,a,1,26.0,b,False,a,False,1.0
+1.0,LIG,a,1,26.0,b,False,a,False,1.0
+1.0,EU POR,a,1,26.0,b,False,a,False,1.0
+1.0,LMO,a,1,26.0,b,False,a,False,1.0
+1.0,RMH,a,1,26.0,b,False,a,False,1.0
+1.0,FUR,a,1,26.0,b,False,a,False,1.0
+1.0,LOG SRD,a,1,26.0,b,False,a,False,1.0
+1.0,LOG SRD,a,1,176.0,v,False,b,True,0.0
+1.0,CPN SRD,a,1,26.0,b,False,a,False,1.0
+1.0,COR,a,1,26.0,b,False,a,False,1.0
+1.0,ITA,a,1,26.0,b,False,a,False,1.0
+1.0,ABR,a,1,26.0,b,False,a,False,0.5
+1.0,ABR,a,1,176.0,v,False,b,False,0.5
+1.0,CAM,a,1,176.0,v,False,a,False,1.0
+1.0,PGL,a,1,176.0,v,False,a,False,1.0
+1.0,SCN,a,1,176.0,v,False,a,False,1.0
+1.0,VEN,a,1,26.0,b,False,a,False,1.0
+1.0,ARO,a,1,26.0,b,False,a,False,1.0
+1.0,ROM,a,1,26.0,b,False,a,False,1.0
+1.0,GAL,a,1,26.0,b,False,a,False,1.0
+1.0,ASL,a,1,26.0,b,False,a,False,1.0
+1.0,CAS ESP,a,1,26.0,b,False,a,False,1.0
+1.0,AND ESP,a,1,26.0,b,False,a,False,1.0
+1.0,ARG,a,1,26.0,b,False,a,False,1.0
+2.0,BR POR,a,1,26.0,b,False,a,False,1.0
+2.0,AMR ESP,a,1,26.0,b,False,a,False,1.0
+2.0,LAT,a,1,26.0,b,False,a,False,1.0
+2.0,CAT,a,1,26.0,b,False,a,False,1.0
+2.0,VAL,a,1,26.0,b,False,a,False,1.0
+2.0,BAL,a,1,26.0,b,False,a,False,1.0
+2.0,OCC,a,1,26.0,b,False,a,False,1.0
+2.0,GAS OCC,a,1,26.0,b,False,a,False,1.0
+2.0,EU FRA,a,1,26.0,b,False,a,False,1.0
+2.0,QBC FRA,a,1,26.0,b,False,a,False,1.0
+2.0,WAL,a,1,26.0,b,False,a,False,1.0
+2.0,ARP,a,1,26.0,b,False,a,False,1.0
+2.0,LIG,a,1,26.0,b,False,a,False,1.0
+2.0,EU POR,a,1,26.0,b,False,a,False,1.0
+2.0,LMO,a,1,26.0,b,False,a,False,1.0
+2.0,RMH,a,1,26.0,b,False,a,False,1.0
+2.0,FUR,a,1,26.0,b,False,a,False,1.0
+2.0,LOG SRD,a,1,26.0,b,False,a,False,1.0
+2.0,LOG SRD,a,1,176.0,v,False,b,True,0.0
+2.0,CPN SRD,a,1,26.0,b,False,a,False,1.0
+2.0,COR,a,1,26.0,b,False,a,False,1.0
+2.0,ITA,a,1,26.0,b,False,a,False,1.0
+2.0,ABR,a,1,26.0,b,False,a,False,0.5
+2.0,ABR,a,1,176.0,v,False,b,False,0.5
+2.0,CAM,a,1,176.0,v,False,a,False,1.0
+2.0,PGL,a,1,176.0,v,False,a,False,1.0
+2.0,SCN,a,1,176.0,v,False,a,False,1.0
+2.0,VEN,a,1,26.0,b,False,a,False,1.0
+2.0,ARO,a,1,26.0,b,False,a,False,1.0
+2.0,ROM,a,1,26.0,b,False,a,False,1.0
+2.0,GAL,a,1,26.0,b,False,a,False,1.0
+2.0,ASL,a,1,26.0,b,False,a,False,1.0
+2.0,CAS ESP,a,1,26.0,b,False,a,False,1.0
+2.0,AND ESP,a,1,26.0,b,False,a,False,1.0
+2.0,ARG,a,1,26.0,b,False,a,False,1.0
+3.0,BR POR,a,1,29.0,t̪,False,a,False,1.0
+3.0,AMR ESP,a,1,29.0,t̪,False,a,False,1.0
+3.0,LAT,a,1,29.0,t̪,False,a,False,1.0
+3.0,CAT,a,1,29.0,t̪,False,a,False,1.0
+3.0,VAL,a,1,29.0,t̪,False,a,False,1.0
+3.0,BAL,a,1,29.0,t̪,False,a,False,1.0
+3.0,OCC,a,1,29.0,t̪,False,a,False,1.0
+3.0,GAS OCC,a,1,29.0,t̪,False,a,False,1.0
+3.0,EU FRA,a,1,29.0,t̪,False,a,False,1.0
+3.0,QBC FRA,a,1,29.0,t̪,False,a,False,1.0
+3.0,WAL,a,1,29.0,t̪,False,a,False,1.0
+3.0,ARP,a,1,29.0,t̪,False,a,False,1.0
+3.0,LIG,a,1,29.0,t̪,False,a,False,1.0
+3.0,EU POR,a,1,29.0,t̪,False,a,False,1.0
+3.0,LMO,a,1,29.0,t̪,False,a,False,1.0
+3.0,RMH,a,1,29.0,t̪,False,a,False,1.0
+3.0,FUR,a,1,29.0,t̪,False,a,False,1.0
+3.0,LOG SRD,a,1,29.0,t̪,False,a,False,1.0
+3.0,CPN SRD,a,1,29.0,t̪,False,a,False,1.0
+3.0,COR,a,1,29.0,t̪,False,a,False,1.0
+3.0,ITA,a,1,29.0,t̪,False,a,False,1.0
+3.0,ABR,a,1,29.0,t̪,False,a,False,1.0
+3.0,CAM,a,1,29.0,t̪,False,a,False,1.0
+3.0,PGL,a,1,29.0,t̪,False,a,False,1.0
+3.0,SCN,a,1,29.0,t̪,False,a,False,1.0
+3.0,VEN,a,1,29.0,t̪,False,a,False,1.0
+3.0,ARO,a,1,29.0,t̪,False,a,False,1.0
+3.0,ROM,a,1,29.0,t̪,False,a,False,1.0
+3.0,ARO,b,1,98.0,t͡s̪,False,a,False,1.0
+3.0,ROM,b,1,98.0,t͡s̪,False,a,False,1.0
+3.0,BR POR,b,1,108.0,t̠͡ʃ,False,a,False,1.0
+3.0,QBC FRA,b,1,98.0,t͡s̪,False,a,False,1.0
+3.0,GAL,a,1,29.0,t̪,False,a,False,1.0
+3.0,ASL,a,1,29.0,t̪,False,a,False,1.0
+3.0,CAS ESP,a,1,29.0,t̪,False,a,False,1.0
+3.0,AND ESP,a,1,29.0,t̪,False,a,False,1.0
+3.0,ARG,a,1,29.0,t̪,False,a,False,1.0
+4.0,BR POR,a,1,29.0,t̪,False,a,False,1.0
+4.0,AMR ESP,a,1,29.0,t̪,False,a,False,1.0
+4.0,LAT,a,1,29.0,t̪,False,a,False,1.0
+4.0,CAT,a,1,29.0,t̪,False,a,False,1.0
+4.0,VAL,a,1,29.0,t̪,False,a,False,1.0
+4.0,BAL,a,1,29.0,t̪,False,a,False,1.0
+4.0,OCC,a,1,29.0,t̪,False,a,False,1.0
+4.0,GAS OCC,a,1,29.0,t̪,False,a,False,1.0
+4.0,EU FRA,a,1,29.0,t̪,False,a,False,1.0
+4.0,QBC FRA,a,1,29.0,t̪,False,a,False,1.0
+4.0,WAL,a,1,29.0,t̪,False,a,False,1.0
+4.0,ARP,a,1,29.0,t̪,False,a,False,1.0
+4.0,LIG,a,1,29.0,t̪,False,a,False,1.0
+4.0,EU POR,a,1,29.0,t̪,False,a,False,1.0
+4.0,LMO,a,1,29.0,t̪,False,a,False,1.0
+4.0,RMH,a,1,29.0,t̪,False,a,False,1.0
+4.0,FUR,a,1,29.0,t̪,False,a,False,1.0
+4.0,LOG SRD,a,1,29.0,t̪,False,a,False,1.0
+4.0,CPN SRD,a,1,29.0,t̪,False,a,False,1.0
+4.0,COR,a,1,29.0,t̪,False,a,False,1.0
+4.0,ITA,a,1,29.0,t̪,False,a,False,1.0
+4.0,ABR,a,1,29.0,t̪,False,a,False,1.0
+4.0,CAM,a,1,29.0,t̪,False,a,False,1.0
+4.0,PGL,a,1,29.0,t̪,False,a,False,1.0
+4.0,SCN,a,1,29.0,t̪,False,a,False,1.0
+4.0,VEN,a,1,29.0,t̪,False,a,False,1.0
+4.0,ARO,a,1,29.0,t̪,False,a,False,1.0
+4.0,ROM,a,1,29.0,t̪,False,a,False,1.0
+4.0,QBC FRA,b,1,98.0,t͡s̪,False,a,False,1.0
+4.0,GAL,a,1,29.0,t̪,False,a,False,1.0
+4.0,ASL,a,1,29.0,t̪,False,a,False,1.0
+4.0,CAS ESP,a,1,29.0,t̪,False,a,False,1.0
+4.0,AND ESP,a,1,29.0,t̪,False,a,False,1.0
+4.0,ARG,a,1,29.0,t̪,False,a,False,1.0
+5.0,BR POR,a,1,30.0,d̪,False,a,False,1.0
+5.0,AMR ESP,a,1,30.0,d̪,False,a,False,1.0
+5.0,LAT,a,1,30.0,d̪,False,a,False,1.0
+5.0,CAT,a,1,30.0,d̪,False,a,False,1.0
+5.0,VAL,a,1,30.0,d̪,False,a,False,1.0
+5.0,BAL,a,1,30.0,d̪,False,a,False,1.0
+5.0,OCC,a,1,30.0,d̪,False,a,False,1.0
+5.0,GAS OCC,a,1,30.0,d̪,False,a,False,1.0
+5.0,EU FRA,a,1,30.0,d̪,False,a,False,1.0
+5.0,QBC FRA,a,1,30.0,d̪,False,a,False,1.0
+5.0,WAL,a,1,30.0,d̪,False,a,False,1.0
+5.0,ARP,a,1,30.0,d̪,False,a,False,1.0
+5.0,LIG,a,1,30.0,d̪,False,a,False,1.0
+5.0,EU POR,a,1,30.0,d̪,False,a,False,1.0
+5.0,LMO,a,1,30.0,d̪,False,a,False,1.0
+5.0,RMH,a,1,30.0,d̪,False,a,False,1.0
+5.0,FUR,a,1,30.0,d̪,False,a,False,1.0
+5.0,LOG SRD,a,1,30.0,d̪,False,a,False,1.0
+5.0,CPN SRD,a,1,30.0,d̪,False,a,False,1.0
+5.0,COR,a,1,30.0,d̪,False,a,False,1.0
+5.0,ITA,a,1,30.0,d̪,False,a,False,1.0
+5.0,ABR,a,1,30.0,d̪,False,a,False,1.0
+5.0,CAM,a,1,30.0,d̪,False,a,False,0.5
+5.0,CAM,a,1,269.0,ɾ,False,b,False,0.5
+5.0,PGL,a,1,30.0,d̪,False,a,False,1.0
+5.0,SCN,a,1,30.0,d̪,False,a,False,0.5
+5.0,SCN,a,1,269.0,ɾ,False,b,False,0.5
+5.0,VEN,a,1,30.0,d̪,False,a,False,1.0
+5.0,ARO,a,1,30.0,d̪,False,a,False,1.0
+5.0,ROM,a,1,30.0,d̪,False,a,False,1.0
+5.0,ARO,b,1,99.0,d͡z̪,False,a,False,1.0
+5.0,ROM,b,1,182.0,z̪,False,a,False,1.0
+5.0,BR POR,b,1,109.0,d̠͡ʒ,False,a,False,1.0
+5.0,QBC FRA,b,1,99.0,d͡z̪,False,a,False,1.0
+5.0,GAL,a,1,30.0,d̪,False,a,False,1.0
+5.0,ASL,a,1,30.0,d̪,False,a,False,1.0
+5.0,CAS ESP,a,1,30.0,d̪,False,a,False,1.0
+5.0,AND ESP,a,1,30.0,d̪,False,a,False,1.0
+5.0,ARG,a,1,30.0,d̪,False,a,False,1.0
+6.0,BR POR,a,1,30.0,d̪,False,a,False,1.0
+6.0,AMR ESP,a,1,30.0,d̪,False,a,False,1.0
+6.0,LAT,a,1,30.0,d̪,False,a,False,1.0
+6.0,CAT,a,1,30.0,d̪,False,a,False,1.0
+6.0,VAL,a,1,30.0,d̪,False,a,False,1.0
+6.0,BAL,a,1,30.0,d̪,False,a,False,1.0
+6.0,OCC,a,1,30.0,d̪,False,a,False,1.0
+6.0,GAS OCC,a,1,30.0,d̪,False,a,False,1.0
+6.0,EU FRA,a,1,30.0,d̪,False,a,False,1.0
+6.0,QBC FRA,a,1,30.0,d̪,False,a,False,1.0
+6.0,WAL,a,1,30.0,d̪,False,a,False,1.0
+6.0,ARP,a,1,30.0,d̪,False,a,False,1.0
+6.0,LIG,a,1,30.0,d̪,False,a,False,1.0
+6.0,EU POR,a,1,30.0,d̪,False,a,False,1.0
+6.0,LMO,a,1,30.0,d̪,False,a,False,1.0
+6.0,RMH,a,1,30.0,d̪,False,a,False,1.0
+6.0,FUR,a,1,30.0,d̪,False,a,False,1.0
+6.0,LOG SRD,a,1,30.0,d̪,False,a,False,1.0
+6.0,CPN SRD,a,1,30.0,d̪,False,a,False,1.0
+6.0,COR,a,1,30.0,d̪,False,a,False,1.0
+6.0,ITA,a,1,30.0,d̪,False,a,False,1.0
+6.0,ABR,a,1,30.0,d̪,False,a,False,1.0
+6.0,CAM,a,1,30.0,d̪,False,a,False,0.5
+6.0,CAM,a,1,269.0,ɾ,False,b,False,0.5
+6.0,PGL,a,1,30.0,d̪,False,a,False,1.0
+6.0,SCN,a,1,30.0,d̪,False,a,False,0.5
+6.0,SCN,a,1,269.0,ɾ,False,b,False,0.5
+6.0,VEN,a,1,30.0,d̪,False,a,False,1.0
+6.0,ARO,a,1,30.0,d̪,False,a,False,1.0
+6.0,ROM,a,1,30.0,d̪,False,a,False,1.0
+6.0,QBC FRA,b,1,99.0,d͡z̪,False,a,False,1.0
+6.0,GAL,a,1,30.0,d̪,False,a,False,1.0
+6.0,ASL,a,1,30.0,d̪,False,a,False,1.0
+6.0,CAS ESP,a,1,30.0,d̪,False,a,False,1.0
+6.0,AND ESP,a,1,30.0,d̪,False,a,False,1.0
+6.0,ARG,a,1,30.0,d̪,False,a,False,1.0
+7.0,BR POR,a,1,183.0,s,False,a,False,1.0
+7.0,AMR ESP,a,1,183.0,s,False,a,False,1.0
+7.0,LAT,a,1,43.0,k,False,a,False,1.0
+7.0,CAT,a,1,187.0,s̠,False,a,False,1.0
+7.0,VAL,a,1,187.0,s̠,False,a,False,1.0
+7.0,BAL,a,1,187.0,s̠,False,a,False,1.0
+7.0,OCC,a,1,187.0,s̠,False,a,False,1.0
+7.0,GAS OCC,a,1,187.0,s̠,False,a,False,1.0
+7.0,EU FRA,a,1,181.0,s̪,False,a,False,1.0
+7.0,QBC FRA,a,1,181.0,s̪,False,a,False,1.0
+7.0,WAL,a,1,181.0,s̪,False,a,False,1.0
+7.0,ARP,a,1,181.0,s̪,False,a,False,1.0
+7.0,LIG,a,1,183.0,s,False,a,False,1.0
+7.0,LIG,a,1,100.0,t͡s,False,b,True,0.0
+7.0,EU POR,a,1,183.0,s,False,a,False,1.0
+7.0,EU POR,a,1,181.0,s̪,False,b,True,0.0
+7.0,LMO,a,1,191.0,ʃ,False,a,False,0.5
+7.0,LMO,a,1,187.0,s̠,False,b,False,0.5
+7.0,RMH,a,1,108.0,t̠͡ʃ,False,a,False,1.0
+7.0,FUR,a,1,108.0,t̠͡ʃ,False,a,False,0.5
+7.0,FUR,a,1,187.0,s̠,False,b,False,0.5
+7.0,LOG SRD,a,1,43.0,k,False,a,False,1.0
+7.0,CPN SRD,a,1,108.0,t̠͡ʃ,False,a,False,1.0
+7.0,ITA,a,1,108.0,t̠͡ʃ,False,a,False,1.0
+7.0,CAM,a,1,108.0,t̠͡ʃ,False,a,False,1.0
+7.0,SCN,a,1,108.0,t̠͡ʃ,False,a,False,1.0
+7.0,VEN,a,1,187.0,s̠,False,a,False,0.5
+7.0,VEN,a,1,177.0,θ,False,b,False,0.5
+7.0,ARO,a,1,98.0,t͡s̪,False,a,False,1.0
+7.0,ROM,a,1,108.0,t̠͡ʃ,False,a,False,1.0
+7.0,GAL,a,1,177.0,θ,False,a,False,1.0
+7.0,GAL,a,1,183.0,s,False,b,True,0.0
+7.0,ASL,a,1,177.0,θ,False,a,False,1.0
+7.0,CAS ESP,a,1,177.0,θ,False,a,False,1.0
+7.0,AND ESP,a,1,179.0,s̟,False,a,False,1.0
+7.0,ARG,a,1,177.0,θ,False,a,False,1.0
+8.0,BR POR,a,1,43.0,k,False,a,False,1.0
+8.0,AMR ESP,a,1,43.0,k,False,a,False,1.0
+8.0,LAT,a,1,43.0,k,False,a,False,1.0
+8.0,CAT,a,1,43.0,k,False,a,False,1.0
+8.0,VAL,a,1,43.0,k,False,a,False,1.0
+8.0,BAL,a,1,43.0,k,False,a,False,1.0
+8.0,OCC,a,1,43.0,k,False,a,False,1.0
+8.0,OCC,a,1,100.0,t͡s,False,b,True,0.0
+8.0,GAS OCC,a,1,43.0,k,False,a,False,1.0
+8.0,EU FRA,a,1,191.0,ʃ,False,a,False,1.0
+8.0,QBC FRA,a,1,191.0,ʃ,False,a,False,1.0
+8.0,WAL,a,1,108.0,t̠͡ʃ,False,a,False,1.0
+8.0,ARP,a,1,108.0,t̠͡ʃ,False,a,False,0.5
+8.0,ARP,a,1,177.0,θ,False,b,False,0.5
+8.0,LIG,a,1,43.0,k,False,a,False,1.0
+8.0,EU POR,a,1,43.0,k,False,a,False,1.0
+8.0,LMO,a,1,43.0,k,False,a,False,1.0
+8.0,RMH,a,1,43.0,k,False,a,False,0.5
+8.0,RMH,a,1,41.0,c,False,b,False,0.5
+8.0,FUR,a,1,41.0,c,False,a,False,0.5
+8.0,FUR,a,1,108.0,t̠͡ʃ,False,b,False,0.5
+8.0,LOG SRD,a,1,43.0,k,False,a,False,1.0
+8.0,CPN SRD,a,1,43.0,k,False,a,False,1.0
+8.0,COR,a,1,43.0,k,False,a,False,1.0
+8.0,ITA,a,1,43.0,k,False,a,False,1.0
+8.0,ABR,a,1,43.0,k,False,a,False,1.0
+8.0,CAM,a,1,43.0,k,False,a,False,1.0
+8.0,PGL,a,1,43.0,k,False,a,False,1.0
+8.0,SCN,a,1,43.0,k,False,a,False,1.0
+8.0,VEN,a,1,43.0,k,False,a,False,1.0
+8.0,ARO,a,1,43.0,k,False,a,False,1.0
+8.0,ROM,a,1,43.0,k,False,a,False,1.0
+8.0,GAL,a,1,43.0,k,False,a,False,1.0
+8.0,ASL,a,1,43.0,k,False,a,False,1.0
+8.0,CAS ESP,a,1,43.0,k,False,a,False,1.0
+8.0,AND ESP,a,1,43.0,k,False,a,False,1.0
+8.0,ARG,a,1,43.0,k,False,a,False,1.0
+9.0,BR POR,a,1,43.0,k,False,a,False,1.0
+9.0,AMR ESP,a,1,43.0,k,False,a,False,1.0
+9.0,LAT,a,1,43.0,k,False,a,False,1.0
+9.0,CAT,a,1,43.0,k,False,a,False,1.0
+9.0,VAL,a,1,43.0,k,False,a,False,1.0
+9.0,BAL,a,1,43.0,k,False,a,False,1.0
+9.0,OCC,a,1,43.0,k,False,a,False,1.0
+9.0,GAS OCC,a,1,43.0,k,False,a,False,1.0
+9.0,EU FRA,a,1,43.0,k,False,a,False,1.0
+9.0,QBC FRA,a,1,43.0,k,False,a,False,1.0
+9.0,WAL,a,1,43.0,k,False,a,False,1.0
+9.0,ARP,a,1,43.0,k,False,a,False,1.0
+9.0,LIG,a,1,43.0,k,False,a,False,1.0
+9.0,EU POR,a,1,43.0,k,False,a,False,1.0
+9.0,LMO,a,1,43.0,k,False,a,False,1.0
+9.0,RMH,a,1,43.0,k,False,a,False,1.0
+9.0,FUR,a,1,43.0,k,False,a,False,1.0
+9.0,LOG SRD,a,1,43.0,k,False,a,False,1.0
+9.0,CPN SRD,a,1,43.0,k,False,a,False,1.0
+9.0,COR,a,1,43.0,k,False,a,False,1.0
+9.0,ITA,a,1,43.0,k,False,a,False,1.0
+9.0,ABR,a,1,43.0,k,False,a,False,1.0
+9.0,CAM,a,1,43.0,k,False,a,False,1.0
+9.0,PGL,a,1,43.0,k,False,a,False,1.0
+9.0,SCN,a,1,43.0,k,False,a,False,1.0
+9.0,VEN,a,1,43.0,k,False,a,False,1.0
+9.0,ARO,a,1,43.0,k,False,a,False,1.0
+9.0,ROM,a,1,43.0,k,False,a,False,1.0
+9.0,ITA,b,1,44.0,ɡ,False,a,False,1.0
+9.0,GAL,a,1,43.0,k,False,a,False,1.0
+9.0,ASL,a,1,43.0,k,False,a,False,1.0
+9.0,CAS ESP,a,1,43.0,k,False,a,False,1.0
+9.0,AND ESP,a,1,43.0,k,False,a,False,1.0
+9.0,ARG,a,1,43.0,k,False,a,False,1.0
+10.0,BR POR,a,1,43.0,k,False,a,False,1.0
+10.0,AMR ESP,a,1,43.0,k,False,a,False,1.0
+10.0,LAT,a,1,43.0,k,False,a,False,1.0
+10.0,CAT,a,1,43.0,k,False,a,False,1.0
+10.0,VAL,a,1,43.0,k,False,a,False,1.0
+10.0,BAL,a,1,43.0,k,False,a,False,1.0
+10.0,OCC,a,1,43.0,k,False,a,False,1.0
+10.0,GAS OCC,a,1,43.0,k,False,a,False,1.0
+10.0,EU FRA,a,1,43.0,k,False,a,False,1.0
+10.0,QBC FRA,a,1,43.0,k,False,a,False,1.0
+10.0,WAL,a,1,43.0,k,False,a,False,1.0
+10.0,ARP,a,1,43.0,k,False,a,False,1.0
+10.0,LIG,a,1,43.0,k,False,a,False,1.0
+10.0,EU POR,a,1,43.0,k,False,a,False,1.0
+10.0,LMO,a,1,43.0,k,False,a,False,1.0
+10.0,RMH,a,1,41.0,c,False,a,False,1.0
+10.0,FUR,a,1,43.0,k,False,a,False,1.0
+10.0,LOG SRD,a,1,43.0,k,False,a,False,1.0
+10.0,CPN SRD,a,1,43.0,k,False,a,False,1.0
+10.0,COR,a,1,43.0,k,False,a,False,1.0
+10.0,ITA,a,1,43.0,k,False,a,False,1.0
+10.0,ABR,a,1,43.0,k,False,a,False,1.0
+10.0,CAM,a,1,43.0,k,False,a,False,1.0
+10.0,PGL,a,1,43.0,k,False,a,False,1.0
+10.0,SCN,a,1,43.0,k,False,a,False,1.0
+10.0,VEN,a,1,43.0,k,False,a,False,1.0
+10.0,ARO,a,1,43.0,k,False,a,False,1.0
+10.0,ROM,a,1,43.0,k,False,a,False,1.0
+10.0,GAL,a,1,43.0,k,False,a,False,1.0
+10.0,ASL,a,1,43.0,k,False,a,False,1.0
+10.0,CAS ESP,a,1,43.0,k,False,a,False,1.0
+10.0,AND ESP,a,1,43.0,k,False,a,False,1.0
+10.0,ARG,a,1,43.0,k,False,a,False,1.0
+11.0,BR POR,a,1,192.0,ʒ,False,a,False,1.0
+11.0,AMR ESP,a,1,115.0,ɟ͡ʝ,False,a,False,1.0
+11.0,LAT,a,1,44.0,ɡ,False,a,False,1.0
+11.0,CAT,a,1,192.0,ʒ,False,a,False,1.0
+11.0,VAL,a,1,109.0,d̠͡ʒ,False,a,False,1.0
+11.0,BAL,a,1,192.0,ʒ,False,a,False,1.0
+11.0,OCC,a,1,,̠d̠͡ʒ,False,a,False,1.0
+11.0,OCC,a,1,105.0,d͡z̠,False,b,True,0.0
+11.0,GAS OCC,a,1,192.0,ʒ,False,a,False,1.0
+11.0,EU FRA,a,1,192.0,ʒ,False,a,False,1.0
+11.0,QBC FRA,a,1,192.0,ʒ,False,a,False,1.0
+11.0,WAL,a,1,109.0,d̠͡ʒ,False,a,False,1.0
+11.0,ARP,a,1,101.0,d͡z,False,a,False,0.5
+11.0,ARP,a,1,178.0,ð,False,b,False,0.5
+11.0,LIG,a,1,184.0,z,False,a,False,1.0
+11.0,LIG,a,1,101.0,d͡z,False,b,True,0.0
+11.0,EU POR,a,1,192.0,ʒ,False,a,False,1.0
+11.0,LMO,a,1,109.0,d̠͡ʒ,False,a,False,0.5
+11.0,LMO,a,1,184.0,z,False,b,False,0.5
+11.0,RMH,a,1,109.0,d̠͡ʒ,False,a,False,0.5
+11.0,RMH,a,1,191.0,ʃ,False,b,False,0.5
+11.0,LOG SRD,a,1,44.0,ɡ,False,a,False,1.0
+11.0,CPN SRD,a,1,109.0,d̠͡ʒ,False,a,False,1.0
+11.0,COR,a,1,42.0,ɟ,False,a,False,1.0
+11.0,ITA,a,1,109.0,d̠͡ʒ,False,a,False,1.0
+11.0,CAM,a,1,348.0,j,False,a,False,1.0
+11.0,SCN,a,1,348.0,j,False,a,False,1.0
+11.0,VEN,a,1,188.0,z̠,False,a,False,0.5
+11.0,VEN,a,1,178.0,ð,False,b,False,0.5
+11.0,ARO,a,1,99.0,d͡z̪,False,a,False,1.0
+11.0,ROM,a,1,109.0,d̠͡ʒ,False,a,False,1.0
+11.0,GAL,a,1,191.0,ʃ,False,a,False,1.0
+11.0,ASL,a,1,191.0,ʃ,False,a,False,1.0
+11.0,CAS ESP,a,1,115.0,ɟ͡ʝ,False,a,False,1.0
+11.0,AND ESP,a,1,115.0,ɟ͡ʝ,False,a,False,1.0
+11.0,ARG,a,1,108.0,t̠͡ʃ,False,a,False,1.0
+12.0,BR POR,a,1,192.0,ʒ,False,a,False,1.0
+12.0,AMR ESP,a,1,,∅,False,a,False,1.0
+12.0,LAT,a,1,44.0,ɡ,False,a,False,1.0
+12.0,CAT,a,1,192.0,ʒ,False,a,False,1.0
+12.0,VAL,a,1,109.0,d̠͡ʒ,False,a,False,1.0
+12.0,BAL,a,1,192.0,ʒ,False,a,False,1.0
+12.0,OCC,a,1,,̠d̠͡ʒ,False,a,False,1.0
+12.0,OCC,a,1,105.0,d͡z̠,False,b,True,0.0
+12.0,GAS OCC,a,1,192.0,ʒ,False,a,False,1.0
+12.0,EU FRA,a,1,192.0,ʒ,False,a,False,1.0
+12.0,QBC FRA,a,1,192.0,ʒ,False,a,False,1.0
+12.0,WAL,a,1,109.0,d̠͡ʒ,False,a,False,1.0
+12.0,ARP,a,1,101.0,d͡z,False,a,False,0.5
+12.0,ARP,a,1,178.0,ð,False,b,False,0.5
+12.0,LIG,a,1,184.0,z,False,a,False,1.0
+12.0,LIG,a,1,101.0,d͡z,False,b,True,0.0
+12.0,EU POR,a,1,192.0,ʒ,False,a,False,1.0
+12.0,LMO,a,1,109.0,d̠͡ʒ,False,a,False,0.5
+12.0,LMO,a,1,184.0,z,False,b,False,0.5
+12.0,LOG SRD,a,1,44.0,ɡ,False,a,False,1.0
+12.0,CPN SRD,a,1,109.0,d̠͡ʒ,False,a,False,1.0
+12.0,COR,a,1,42.0,ɟ,False,a,False,1.0
+12.0,ITA,a,1,109.0,d̠͡ʒ,False,a,False,1.0
+12.0,CAM,a,1,348.0,j,False,a,False,1.0
+12.0,SCN,a,1,348.0,j,False,a,False,1.0
+12.0,VEN,a,1,188.0,z̠,False,a,False,0.5
+12.0,VEN,a,1,178.0,ð,False,b,False,0.5
+12.0,ARO,a,1,99.0,d͡z̪,False,a,False,1.0
+12.0,ROM,a,1,109.0,d̠͡ʒ,False,a,False,1.0
+12.0,GAL,a,1,191.0,ʃ,False,a,False,1.0
+12.0,ASL,a,1,191.0,ʃ,False,a,False,1.0
+12.0,CAS ESP,a,1,,∅,False,a,False,1.0
+12.0,AND ESP,a,1,,∅,False,a,False,1.0
+12.0,ARG,a,1,108.0,t̠͡ʃ,False,a,False,1.0
+13.0,BR POR,a,1,44.0,ɡ,False,a,False,1.0
+13.0,AMR ESP,a,1,44.0,ɡ,False,a,False,1.0
+13.0,LAT,a,1,44.0,ɡ,False,a,False,1.0
+13.0,CAT,a,1,44.0,ɡ,False,a,False,1.0
+13.0,VAL,a,1,44.0,ɡ,False,a,False,1.0
+13.0,BAL,a,1,44.0,ɡ,False,a,False,1.0
+13.0,OCC,a,1,44.0,ɡ,False,a,False,1.0
+13.0,OCC,a,1,101.0,d͡z,False,b,True,0.0
+13.0,GAS OCC,a,1,44.0,ɡ,False,a,False,1.0
+13.0,EU FRA,a,1,192.0,ʒ,False,a,False,1.0
+13.0,QBC FRA,a,1,192.0,ʒ,False,a,False,1.0
+13.0,WAL,a,1,109.0,d̠͡ʒ,False,a,False,1.0
+13.0,ARP,a,1,101.0,d͡z,False,a,False,0.5
+13.0,ARP,a,1,178.0,ð,False,b,False,0.5
+13.0,LIG,a,1,44.0,ɡ,False,a,False,1.0
+13.0,EU POR,a,1,44.0,ɡ,False,a,False,1.0
+13.0,LMO,a,1,44.0,ɡ,False,a,False,1.0
+13.0,RMH,a,1,42.0,ɟ,False,a,False,0.5
+13.0,RMH,a,1,109.0,d̠͡ʒ,False,b,False,0.5
+13.0,FUR,a,1,42.0,ɟ,False,a,False,0.5
+13.0,FUR,a,1,109.0,d̠͡ʒ,False,b,False,0.5
+13.0,LOG SRD,a,1,44.0,ɡ,False,a,False,1.0
+13.0,CPN SRD,a,1,44.0,ɡ,False,a,False,1.0
+13.0,COR,a,1,44.0,ɡ,False,a,False,1.0
+13.0,ITA,a,1,44.0,ɡ,False,a,False,1.0
+13.0,CAM,a,1,44.0,ɡ,False,a,False,1.0
+13.0,SCN,a,1,44.0,ɡ,False,a,False,0.5
+13.0,SCN,a,1,348.0,j,False,b,False,0.5
+13.0,VEN,a,1,44.0,ɡ,False,a,False,1.0
+13.0,ARO,a,1,44.0,ɡ,False,a,False,1.0
+13.0,ROM,a,1,44.0,ɡ,False,a,False,1.0
+13.0,GAL,a,1,44.0,ɡ,False,a,False,1.0
+13.0,GAL,a,1,203.0,ħ,False,b,True,0.0
+13.0,ASL,a,1,44.0,ɡ,False,a,False,1.0
+13.0,CAS ESP,a,1,44.0,ɡ,False,a,False,1.0
+13.0,AND ESP,a,1,44.0,ɡ,False,a,False,1.0
+13.0,ARG,a,1,44.0,ɡ,False,a,False,1.0
+14.0,BR POR,a,1,44.0,ɡ,False,a,False,1.0
+14.0,AMR ESP,a,1,44.0,ɡ,False,a,False,1.0
+14.0,LAT,a,1,44.0,ɡ,False,a,False,1.0
+14.0,CAT,a,1,44.0,ɡ,False,a,False,1.0
+14.0,VAL,a,1,44.0,ɡ,False,a,False,1.0
+14.0,BAL,a,1,44.0,ɡ,False,a,False,1.0
+14.0,OCC,a,1,44.0,ɡ,False,a,False,1.0
+14.0,GAS OCC,a,1,44.0,ɡ,False,a,False,1.0
+14.0,EU FRA,a,1,44.0,ɡ,False,a,False,1.0
+14.0,QBC FRA,a,1,44.0,ɡ,False,a,False,1.0
+14.0,WAL,a,1,44.0,ɡ,False,a,False,1.0
+14.0,ARP,a,1,44.0,ɡ,False,a,False,1.0
+14.0,LIG,a,1,44.0,ɡ,False,a,False,1.0
+14.0,EU POR,a,1,44.0,ɡ,False,a,False,1.0
+14.0,LMO,a,1,44.0,ɡ,False,a,False,1.0
+14.0,RMH,a,1,44.0,ɡ,False,a,False,1.0
+14.0,FUR,a,1,44.0,ɡ,False,a,False,1.0
+14.0,LOG SRD,a,1,44.0,ɡ,False,a,False,1.0
+14.0,CPN SRD,a,1,44.0,ɡ,False,a,False,1.0
+14.0,COR,a,1,44.0,ɡ,False,a,False,1.0
+14.0,ITA,a,1,44.0,ɡ,False,a,False,1.0
+14.0,CAM,a,1,44.0,ɡ,False,a,False,1.0
+14.0,SCN,a,1,44.0,ɡ,False,a,False,0.5
+14.0,SCN,a,1,348.0,j,False,b,False,0.5
+14.0,VEN,a,1,44.0,ɡ,False,a,False,1.0
+14.0,ARO,a,1,44.0,ɡ,False,a,False,1.0
+14.0,ROM,a,1,44.0,ɡ,False,a,False,1.0
+14.0,GAL,a,1,44.0,ɡ,False,a,False,1.0
+14.0,GAL,a,1,203.0,ħ,False,b,True,0.0
+14.0,ASL,a,1,44.0,ɡ,False,a,False,1.0
+14.0,CAS ESP,a,1,44.0,ɡ,False,a,False,1.0
+14.0,AND ESP,a,1,44.0,ɡ,False,a,False,1.0
+14.0,ARG,a,1,44.0,ɡ,False,a,False,1.0
+15.0,BR POR,a,1,257.0,n,False,a,False,1.0
+15.0,AMR ESP,a,1,257.0,n,False,a,False,1.0
+15.0,LAT,a,1,257.0,n,False,a,False,1.0
+15.0,CAT,a,1,257.0,n,False,a,False,1.0
+15.0,VAL,a,1,257.0,n,False,a,False,1.0
+15.0,BAL,a,1,257.0,n,False,a,False,1.0
+15.0,OCC,a,1,257.0,n,False,a,False,1.0
+15.0,GAS OCC,a,1,257.0,n,False,a,False,1.0
+15.0,EU FRA,a,1,256.0,n̪,False,a,False,1.0
+15.0,QBC FRA,a,1,256.0,n̪,False,a,False,1.0
+15.0,WAL,a,1,256.0,n̪,False,a,False,1.0
+15.0,ARP,a,1,257.0,n,False,a,False,1.0
+15.0,LIG,a,1,257.0,n,False,a,False,1.0
+15.0,EU POR,a,1,257.0,n,False,a,False,1.0
+15.0,LMO,a,1,257.0,n,False,a,False,1.0
+15.0,RMH,a,1,257.0,n,False,a,False,1.0
+15.0,FUR,a,1,257.0,n,False,a,False,1.0
+15.0,LOG SRD,a,1,257.0,n,False,a,False,1.0
+15.0,CPN SRD,a,1,257.0,n,False,a,False,1.0
+15.0,COR,a,1,257.0,n,False,a,False,1.0
+15.0,ITA,a,1,257.0,n,False,a,False,1.0
+15.0,ABR,a,1,257.0,n,False,a,False,1.0
+15.0,CAM,a,1,257.0,n,False,a,False,1.0
+15.0,PGL,a,1,257.0,n,False,a,False,1.0
+15.0,SCN,a,1,257.0,n,False,a,False,1.0
+15.0,VEN,a,1,257.0,n,False,a,False,1.0
+15.0,ARO,a,1,256.0,n̪,False,a,False,1.0
+15.0,ROM,a,1,256.0,n̪,False,a,False,1.0
+15.0,GAL,a,1,257.0,n,False,a,False,1.0
+15.0,ASL,a,1,257.0,n,False,a,False,0.5
+15.0,ASL,a,1,261.0,ɲ,False,b,False,0.5
+15.0,CAS ESP,a,1,257.0,n,False,a,False,1.0
+15.0,AND ESP,a,1,257.0,n,False,a,False,1.0
+15.0,ARG,a,1,257.0,n,False,a,False,1.0
+16.0,BR POR,a,1,257.0,n,False,a,False,1.0
+16.0,AMR ESP,a,1,257.0,n,False,a,False,1.0
+16.0,LAT,a,1,257.0,n,False,a,False,1.0
+16.0,CAT,a,1,257.0,n,False,a,False,1.0
+16.0,VAL,a,1,257.0,n,False,a,False,1.0
+16.0,BAL,a,1,257.0,n,False,a,False,1.0
+16.0,OCC,a,1,257.0,n,False,a,False,1.0
+16.0,GAS OCC,a,1,257.0,n,False,a,False,1.0
+16.0,EU FRA,a,1,256.0,n̪,False,a,False,1.0
+16.0,QBC FRA,a,1,256.0,n̪,False,a,False,1.0
+16.0,WAL,a,1,256.0,n̪,False,a,False,1.0
+16.0,ARP,a,1,257.0,n,False,a,False,1.0
+16.0,LIG,a,1,257.0,n,False,a,False,1.0
+16.0,EU POR,a,1,257.0,n,False,a,False,1.0
+16.0,LMO,a,1,257.0,n,False,a,False,1.0
+16.0,RMH,a,1,257.0,n,False,a,False,1.0
+16.0,FUR,a,1,257.0,n,False,a,False,1.0
+16.0,LOG SRD,a,1,257.0,n,False,a,False,1.0
+16.0,CPN SRD,a,1,257.0,n,False,a,False,1.0
+16.0,COR,a,1,257.0,n,False,a,False,1.0
+16.0,ITA,a,1,257.0,n,False,a,False,1.0
+16.0,ABR,a,1,257.0,n,False,a,False,1.0
+16.0,CAM,a,1,257.0,n,False,a,False,1.0
+16.0,PGL,a,1,257.0,n,False,a,False,1.0
+16.0,SCN,a,1,257.0,n,False,a,False,1.0
+16.0,VEN,a,1,257.0,n,False,a,False,1.0
+16.0,ARO,a,1,256.0,n̪,False,a,False,1.0
+16.0,ROM,a,1,256.0,n̪,False,a,False,1.0
+16.0,GAL,a,1,257.0,n,False,a,False,1.0
+16.0,ASL,a,1,257.0,n,False,a,False,0.5
+16.0,ASL,a,1,261.0,ɲ,False,b,False,0.5
+16.0,CAS ESP,a,1,257.0,n,False,a,False,1.0
+16.0,AND ESP,a,1,257.0,n,False,a,False,1.0
+16.0,ARG,a,1,257.0,n,False,a,False,1.0
+16.5,BR POR,a,1,254.0,m,False,a,False,1.0
+16.5,AMR ESP,a,1,254.0,m,False,a,False,1.0
+16.5,LAT,a,1,254.0,m,False,a,False,1.0
+16.5,CAT,a,1,254.0,m,False,a,False,1.0
+16.5,VAL,a,1,254.0,m,False,a,False,1.0
+16.5,BAL,a,1,254.0,m,False,a,False,1.0
+16.5,OCC,a,1,254.0,m,False,a,False,1.0
+16.5,GAS OCC,a,1,254.0,m,False,a,False,1.0
+16.5,EU FRA,a,1,254.0,m,False,a,False,1.0
+16.5,QBC FRA,a,1,254.0,m,False,a,False,1.0
+16.5,WAL,a,1,254.0,m,False,a,False,1.0
+16.5,ARP,a,1,254.0,m,False,a,False,1.0
+16.5,LIG,a,1,254.0,m,False,a,False,1.0
+16.5,EU POR,a,1,254.0,m,False,a,False,1.0
+16.5,LMO,a,1,254.0,m,False,a,False,1.0
+16.5,RMH,a,1,254.0,m,False,a,False,1.0
+16.5,FUR,a,1,254.0,m,False,a,False,1.0
+16.5,LOG SRD,a,1,254.0,m,False,a,False,1.0
+16.5,CPN SRD,a,1,254.0,m,False,a,False,1.0
+16.5,COR,a,1,254.0,m,False,a,False,1.0
+16.5,ITA,a,1,254.0,m,False,a,False,1.0
+16.5,ABR,a,1,254.0,m,False,a,False,1.0
+16.5,CAM,a,1,254.0,m,False,a,False,1.0
+16.5,PGL,a,1,254.0,m,False,a,False,1.0
+16.5,SCN,a,1,254.0,m,False,a,False,1.0
+16.5,VEN,a,1,254.0,m,False,a,False,1.0
+16.5,ARO,a,1,254.0,m,False,a,False,1.0
+16.5,ROM,a,1,254.0,m,False,a,False,1.0
+16.5,GAL,a,1,254.0,m,False,a,False,1.0
+16.5,ASL,a,1,254.0,m,False,a,False,1.0
+16.5,CAS ESP,a,1,254.0,m,False,a,False,1.0
+16.5,AND ESP,a,1,254.0,m,False,a,False,1.0
+16.5,ARG,a,1,254.0,m,False,a,False,1.0
+17.0,BR POR,a,1,175.0,f,False,a,False,1.0
+17.0,AMR ESP,a,1,173.0,ɸ,False,a,False,0.5
+17.0,AMR ESP,a,1,175.0,f,False,b,False,0.5
+17.0,LAT,a,1,173.0,ɸ,False,a,False,0.5
+17.0,LAT,a,1,175.0,f,False,b,False,0.5
+17.0,CAT,a,1,175.0,f,False,a,False,1.0
+17.0,VAL,a,1,175.0,f,False,a,False,1.0
+17.0,BAL,a,1,175.0,f,False,a,False,1.0
+17.0,OCC,a,1,175.0,f,False,a,False,1.0
+17.0,GAS OCC,a,1,175.0,f,False,a,False,1.0
+17.0,EU FRA,a,1,175.0,f,False,a,False,1.0
+17.0,QBC FRA,a,1,175.0,f,False,a,False,1.0
+17.0,WAL,a,1,175.0,f,False,a,False,1.0
+17.0,ARP,a,1,175.0,f,False,a,False,1.0
+17.0,LIG,a,1,175.0,f,False,a,False,1.0
+17.0,EU POR,a,1,175.0,f,False,a,False,1.0
+17.0,LMO,a,1,175.0,f,False,a,False,1.0
+17.0,RMH,a,1,175.0,f,False,a,False,1.0
+17.0,FUR,a,1,175.0,f,False,a,False,1.0
+17.0,LOG SRD,a,1,175.0,f,False,a,False,1.0
+17.0,CPN SRD,a,1,175.0,f,False,a,False,1.0
+17.0,COR,a,1,175.0,f,False,a,False,1.0
+17.0,ITA,a,1,175.0,f,False,a,False,1.0
+17.0,ABR,a,1,175.0,f,False,a,False,1.0
+17.0,CAM,a,1,175.0,f,False,a,False,1.0
+17.0,PGL,a,1,175.0,f,False,a,False,1.0
+17.0,SCN,a,1,175.0,f,False,a,False,1.0
+17.0,VEN,a,1,175.0,f,False,a,False,1.0
+17.0,ARO,a,1,175.0,f,False,a,False,1.0
+17.0,ROM,a,1,175.0,f,False,a,False,1.0
+17.0,GAL,a,1,175.0,f,False,a,False,1.0
+17.0,ASL,a,1,175.0,f,False,a,False,1.0
+17.0,ASL,a,1,205.0,h,False,b,True,0.0
+17.0,CAS ESP,a,1,173.0,ɸ,False,a,False,0.5
+17.0,CAS ESP,a,1,175.0,f,False,b,False,0.5
+17.0,AND ESP,a,1,173.0,ɸ,False,a,False,0.5
+17.0,AND ESP,a,1,175.0,f,False,b,False,0.5
+17.0,ARG,a,1,175.0,f,False,a,False,1.0
+18.0,BR POR,a,1,175.0,f,False,a,False,1.0
+18.0,AMR ESP,a,1,,∅,False,a,False,1.0
+18.0,LAT,a,1,173.0,ɸ,False,a,False,0.5
+18.0,LAT,a,1,175.0,f,False,b,False,0.5
+18.0,CAT,a,1,175.0,f,False,a,False,1.0
+18.0,VAL,a,1,175.0,f,False,a,False,1.0
+18.0,BAL,a,1,175.0,f,False,a,False,1.0
+18.0,OCC,a,1,175.0,f,False,a,False,1.0
+18.0,GAS OCC,a,1,175.0,f,False,a,False,1.0
+18.0,EU FRA,a,1,175.0,f,False,a,False,1.0
+18.0,QBC FRA,a,1,175.0,f,False,a,False,1.0
+18.0,WAL,a,1,175.0,f,False,a,False,1.0
+18.0,ARP,a,1,175.0,f,False,a,False,1.0
+18.0,LIG,a,1,175.0,f,False,a,False,1.0
+18.0,EU POR,a,1,175.0,f,False,a,False,1.0
+18.0,LMO,a,1,175.0,f,False,a,False,1.0
+18.0,RMH,a,1,175.0,f,False,a,False,1.0
+18.0,FUR,a,1,175.0,f,False,a,False,1.0
+18.0,LOG SRD,a,1,175.0,f,False,a,False,1.0
+18.0,CPN SRD,a,1,175.0,f,False,a,False,1.0
+18.0,COR,a,1,175.0,f,False,a,False,1.0
+18.0,ITA,a,1,175.0,f,False,a,False,1.0
+18.0,ABR,a,1,175.0,f,False,a,False,1.0
+18.0,CAM,a,1,175.0,f,False,a,False,1.0
+18.0,PGL,a,1,175.0,f,False,a,False,1.0
+18.0,SCN,a,1,175.0,f,False,a,False,1.0
+18.0,VEN,a,1,175.0,f,False,a,False,1.0
+18.0,ARO,a,1,175.0,f,False,a,False,1.0
+18.0,ROM,a,1,175.0,f,False,a,False,1.0
+18.0,GAL,a,1,175.0,f,False,a,False,1.0
+18.0,ASL,a,1,175.0,f,False,a,False,1.0
+18.0,ASL,a,1,205.0,h,False,b,True,0.0
+18.0,CAS ESP,a,1,,∅,False,a,False,1.0
+18.0,AND ESP,a,1,205.0,h,False,a,False,0.5
+18.0,AND ESP,a,1,,∅,False,b,False,0.5
+18.0,ARG,a,1,175.0,f,False,a,False,1.0
+19.0,BR POR,a,1,176.0,v,False,a,False,1.0
+19.0,AMR ESP,a,1,26.0,b,False,a,False,1.0
+19.0,LAT,a,1,346.0,w,False,a,False,1.0
+19.0,CAT,a,1,26.0,b,False,a,False,1.0
+19.0,VAL,a,1,176.0,v,False,a,False,1.0
+19.0,BAL,a,1,176.0,v,False,a,False,1.0
+19.0,OCC,a,1,26.0,b,False,a,False,0.5
+19.0,OCC,a,1,176.0,v,False,b,False,0.5
+19.0,GAS OCC,a,1,26.0,b,False,a,False,1.0
+19.0,EU FRA,a,1,176.0,v,False,a,False,1.0
+19.0,QBC FRA,a,1,176.0,v,False,a,False,1.0
+19.0,WAL,a,1,176.0,v,False,a,False,1.0
+19.0,ARP,a,1,176.0,v,False,a,False,1.0
+19.0,LIG,a,1,176.0,v,False,a,False,1.0
+19.0,EU POR,a,1,176.0,v,False,a,False,1.0
+19.0,EU POR,a,1,26.0,b,False,b,True,0.0
+19.0,LMO,a,1,176.0,v,False,a,False,1.0
+19.0,RMH,a,1,176.0,v,False,a,False,1.0
+19.0,LOG SRD,a,1,26.0,b,False,a,False,1.0
+19.0,CPN SRD,a,1,26.0,b,False,a,False,1.0
+19.0,ITA,a,1,176.0,v,False,a,False,1.0
+19.0,CAM,a,1,176.0,v,False,a,False,1.0
+19.0,SCN,a,1,176.0,v,False,a,False,1.0
+19.0,VEN,a,1,176.0,v,False,a,False,1.0
+19.0,ARO,a,1,176.0,v,False,a,False,1.0
+19.0,ROM,a,1,176.0,v,False,a,False,1.0
+19.0,GAL,a,1,26.0,b,False,a,False,1.0
+19.0,ASL,a,1,26.0,b,False,a,False,1.0
+19.0,CAS ESP,a,1,26.0,b,False,a,False,1.0
+19.0,AND ESP,a,1,26.0,b,False,a,False,1.0
+20.0,BR POR,a,1,176.0,v,False,a,False,1.0
+20.0,AMR ESP,a,1,26.0,b,False,a,False,1.0
+20.0,LAT,a,1,346.0,w,False,a,False,1.0
+20.0,CAT,a,1,26.0,b,False,a,False,1.0
+20.0,VAL,a,1,176.0,v,False,a,False,1.0
+20.0,BAL,a,1,176.0,v,False,a,False,1.0
+20.0,OCC,a,1,26.0,b,False,a,False,0.5
+20.0,OCC,a,1,176.0,v,False,b,False,0.5
+20.0,GAS OCC,a,1,26.0,b,False,a,False,1.0
+20.0,EU FRA,a,1,176.0,v,False,a,False,1.0
+20.0,QBC FRA,a,1,176.0,v,False,a,False,1.0
+20.0,WAL,a,1,176.0,v,False,a,False,1.0
+20.0,ARP,a,1,176.0,v,False,a,False,1.0
+20.0,LIG,a,1,176.0,v,False,a,False,1.0
+20.0,EU POR,a,1,176.0,v,False,a,False,1.0
+20.0,EU POR,a,1,26.0,b,False,b,True,0.0
+20.0,LMO,a,1,176.0,v,False,a,False,1.0
+20.0,RMH,a,1,176.0,v,False,a,False,1.0
+20.0,LOG SRD,a,1,26.0,b,False,a,False,1.0
+20.0,CPN SRD,a,1,26.0,b,False,a,False,1.0
+20.0,ITA,a,1,176.0,v,False,a,False,1.0
+20.0,CAM,a,1,176.0,v,False,a,False,1.0
+20.0,SCN,a,1,176.0,v,False,a,False,1.0
+20.0,VEN,a,1,176.0,v,False,a,False,1.0
+20.0,ARO,a,1,176.0,v,False,a,False,1.0
+20.0,ROM,a,1,176.0,v,False,a,False,1.0
+20.0,GAL,a,1,26.0,b,False,a,False,1.0
+20.0,ASL,a,1,26.0,b,False,a,False,1.0
+20.0,CAS ESP,a,1,26.0,b,False,a,False,1.0
+20.0,AND ESP,a,1,26.0,b,False,a,False,1.0
+21.0,BR POR,a,1,183.0,s,False,a,False,1.0
+21.0,AMR ESP,a,1,183.0,s,False,a,False,1.0
+21.0,LAT,a,1,187.0,s̠,False,a,False,1.0
+21.0,CAT,a,1,187.0,s̠,False,a,False,1.0
+21.0,VAL,a,1,187.0,s̠,False,a,False,1.0
+21.0,BAL,a,1,187.0,s̠,False,a,False,1.0
+21.0,OCC,a,1,187.0,s̠,False,a,False,1.0
+21.0,GAS OCC,a,1,187.0,s̠,False,a,False,1.0
+21.0,EU FRA,a,1,181.0,s̪,False,a,False,1.0
+21.0,QBC FRA,a,1,181.0,s̪,False,a,False,1.0
+21.0,WAL,a,1,181.0,s̪,False,a,False,1.0
+21.0,ARP,a,1,183.0,s,False,a,False,1.0
+21.0,LIG,a,1,183.0,s,False,a,False,1.0
+21.0,EU POR,a,1,183.0,s,False,a,False,1.0
+21.0,EU POR,a,1,187.0,s̠,False,b,True,0.0
+21.0,LMO,a,1,187.0,s̠,False,a,False,1.0
+21.0,RMH,a,1,183.0,s,False,a,False,1.0
+21.0,FUR,a,1,187.0,s̠,False,a,False,0.5
+21.0,FUR,a,1,183.0,s,False,b,False,0.5
+21.0,LOG SRD,a,1,187.0,s̠,False,a,False,1.0
+21.0,CPN SRD,a,1,183.0,s,False,a,False,1.0
+21.0,CPN SRD,a,1,187.0,s̠,False,b,True,0.0
+21.0,COR,a,1,183.0,s,False,a,False,1.0
+21.0,ITA,a,1,183.0,s,False,a,False,1.0
+21.0,ABR,a,1,183.0,s,False,a,False,1.0
+21.0,CAM,a,1,183.0,s,False,a,False,1.0
+21.0,PGL,a,1,183.0,s,False,a,False,1.0
+21.0,SCN,a,1,183.0,s,False,a,False,1.0
+21.0,VEN,a,1,187.0,s̠,False,a,False,1.0
+21.0,ARO,a,1,181.0,s̪,False,a,False,1.0
+21.0,ROM,a,1,181.0,s̪,False,a,False,1.0
+21.0,ROM,b,1,191.0,ʃ,False,a,False,1.0
+21.0,GAL,a,1,187.0,s̠,False,a,False,1.0
+21.0,GAL,a,1,183.0,s,False,b,True,0.0
+21.0,ASL,a,1,187.0,s̠,False,a,False,1.0
+21.0,CAS ESP,a,1,187.0,s̠,False,a,False,1.0
+21.0,AND ESP,a,1,179.0,s̟,False,a,False,1.0
+21.0,ARG,a,1,187.0,s̠,False,a,False,1.0
+22.0,BR POR,a,1,183.0,s,False,a,False,1.0
+22.0,AMR ESP,a,1,183.0,s,False,a,False,1.0
+22.0,LAT,a,1,187.0,s̠,False,a,False,1.0
+22.0,CAT,a,1,187.0,s̠,False,a,False,1.0
+22.0,VAL,a,1,187.0,s̠,False,a,False,1.0
+22.0,BAL,a,1,187.0,s̠,False,a,False,1.0
+22.0,OCC,a,1,187.0,s̠,False,a,False,1.0
+22.0,GAS OCC,a,1,187.0,s̠,False,a,False,1.0
+22.0,EU FRA,a,1,181.0,s̪,False,a,False,1.0
+22.0,QBC FRA,a,1,181.0,s̪,False,a,False,1.0
+22.0,WAL,a,1,181.0,s̪,False,a,False,1.0
+22.0,ARP,a,1,183.0,s,False,a,False,1.0
+22.0,LIG,a,1,183.0,s,False,a,False,1.0
+22.0,EU POR,a,1,183.0,s,False,a,False,1.0
+22.0,EU POR,a,1,187.0,s̠,False,b,True,0.0
+22.0,LMO,a,1,187.0,s̠,False,a,False,1.0
+22.0,RMH,a,1,183.0,s,False,a,False,1.0
+22.0,FUR,a,1,187.0,s̠,False,a,False,0.5
+22.0,FUR,a,1,183.0,s,False,b,False,0.5
+22.0,LOG SRD,a,1,187.0,s̠,False,a,False,1.0
+22.0,CPN SRD,a,1,183.0,s,False,a,False,1.0
+22.0,CPN SRD,a,1,187.0,s̠,False,b,True,0.0
+22.0,COR,a,1,183.0,s,False,a,False,1.0
+22.0,ITA,a,1,183.0,s,False,a,False,1.0
+22.0,ABR,a,1,183.0,s,False,a,False,1.0
+22.0,CAM,a,1,183.0,s,False,a,False,1.0
+22.0,PGL,a,1,183.0,s,False,a,False,1.0
+22.0,SCN,a,1,183.0,s,False,a,False,1.0
+22.0,VEN,a,1,187.0,s̠,False,a,False,1.0
+22.0,ARO,a,1,181.0,s̪,False,a,False,1.0
+22.0,ROM,a,1,181.0,s̪,False,a,False,1.0
+22.0,ROM,b,1,191.0,ʃ,False,a,False,1.0
+22.0,GAL,a,1,187.0,s̠,False,a,False,1.0
+22.0,GAL,a,1,183.0,s,False,b,True,0.0
+22.0,ASL,a,1,187.0,s̠,False,a,False,1.0
+22.0,CAS ESP,a,1,187.0,s̠,False,a,False,1.0
+22.0,AND ESP,a,1,179.0,s̟,False,a,False,1.0
+22.0,ARG,a,1,187.0,s̠,False,a,False,1.0
+23.0,BR POR,a,1,183.0,s,False,a,False,1.0
+23.0,AMR ESP,a,1,183.0,s,False,a,False,1.0
+23.0,LAT,a,1,187.0,s̠,False,a,False,1.0
+23.0,CAT,a,1,187.0,s̠,False,a,False,1.0
+23.0,VAL,a,1,187.0,s̠,False,a,False,1.0
+23.0,BAL,a,1,187.0,s̠,False,a,False,1.0
+23.0,OCC,a,1,187.0,s̠,False,a,False,1.0
+23.0,GAS OCC,a,1,187.0,s̠,False,a,False,1.0
+23.0,EU FRA,a,1,181.0,s̪,False,a,False,1.0
+23.0,QBC FRA,a,1,181.0,s̪,False,a,False,1.0
+23.0,WAL,a,1,181.0,s̪,False,a,False,1.0
+23.0,ARP,a,1,183.0,s,False,a,False,1.0
+23.0,LIG,a,1,183.0,s,False,a,False,1.0
+23.0,EU POR,a,1,183.0,s,False,a,False,1.0
+23.0,EU POR,a,1,187.0,s̠,False,b,True,0.0
+23.0,LMO,a,1,187.0,s̠,False,a,False,1.0
+23.0,RMH,a,1,183.0,s,False,a,False,1.0
+23.0,FUR,a,1,187.0,s̠,False,a,False,0.5
+23.0,FUR,a,1,183.0,s,False,b,False,0.5
+23.0,LOG SRD,a,1,187.0,s̠,False,a,False,1.0
+23.0,CPN SRD,a,1,183.0,s,False,a,False,1.0
+23.0,CPN SRD,a,1,187.0,s̠,False,b,True,0.0
+23.0,COR,a,1,183.0,s,False,a,False,1.0
+23.0,ITA,a,1,183.0,s,False,a,False,1.0
+23.0,ABR,a,1,183.0,s,False,a,False,1.0
+23.0,CAM,a,1,183.0,s,False,a,False,1.0
+23.0,PGL,a,1,183.0,s,False,a,False,1.0
+23.0,SCN,a,1,183.0,s,False,a,False,1.0
+23.0,VEN,a,1,187.0,s̠,False,a,False,1.0
+23.0,ARO,a,1,181.0,s̪,False,a,False,1.0
+23.0,ROM,a,1,181.0,s̪,False,a,False,1.0
+23.0,GAL,a,1,187.0,s̠,False,a,False,1.0
+23.0,GAL,a,1,183.0,s,False,b,True,0.0
+23.0,ASL,a,1,187.0,s̠,False,a,False,1.0
+23.0,CAS ESP,a,1,187.0,s̠,False,a,False,1.0
+23.0,AND ESP,a,1,179.0,s̟,False,a,False,1.0
+23.0,ARG,a,1,187.0,s̠,False,a,False,1.0
+24.0,BR POR,a,1,,∅,False,a,False,1.0
+24.0,AMR ESP,a,1,,∅,False,a,False,1.0
+24.0,LAT,a,1,205.0,h,False,a,False,0.5
+24.0,LAT,a,1,,∅,False,b,False,0.5
+24.0,CAT,a,1,,∅,False,a,False,1.0
+24.0,VAL,a,1,,∅,False,a,False,1.0
+24.0,BAL,a,1,,∅,False,a,False,1.0
+24.0,OCC,a,1,,∅,False,a,False,1.0
+24.0,GAS OCC,a,1,,∅,False,a,False,1.0
+24.0,EU FRA,a,1,,∅,False,a,False,1.0
+24.0,QBC FRA,a,1,,∅,False,a,False,1.0
+24.0,WAL,a,1,205.0,h,False,a,False,0.5
+24.0,WAL,a,1,,∅,False,b,False,0.5
+24.0,ARP,a,1,,∅,False,a,False,1.0
+24.0,LIG,a,1,,∅,False,a,False,1.0
+24.0,EU POR,a,1,,∅,False,a,False,1.0
+24.0,LMO,a,1,,∅,False,a,False,1.0
+24.0,RMH,a,1,,∅,False,a,False,1.0
+24.0,FUR,a,1,,∅,False,a,False,1.0
+24.0,LOG SRD,a,1,,∅,False,a,False,1.0
+24.0,CPN SRD,a,1,,∅,False,a,False,1.0
+24.0,COR,a,1,,∅,False,a,False,1.0
+24.0,ITA,a,1,,∅,False,a,False,1.0
+24.0,ABR,a,1,,∅,False,a,False,1.0
+24.0,CAM,a,1,,∅,False,a,False,1.0
+24.0,PGL,a,1,,∅,False,a,False,1.0
+24.0,SCN,a,1,,∅,False,a,False,1.0
+24.0,VEN,a,1,,∅,False,a,False,1.0
+24.0,ARO,a,1,,∅,False,a,False,1.0
+24.0,ROM,a,1,,∅,False,a,False,1.0
+24.0,WAL,b,1,,∅,False,a,False,1.0
+24.0,ITA,b,1,,∅,False,a,False,1.0
+24.0,CAM,b,1,,∅,False,a,False,1.0
+24.0,SCN,b,1,,∅,False,a,False,1.0
+24.0,GAL,a,1,,∅,False,a,False,1.0
+24.0,ASL,a,1,,∅,False,a,False,1.0
+24.0,CAS ESP,a,1,,∅,False,a,False,1.0
+24.0,AND ESP,a,1,,∅,False,a,False,1.0
+24.0,ARG,a,1,,∅,False,a,False,1.0
+25.0,BR POR,a,1,199.0,x,False,a,False,0.5
+25.0,BR POR,a,1,205.0,h,False,b,False,0.5
+25.0,AMR ESP,a,1,245.0,r,False,a,False,1.0
+25.0,LAT,a,1,245.0,r,False,a,False,1.0
+25.0,CAT,a,1,247.0,r̠,False,a,False,1.0
+25.0,VAL,a,1,247.0,r̠,False,a,False,1.0
+25.0,BAL,a,1,247.0,r̠,False,a,False,1.0
+25.0,OCC,a,1,245.0,r,False,a,False,1.0
+25.0,OCC,a,1,251.0,ʀ,False,b,True,0.0
+25.0,GAS OCC,a,1,245.0,r,False,a,False,1.0
+25.0,EU FRA,a,1,202.0,ʁ,False,a,False,1.0
+25.0,EU FRA,a,1,251.0,ʀ,False,b,True,0.0
+25.0,QBC FRA,a,1,202.0,ʁ,False,a,False,1.0
+25.0,QBC FRA,a,1,251.0,ʀ,False,b,True,0.0
+25.0,WAL,a,1,251.0,ʀ,False,a,False,1.0
+25.0,ARP,a,1,245.0,r,False,a,False,1.0
+25.0,ARP,a,1,251.0,ʀ,False,b,True,0.0
+25.0,LIG,a,1,245.0,r,False,a,False,1.0
+25.0,EU POR,a,1,202.0,ʁ,False,a,False,1.0
+25.0,EU POR,a,1,245.0,r,False,b,True,0.0
+25.0,LMO,a,1,245.0,r,False,a,False,1.0
+25.0,RMH,a,1,245.0,r,False,a,False,1.0
+25.0,RMH,a,1,202.0,ʁ,False,b,True,0.0
+25.0,FUR,a,1,245.0,r,False,a,False,1.0
+25.0,LOG SRD,a,1,245.0,r,False,a,False,1.0
+25.0,CPN SRD,a,1,245.0,r,False,a,False,1.0
+25.0,COR,a,1,245.0,r,False,a,False,1.0
+25.0,ITA,a,1,245.0,r,False,a,False,1.0
+25.0,ABR,a,1,245.0,r,False,a,False,1.0
+25.0,CAM,a,1,245.0,r,False,a,False,1.0
+25.0,PGL,a,1,245.0,r,False,a,False,1.0
+25.0,SCN,a,1,,ʐː,False,a,False,0.5
+25.0,SCN,a,1,221.0,rː,False,b,False,0.5
+25.0,VEN,a,1,245.0,r,False,a,False,1.0
+25.0,ARO,a,1,267.0,ɾ̪,False,a,False,1.0
+25.0,ROM,a,1,267.0,ɾ̪,False,a,False,1.0
+25.0,GAL,a,1,245.0,r,False,a,False,1.0
+25.0,ASL,a,1,245.0,r,False,a,False,1.0
+25.0,CAS ESP,a,1,245.0,r,False,a,False,1.0
+25.0,AND ESP,a,1,245.0,r,False,a,False,1.0
+25.0,ARG,a,1,245.0,r,False,a,False,1.0
+26.0,BR POR,a,1,303.0,l,False,a,False,1.0
+26.0,AMR ESP,a,1,303.0,l,False,a,False,1.0
+26.0,LAT,a,1,309.0,ɫ̪,False,a,False,1.0
+26.0,CAT,a,1,,ȴ [ʎ̟],False,a,False,1.0
+26.0,VAL,a,1,,ȴ [ʎ̟],False,a,False,1.0
+26.0,BAL,a,1,,ȴ [ʎ̟],False,a,False,1.0
+26.0,OCC,a,1,303.0,l,False,a,False,1.0
+26.0,GAS OCC,a,1,303.0,l,False,a,False,1.0
+26.0,EU FRA,a,1,303.0,l,False,a,False,1.0
+26.0,QBC FRA,a,1,303.0,l,False,a,False,1.0
+26.0,WAL,a,1,303.0,l,False,a,False,1.0
+26.0,ARP,a,1,303.0,l,False,a,False,1.0
+26.0,LIG,a,1,303.0,l,False,a,False,1.0
+26.0,EU POR,a,1,309.0,ɫ̪,False,a,False,1.0
+26.0,LMO,a,1,303.0,l,False,a,False,1.0
+26.0,RMH,a,1,303.0,l,False,a,False,1.0
+26.0,FUR,a,1,303.0,l,False,a,False,1.0
+26.0,LOG SRD,a,1,303.0,l,False,a,False,1.0
+26.0,CPN SRD,a,1,303.0,l,False,a,False,1.0
+26.0,COR,a,1,303.0,l,False,a,False,1.0
+26.0,ITA,a,1,303.0,l,False,a,False,1.0
+26.0,ABR,a,1,303.0,l,False,a,False,1.0
+26.0,CAM,a,1,303.0,l,False,a,False,1.0
+26.0,PGL,a,1,303.0,l,False,a,False,1.0
+26.0,SCN,a,1,303.0,l,False,a,False,1.0
+26.0,VEN,a,1,303.0,l,False,a,False,1.0
+26.0,VEN,a,1,350.0,ɰ,False,b,True,0.0
+26.0,ARO,a,1,303.0,l,False,a,False,1.0
+26.0,ROM,a,1,303.0,l,False,a,False,1.0
+26.0,LAT,b,1,305.0,l̪ʲ,False,a,False,1.0
+26.0,RMH,b,1,,ȴ [ʎ̟],False,a,False,1.0
+26.0,GAL,a,1,303.0,l,False,a,False,1.0
+26.0,ASL,a,1,,ȴ[ʎ̟],False,a,False,1.0
+26.0,ASL,a,1,112.0,ʈ͡ʂ,False,b,True,0.0
+26.0,CAS ESP,a,1,303.0,l,False,a,False,1.0
+26.0,AND ESP,a,1,303.0,l,False,a,False,1.0
+26.0,ARG,a,1,303.0,l,False,a,False,1.0
+26.0,ARG,a,1,304.0,ȴ,False,b,True,0.0
+27.0,BR POR,a,1,303.0,l,False,a,False,1.0
+27.0,AMR ESP,a,1,303.0,l,False,a,False,1.0
+27.0,LAT,a,1,309.0,ɫ̪,False,a,False,1.0
+27.0,CAT,a,1,,ȴ [ʎ̟],False,a,False,1.0
+27.0,VAL,a,1,,ȴ [ʎ̟],False,a,False,1.0
+27.0,BAL,a,1,,ȴ [ʎ̟],False,a,False,1.0
+27.0,OCC,a,1,303.0,l,False,a,False,1.0
+27.0,GAS OCC,a,1,303.0,l,False,a,False,1.0
+27.0,EU FRA,a,1,303.0,l,False,a,False,1.0
+27.0,QBC FRA,a,1,303.0,l,False,a,False,1.0
+27.0,WAL,a,1,303.0,l,False,a,False,1.0
+27.0,ARP,a,1,303.0,l,False,a,False,1.0
+27.0,LIG,a,1,303.0,l,False,a,False,1.0
+27.0,EU POR,a,1,309.0,ɫ̪,False,a,False,1.0
+27.0,LMO,a,1,303.0,l,False,a,False,1.0
+27.0,RMH,a,1,303.0,l,False,a,False,1.0
+27.0,FUR,a,1,303.0,l,False,a,False,1.0
+27.0,LOG SRD,a,1,303.0,l,False,a,False,1.0
+27.0,CPN SRD,a,1,303.0,l,False,a,False,1.0
+27.0,COR,a,1,303.0,l,False,a,False,1.0
+27.0,ITA,a,1,303.0,l,False,a,False,1.0
+27.0,ABR,a,1,303.0,l,False,a,False,1.0
+27.0,CAM,a,1,303.0,l,False,a,False,1.0
+27.0,PGL,a,1,303.0,l,False,a,False,1.0
+27.0,SCN,a,1,303.0,l,False,a,False,1.0
+27.0,VEN,a,1,303.0,l,False,a,False,1.0
+27.0,VEN,a,1,350.0,ɰ,False,b,True,0.0
+27.0,ARO,a,1,303.0,l,False,a,False,1.0
+27.0,ROM,a,1,303.0,l,False,a,False,1.0
+27.0,RMH,b,1,,ȴ [ʎ̟],False,a,False,1.0
+27.0,GAL,a,1,303.0,l,False,a,False,1.0
+27.0,ASL,a,1,,ȴ[ʎ̟],False,a,False,1.0
+27.0,ASL,a,1,112.0,ʈ͡ʂ,False,b,True,0.0
+27.0,CAS ESP,a,1,303.0,l,False,a,False,1.0
+27.0,AND ESP,a,1,303.0,l,False,a,False,1.0
+27.0,ARG,a,1,303.0,l,False,a,False,1.0
+27.0,ARG,a,1,304.0,ȴ,False,b,True,0.0
+28.0,BR POR,a,1,192.0,ʒ,False,a,False,1.0
+28.0,AMR ESP,a,1,205.0,h,False,a,False,1.0
+28.0,LAT,a,1,348.0,j,False,a,False,1.0
+28.0,CAT,a,1,192.0,ʒ,False,a,False,1.0
+28.0,VAL,a,1,109.0,d̠͡ʒ,False,a,False,1.0
+28.0,BAL,a,1,192.0,ʒ,False,a,False,1.0
+28.0,OCC,a,1,,̠d̠͡ʒ,False,a,False,1.0
+28.0,OCC,a,1,105.0,d͡z̠,False,b,True,0.0
+28.0,GAS OCC,a,1,192.0,ʒ,False,a,False,1.0
+28.0,EU FRA,a,1,192.0,ʒ,False,a,False,1.0
+28.0,QBC FRA,a,1,192.0,ʒ,False,a,False,1.0
+28.0,WAL,a,1,109.0,d̠͡ʒ,False,a,False,1.0
+28.0,ARP,a,1,101.0,d͡z,False,a,False,0.5
+28.0,ARP,a,1,178.0,ð,False,b,False,0.5
+28.0,LIG,a,1,184.0,z,False,a,False,1.0
+28.0,LIG,a,1,101.0,d͡z,False,b,True,0.0
+28.0,EU POR,a,1,192.0,ʒ,False,a,False,1.0
+28.0,LMO,a,1,109.0,d̠͡ʒ,False,a,False,0.5
+28.0,LMO,a,1,184.0,z,False,b,False,0.5
+28.0,LOG SRD,a,1,348.0,j,False,a,False,1.0
+28.0,CPN SRD,a,1,109.0,d̠͡ʒ,False,a,False,1.0
+28.0,ITA,a,1,109.0,d̠͡ʒ,False,a,False,1.0
+28.0,CAM,a,1,348.0,j,False,a,False,1.0
+28.0,SCN,a,1,348.0,j,False,a,False,1.0
+28.0,ROM,a,1,192.0,ʒ,False,a,False,1.0
+28.0,GAL,a,1,191.0,ʃ,False,a,False,1.0
+28.0,ASL,a,1,191.0,ʃ,False,a,False,1.0
+28.0,CAS ESP,a,1,199.0,x,False,a,False,1.0
+28.0,AND ESP,a,1,205.0,h,False,a,False,1.0
+28.0,ARG,a,1,108.0,t̠͡ʃ,False,a,False,1.0
+29.0,BR POR,a,1,192.0,ʒ,False,a,False,1.0
+29.0,AMR ESP,a,1,,∅,False,a,False,1.0
+29.0,LAT,a,1,348.0,j,False,a,False,1.0
+29.0,CAT,a,1,192.0,ʒ,False,a,False,1.0
+29.0,VAL,a,1,109.0,d̠͡ʒ,False,a,False,1.0
+29.0,BAL,a,1,192.0,ʒ,False,a,False,1.0
+29.0,OCC,a,1,,̠d̠͡ʒ,False,a,False,1.0
+29.0,OCC,a,1,105.0,d͡z̠,False,b,True,0.0
+29.0,GAS OCC,a,1,192.0,ʒ,False,a,False,1.0
+29.0,EU FRA,a,1,192.0,ʒ,False,a,False,1.0
+29.0,QBC FRA,a,1,192.0,ʒ,False,a,False,1.0
+29.0,WAL,a,1,109.0,d̠͡ʒ,False,a,False,1.0
+29.0,ARP,a,1,101.0,d͡z,False,a,False,0.5
+29.0,ARP,a,1,178.0,ð,False,b,False,0.5
+29.0,LIG,a,1,184.0,z,False,a,False,1.0
+29.0,LIG,a,1,101.0,d͡z,False,b,True,0.0
+29.0,EU POR,a,1,192.0,ʒ,False,a,False,1.0
+29.0,LMO,a,1,109.0,d̠͡ʒ,False,a,False,0.5
+29.0,LMO,a,1,184.0,z,False,b,False,0.5
+29.0,ITA,a,1,109.0,d̠͡ʒ,False,a,False,1.0
+29.0,CAM,a,1,348.0,j,False,a,False,1.0
+29.0,SCN,a,1,348.0,j,False,a,False,1.0
+29.0,ROM,a,1,192.0,ʒ,False,a,False,1.0
+29.0,GAL,a,1,191.0,ʃ,False,a,False,1.0
+29.0,ASL,a,1,191.0,ʃ,False,a,False,1.0
+29.0,CAS ESP,a,1,,∅,False,a,False,1.0
+29.0,AND ESP,a,1,,∅,False,a,False,1.0
+29.0,ARG,a,1,108.0,t̠͡ʃ,False,a,False,1.0
+30.0,BR POR,a,1,192.0,ʒ,False,a,False,1.0
+30.0,AMR ESP,a,1,115.0,ɟ͡ʝ,False,a,False,1.0
+30.0,LAT,a,1,348.0,j,False,a,False,1.0
+30.0,CAT,a,1,192.0,ʒ,False,a,False,1.0
+30.0,VAL,a,1,109.0,d̠͡ʒ,False,a,False,1.0
+30.0,BAL,a,1,192.0,ʒ,False,a,False,1.0
+30.0,OCC,a,1,,̠d̠͡ʒ,False,a,False,1.0
+30.0,OCC,a,1,105.0,d͡z̠,False,b,True,0.0
+30.0,GAS OCC,a,1,192.0,ʒ,False,a,False,1.0
+30.0,EU FRA,a,1,192.0,ʒ,False,a,False,1.0
+30.0,QBC FRA,a,1,192.0,ʒ,False,a,False,1.0
+30.0,WAL,a,1,109.0,d̠͡ʒ,False,a,False,1.0
+30.0,ARP,a,1,101.0,d͡z,False,a,False,0.5
+30.0,ARP,a,1,178.0,ð,False,b,False,0.5
+30.0,LIG,a,1,184.0,z,False,a,False,1.0
+30.0,LIG,a,1,101.0,d͡z,False,b,True,0.0
+30.0,EU POR,a,1,192.0,ʒ,False,a,False,1.0
+30.0,LMO,a,1,109.0,d̠͡ʒ,False,a,False,0.5
+30.0,LMO,a,1,184.0,z,False,b,False,0.5
+30.0,CPN SRD,a,1,109.0,d̠͡ʒ,False,a,False,1.0
+30.0,ITA,a,1,109.0,d̠͡ʒ,False,a,False,1.0
+30.0,CAM,a,1,348.0,j,False,a,False,1.0
+30.0,SCN,a,1,348.0,j,False,a,False,1.0
+30.0,ARO,a,1,99.0,d͡z̪,False,a,False,1.0
+30.0,ROM,a,1,192.0,ʒ,False,a,False,1.0
+30.0,GAL,a,1,191.0,ʃ,False,a,False,1.0
+30.0,ASL,a,1,191.0,ʃ,False,a,False,1.0
+30.0,CAS ESP,a,1,115.0,ɟ͡ʝ,False,a,False,1.0
+30.0,AND ESP,a,1,115.0,ɟ͡ʝ,False,a,False,1.0
+30.0,ARG,a,1,108.0,t̠͡ʃ,False,a,False,1.0
+53.0,BR POR,a,1,26.0,b,False,a,False,1.0
+53.0,AMR ESP,a,1,328.0,β̞,False,a,False,1.0
+53.0,LAT,a,1,25.0,p,False,a,False,1.0
+53.0,CAT,a,1,174.0,β,False,a,False,0.5
+53.0,CAT,a,1,328.0,β̞,False,b,False,0.5
+53.0,VAL,a,1,26.0,b,False,a,False,0.5
+53.0,VAL,a,1,328.0,β̞,False,b,False,0.5
+53.0,BAL,a,1,26.0,b,False,a,False,0.5
+53.0,BAL,a,1,174.0,β,False,b,False,0.5
+53.0,OCC,a,1,26.0,b,False,a,False,0.5
+53.0,OCC,a,1,174.0,β,False,b,False,0.5
+53.0,GAS OCC,a,1,174.0,β,False,a,False,1.0
+53.0,EU FRA,a,1,176.0,v,False,a,False,1.0
+53.0,QBC FRA,a,1,176.0,v,False,a,False,1.0
+53.0,EU POR,a,1,174.0,β,False,a,False,1.0
+53.0,ITA,a,1,25.0,p,False,a,False,1.0
+53.0,ARO,a,1,25.0,p,False,a,False,1.0
+53.0,ROM,a,1,25.0,p,False,a,False,1.0
+53.0,GAL,a,1,328.0,β̞,False,a,False,1.0
+53.0,ASL,a,1,328.0,β̞,False,a,False,1.0
+53.0,CAS ESP,a,1,328.0,β̞,False,a,False,1.0
+53.0,AND ESP,a,1,328.0,β̞,False,a,False,1.0
+53.0,ARG,a,1,328.0,β̞,False,a,False,1.0
+54.0,BR POR,a,1,176.0,v,False,a,False,1.0
+54.0,AMR ESP,a,1,328.0,β̞,False,a,False,1.0
+54.0,LAT,a,1,26.0,b,False,a,False,0.5
+54.0,LAT,a,1,174.0,β,False,b,False,0.5
+54.0,CAT,a,1,174.0,β,False,a,False,0.5
+54.0,CAT,a,1,328.0,β̞,False,b,False,0.5
+54.0,VAL,a,1,176.0,v,False,a,False,0.5
+54.0,VAL,a,1,328.0,β̞,False,b,False,0.5
+54.0,BAL,a,1,176.0,v,False,a,False,1.0
+54.0,OCC,a,1,26.0,b,False,a,False,0.5
+54.0,OCC,a,1,174.0,β,False,b,False,0.5
+54.0,GAS OCC,a,1,346.0,w,False,a,False,1.0
+54.0,EU FRA,a,1,176.0,v,False,a,False,1.0
+54.0,QBC FRA,a,1,176.0,v,False,a,False,1.0
+54.0,EU POR,a,1,176.0,v,False,a,False,1.0
+54.0,ITA,a,1,176.0,v,False,a,False,1.0
+54.0,ROM,a,1,176.0,v,False,a,False,0.5
+54.0,ROM,a,1,,∅,False,b,False,0.5
+54.0,GAL,a,1,328.0,β̞,False,a,False,1.0
+54.0,ASL,a,1,328.0,β̞,False,a,False,1.0
+54.0,CAS ESP,a,1,328.0,β̞,False,a,False,1.0
+54.0,AND ESP,a,1,328.0,β̞,False,a,False,1.0
+54.0,ARG,a,1,328.0,β̞,False,a,False,1.0
+55.0,BR POR,a,1,30.0,d̪,False,a,False,1.0
+55.0,AMR ESP,a,1,330.0,ð̞,False,a,False,1.0
+55.0,LAT,a,1,29.0,t̪,False,a,False,1.0
+55.0,CAT,a,1,178.0,ð,False,a,False,0.5
+55.0,CAT,a,1,330.0,ð̞,False,b,False,0.5
+55.0,VAL,a,1,30.0,d̪,False,a,False,0.5
+55.0,VAL,a,1,330.0,ð̞,False,b,False,0.5
+55.0,BAL,a,1,30.0,d̪,False,a,False,0.5
+55.0,BAL,a,1,178.0,ð,False,b,False,0.5
+55.0,OCC,a,1,30.0,d̪,False,a,False,0.5
+55.0,OCC,a,1,178.0,ð,False,b,False,0.5
+55.0,GAS OCC,a,1,178.0,ð,False,a,False,1.0
+55.0,EU FRA,a,1,,∅,False,a,False,1.0
+55.0,QBC FRA,a,1,,∅,False,a,False,1.0
+55.0,EU POR,a,1,178.0,ð,False,a,False,1.0
+55.0,ITA,a,1,29.0,t̪,False,a,False,1.0
+55.0,ARO,a,1,29.0,t̪,False,a,False,1.0
+55.0,ROM,a,1,29.0,t̪,False,a,False,1.0
+55.0,ARO,b,1,98.0,t͡s̪,False,a,False,1.0
+55.0,ROM,b,1,98.0,t͡s̪,False,a,False,1.0
+55.0,BR POR,b,1,109.0,d̠͡ʒ,False,a,False,1.0
+55.0,GAL,a,1,330.0,ð̞,False,a,False,1.0
+55.0,ASL,a,1,330.0,ð̞,False,a,False,1.0
+55.0,CAS ESP,a,1,330.0,ð̞,False,a,False,1.0
+55.0,AND ESP,a,1,330.0,ð̞,False,a,False,1.0
+55.0,ARG,a,1,178.0,ð,False,a,False,0.5
+55.0,ARG,a,1,330.0,ð̞,False,b,False,0.5
+56.0,BR POR,a,1,30.0,d̪,False,a,False,1.0
+56.0,AMR ESP,a,1,330.0,ð̞,False,a,False,1.0
+56.0,LAT,a,1,29.0,t̪,False,a,False,1.0
+56.0,CAT,a,1,178.0,ð,False,a,False,0.5
+56.0,CAT,a,1,330.0,ð̞,False,b,False,0.5
+56.0,VAL,a,1,30.0,d̪,False,a,False,0.5
+56.0,VAL,a,1,330.0,ð̞,False,b,False,0.5
+56.0,BAL,a,1,30.0,d̪,False,a,False,0.5
+56.0,BAL,a,1,178.0,ð,False,b,False,0.5
+56.0,OCC,a,1,30.0,d̪,False,a,False,0.5
+56.0,OCC,a,1,178.0,ð,False,b,False,0.5
+56.0,GAS OCC,a,1,178.0,ð,False,a,False,1.0
+56.0,EU FRA,a,1,,∅,False,a,False,1.0
+56.0,QBC FRA,a,1,,∅,False,a,False,1.0
+56.0,EU POR,a,1,178.0,ð,False,a,False,1.0
+56.0,ITA,a,1,29.0,t̪,False,a,False,1.0
+56.0,ROM,a,1,29.0,t̪,False,a,False,1.0
+56.0,GAL,a,1,330.0,ð̞,False,a,False,1.0
+56.0,ASL,a,1,330.0,ð̞,False,a,False,1.0
+56.0,CAS ESP,a,1,330.0,ð̞,False,a,False,1.0
+56.0,AND ESP,a,1,330.0,ð̞,False,a,False,1.0
+56.0,ARG,a,1,178.0,ð,False,a,False,0.5
+56.0,ARG,a,1,330.0,ð̞,False,b,False,0.5
+57.0,BR POR,a,1,,∅,False,a,False,1.0
+57.0,AMR ESP,a,1,,∅,False,a,False,1.0
+57.0,LAT,a,1,30.0,d̪,False,a,False,1.0
+57.0,CAT,a,1,348.0,j,False,a,False,0.5
+57.0,CAT,a,1,,∅,False,b,False,0.5
+57.0,VAL,a,1,348.0,j,False,a,False,0.5
+57.0,VAL,a,1,,∅,False,b,False,0.5
+57.0,BAL,a,1,348.0,j,False,a,False,0.5
+57.0,BAL,a,1,,∅,False,b,False,0.5
+57.0,EU FRA,a,1,,∅,False,a,False,1.0
+57.0,QBC FRA,a,1,,∅,False,a,False,1.0
+57.0,EU POR,a,1,,∅,False,a,False,1.0
+57.0,ITA,a,1,30.0,d̪,False,a,False,1.0
+57.0,ROM,a,1,30.0,d̪,False,a,False,1.0
+57.0,ARO,b,1,99.0,d͡z̪,False,a,False,1.0
+57.0,ROM,b,1,182.0,z̪,False,a,False,1.0
+57.0,GAL,a,1,,∅,False,a,False,1.0
+57.0,ASL,a,1,198.0,ʝ,False,a,False,0.5
+57.0,ASL,a,1,,∅,False,b,False,0.5
+57.0,CAS ESP,a,1,,∅,False,a,False,1.0
+57.0,AND ESP,a,1,,∅,False,a,False,1.0
+57.0,ARG,a,1,198.0,ʝ,False,a,False,0.5
+57.0,ARG,a,1,,∅,False,b,False,0.5
+58.0,BR POR,a,1,,∅,False,a,False,1.0
+58.0,AMR ESP,a,1,330.0,ð̞,False,a,False,1.0
+58.0,LAT,a,1,30.0,d̪,False,a,False,1.0
+58.0,CAT,a,1,,∅,False,a,False,1.0
+58.0,VAL,a,1,,∅,False,a,False,1.0
+58.0,BAL,a,1,,∅,False,a,False,1.0
+58.0,EU FRA,a,1,,∅,False,a,False,1.0
+58.0,QBC FRA,a,1,,∅,False,a,False,1.0
+58.0,EU POR,a,1,,∅,False,a,False,1.0
+58.0,ITA,a,1,30.0,d̪,False,a,False,1.0
+58.0,ROM,a,1,30.0,d̪,False,a,False,1.0
+58.0,EU POR,b,1,348.0,j,False,a,False,1.0
+58.0,BR POR,b,1,348.0,j,False,a,False,1.0
+58.0,GAL,a,1,,∅,False,a,False,1.0
+58.0,ASL,a,1,,∅,False,a,False,1.0
+58.0,CAS ESP,a,1,330.0,ð̞,False,a,False,0.5
+58.0,CAS ESP,a,1,,∅,False,b,False,0.5
+58.0,GAL,b,1,,∅,False,a,False,1.0
+58.0,AND ESP,a,1,330.0,ð̞,False,a,False,0.5
+58.0,AND ESP,a,1,,∅,False,b,False,0.5
+58.0,AMR ESP,b,1,330.0,ð̞,False,a,False,0.5
+58.0,AMR ESP,b,1,,∅,False,b,False,0.5
+58.0,EU POR,c,1,309.0,ɫ̪,False,a,False,1.0
+58.0,BR POR,c,1,303.0,l,False,a,False,1.0
+58.0,GAL,c,1,303.0,l,False,a,False,1.0
+58.0,ASL,b,1,303.0,l,False,a,False,1.0
+58.0,CAS ESP,b,1,303.0,l,False,a,False,1.0
+58.0,AND ESP,b,1,303.0,l,False,a,False,1.0
+58.0,AMR ESP,c,1,303.0,l,False,a,False,1.0
+58.0,ASL,c,1,330.0,ð̞,False,a,False,1.0
+58.0,CAS ESP,c,1,330.0,ð̞,False,a,False,1.0
+58.0,AND ESP,c,1,330.0,ð̞,False,a,False,1.0
+58.0,ARG,a,1,178.0,ð,False,a,False,0.5
+58.0,ARG,a,1,330.0,ð̞,False,b,False,0.5
+59.0,BR POR,a,1,44.0,ɡ,False,a,False,1.0
+59.0,AMR ESP,a,1,335.0,ɣ̞,False,a,False,1.0
+59.0,LAT,a,1,43.0,k,False,a,False,1.0
+59.0,CAT,a,1,200.0,ɣ,False,a,False,0.5
+59.0,CAT,a,1,335.0,ɣ̞,False,b,False,0.5
+59.0,VAL,a,1,44.0,ɡ,False,a,False,0.5
+59.0,VAL,a,1,335.0,ɣ̞,False,b,False,0.5
+59.0,BAL,a,1,44.0,ɡ,False,a,False,0.5
+59.0,BAL,a,1,200.0,ɣ,False,b,False,0.5
+59.0,OCC,a,1,44.0,ɡ,False,a,False,0.5
+59.0,OCC,a,1,200.0,ɣ,False,b,False,0.5
+59.0,GAS OCC,a,1,200.0,ɣ,False,a,False,1.0
+59.0,EU FRA,a,1,,∅,False,a,False,1.0
+59.0,QBC FRA,a,1,,∅,False,a,False,1.0
+59.0,EU POR,a,1,200.0,ɣ,False,a,False,1.0
+59.0,ITA,a,1,43.0,k,False,a,False,1.0
+59.0,ROM,a,1,43.0,k,False,a,False,1.0
+59.0,GAL,a,1,335.0,ɣ̞,False,a,False,1.0
+59.0,GAL,a,1,203.0,ħ,False,b,True,0.0
+59.0,ASL,a,1,335.0,ɣ̞,False,a,False,1.0
+59.0,CAS ESP,a,1,335.0,ɣ̞,False,a,False,1.0
+59.0,AND ESP,a,1,335.0,ɣ̞,False,a,False,1.0
+59.0,ARG,a,1,200.0,ɣ,False,a,False,0.5
+59.0,ARG,a,1,335.0,ɣ̞,False,b,False,0.5
+59.0,BR POR,a,1,184.0,z,False,a,False,1.0
+59.0,AMR ESP,a,1,183.0,s,False,a,False,1.0
+59.0,LAT,a,1,43.0,k,False,a,False,1.0
+59.0,CAT,a,1,,∅,False,a,False,1.0
+59.0,VAL,a,1,,∅,False,a,False,1.0
+59.0,BAL,a,1,,∅,False,a,False,1.0
+59.0,EU FRA,a,1,182.0,z̪,False,a,False,1.0
+59.0,QBC FRA,a,1,182.0,z̪,False,a,False,1.0
+59.0,EU POR,a,1,184.0,z,False,a,False,1.0
+59.0,EU POR,a,1,182.0,z̪,False,b,True,0.0
+59.0,ITA,a,1,108.0,t̠͡ʃ,False,a,False,1.0
+59.0,ROM,a,1,108.0,t̠͡ʃ,False,a,False,1.0
+59.0,GAL,a,1,177.0,θ,False,a,False,1.0
+59.0,GAL,a,1,183.0,s,False,b,True,0.0
+59.0,ASL,a,1,177.0,θ,False,a,False,1.0
+59.0,CAS ESP,a,1,177.0,θ,False,a,False,1.0
+59.0,AND ESP,a,1,179.0,s̟,False,a,False,1.0
+59.0,ARG,a,1,177.0,θ,False,a,False,1.0
+61.0,BR POR,a,1,44.0,ɡ,False,a,False,1.0
+61.0,AMR ESP,a,1,335.0,ɣ̞,False,a,False,1.0
+61.0,LAT,a,1,43.0,k,False,a,False,1.0
+61.0,CAT,a,1,200.0,ɣ,False,a,False,0.5
+61.0,CAT,a,1,335.0,ɣ̞,False,b,False,0.5
+61.0,VAL,a,1,44.0,ɡ,False,a,False,0.5
+61.0,VAL,a,1,335.0,ɣ̞,False,b,False,0.5
+61.0,BAL,a,1,44.0,ɡ,False,a,False,0.5
+61.0,BAL,a,1,200.0,ɣ,False,b,False,0.5
+61.0,OCC,a,1,44.0,ɡ,False,a,False,0.5
+61.0,OCC,a,1,200.0,ɣ,False,b,False,0.5
+61.0,GAS OCC,a,1,200.0,ɣ,False,a,False,1.0
+61.0,EU FRA,a,1,348.0,j,False,a,False,0.5
+61.0,EU FRA,a,1,,∅,False,b,False,0.5
+61.0,QBC FRA,a,1,348.0,j,False,a,False,0.5
+61.0,QBC FRA,a,1,,∅,False,b,False,0.5
+61.0,EU POR,a,1,200.0,ɣ,False,a,False,1.0
+61.0,ITA,a,1,43.0,k,False,a,False,1.0
+61.0,ROM,a,1,43.0,k,False,a,False,1.0
+61.0,EU FRA,b,1,,∅,False,a,False,1.0
+61.0,QBC FRA,b,1,,∅,False,a,False,1.0
+61.0,GAL,a,1,335.0,ɣ̞,False,a,False,1.0
+61.0,GAL,a,1,203.0,ħ,False,b,True,0.0
+61.0,ASL,a,1,335.0,ɣ̞,False,a,False,1.0
+61.0,CAS ESP,a,1,335.0,ɣ̞,False,a,False,1.0
+61.0,AND ESP,a,1,335.0,ɣ̞,False,a,False,1.0
+61.0,ARG,a,1,200.0,ɣ,False,a,False,0.5
+61.0,ARG,a,1,335.0,ɣ̞,False,b,False,0.5
+62.0,BR POR,a,1,44.0,ɡ,False,a,False,1.0
+62.0,AMR ESP,a,1,335.0,ɣ̞,False,a,False,1.0
+62.0,LAT,a,1,44.0,ɡ,False,a,False,1.0
+62.0,CAT,a,1,200.0,ɣ,False,a,False,0.5
+62.0,CAT,a,1,335.0,ɣ̞,False,b,False,0.5
+62.0,VAL,a,1,44.0,ɡ,False,a,False,0.5
+62.0,VAL,a,1,335.0,ɣ̞,False,b,False,0.5
+62.0,BAL,a,1,44.0,ɡ,False,a,False,0.5
+62.0,BAL,a,1,200.0,ɣ,False,b,False,0.5
+62.0,EU FRA,a,1,,∅,False,a,False,1.0
+62.0,QBC FRA,a,1,,∅,False,a,False,1.0
+62.0,EU POR,a,1,200.0,ɣ,False,a,False,1.0
+62.0,ITA,a,1,44.0,ɡ,False,a,False,1.0
+62.0,ROM,a,1,44.0,ɡ,False,a,False,1.0
+62.0,GAL,a,1,335.0,ɣ̞,False,a,False,1.0
+62.0,GAL,a,1,203.0,ħ,False,b,True,0.0
+62.0,ASL,a,1,335.0,ɣ̞,False,a,False,1.0
+62.0,CAS ESP,a,1,335.0,ɣ̞,False,a,False,1.0
+62.0,AND ESP,a,1,335.0,ɣ̞,False,a,False,1.0
+62.0,ARG,a,1,200.0,ɣ,False,a,False,0.5
+62.0,ARG,a,1,335.0,ɣ̞,False,b,False,0.5
+63.0,BR POR,a,1,44.0,ɡ,False,a,False,1.0
+63.0,AMR ESP,a,1,335.0,ɣ̞,False,a,False,1.0
+63.0,LAT,a,1,44.0,ɡ,False,a,False,1.0
+63.0,CAT,a,1,200.0,ɣ,False,a,False,0.5
+63.0,CAT,a,1,335.0,ɣ̞,False,b,False,0.5
+63.0,VAL,a,1,44.0,ɡ,False,a,False,0.5
+63.0,VAL,a,1,335.0,ɣ̞,False,b,False,0.5
+63.0,BAL,a,1,44.0,ɡ,False,a,False,0.5
+63.0,BAL,a,1,200.0,ɣ,False,b,False,0.5
+63.0,EU FRA,a,1,,∅,False,a,False,0.5
+63.0,EU FRA,a,1,176.0,v,False,b,False,0.5
+63.0,QBC FRA,a,1,,∅,False,a,False,0.5
+63.0,QBC FRA,a,1,176.0,v,False,b,False,0.5
+63.0,EU POR,a,1,200.0,ɣ,False,a,False,1.0
+63.0,ITA,a,1,44.0,ɡ,False,a,False,1.0
+63.0,ROM,a,1,44.0,ɡ,False,a,False,1.0
+63.0,GAL,a,1,335.0,ɣ̞,False,a,False,1.0
+63.0,GAL,a,1,203.0,ħ,False,b,True,0.0
+63.0,ASL,a,1,335.0,ɣ̞,False,a,False,1.0
+63.0,CAS ESP,a,1,335.0,ɣ̞,False,a,False,1.0
+63.0,AND ESP,a,1,335.0,ɣ̞,False,a,False,1.0
+63.0,ARG,a,1,200.0,ɣ,False,a,False,0.5
+63.0,ARG,a,1,335.0,ɣ̞,False,b,False,0.5
+64.0,BR POR,a,1,348.0,j,False,a,False,0.5
+64.0,BR POR,a,1,,∅,False,b,False,0.5
+64.0,AMR ESP,a,1,348.0,j,False,a,False,0.5
+64.0,AMR ESP,a,1,,∅,False,b,False,0.5
+64.0,LAT,a,1,44.0,ɡ,False,a,False,1.0
+64.0,CAT,a,1,348.0,j,False,a,False,0.5
+64.0,CAT,a,1,,∅,False,b,False,0.5
+64.0,VAL,a,1,348.0,j,False,a,False,0.5
+64.0,VAL,a,1,,∅,False,b,False,0.5
+64.0,BAL,a,1,348.0,j,False,a,False,0.5
+64.0,BAL,a,1,,∅,False,b,False,0.5
+64.0,OCC,a,1,348.0,j,False,a,False,0.5
+64.0,OCC,a,1,,∅,False,b,False,0.5
+64.0,GAS OCC,a,1,348.0,j,False,a,False,0.5
+64.0,GAS OCC,a,1,,∅,False,b,False,0.5
+64.0,EU FRA,a,1,348.0,j,False,a,False,0.5
+64.0,EU FRA,a,1,,∅,False,b,False,0.5
+64.0,QBC FRA,a,1,348.0,j,False,a,False,0.5
+64.0,QBC FRA,a,1,,∅,False,b,False,0.5
+64.0,WAL,a,1,348.0,j,False,a,False,0.5
+64.0,WAL,a,1,,∅,False,b,False,0.5
+64.0,ARP,a,1,348.0,j,False,a,False,0.5
+64.0,ARP,a,1,,∅,False,b,False,0.5
+64.0,LIG,a,1,348.0,j,False,a,False,0.5
+64.0,LIG,a,1,,∅,False,b,False,0.5
+64.0,EU POR,a,1,348.0,j,False,a,False,0.5
+64.0,EU POR,a,1,,∅,False,b,False,0.5
+64.0,LMO,a,1,348.0,j,False,a,False,0.5
+64.0,LMO,a,1,,∅,False,b,False,0.5
+64.0,RMH,a,1,348.0,j,False,a,False,0.5
+64.0,RMH,a,1,,∅,False,b,False,0.5
+64.0,FUR,a,1,348.0,j,False,a,False,0.5
+64.0,FUR,a,1,,∅,False,b,False,0.5
+64.0,LOG SRD,a,1,348.0,j,False,a,False,0.5
+64.0,LOG SRD,a,1,,∅,False,b,False,0.5
+64.0,CPN SRD,a,1,348.0,j,False,a,False,0.5
+64.0,CPN SRD,a,1,,∅,False,b,False,0.5
+64.0,COR,a,1,348.0,j,False,a,False,0.5
+64.0,COR,a,1,,∅,False,b,False,0.5
+64.0,ITA,a,1,348.0,j,False,a,False,0.5
+64.0,ITA,a,1,,∅,False,b,False,0.5
+64.0,ABR,a,1,348.0,j,False,a,False,0.5
+64.0,ABR,a,1,,∅,False,b,False,0.5
+64.0,CAM,a,1,348.0,j,False,a,False,0.5
+64.0,CAM,a,1,,∅,False,b,False,0.5
+64.0,PGL,a,1,348.0,j,False,a,False,0.5
+64.0,PGL,a,1,,∅,False,b,False,0.5
+64.0,SCN,a,1,348.0,j,False,a,False,0.5
+64.0,SCN,a,1,,∅,False,b,False,0.5
+64.0,VEN,a,1,348.0,j,False,a,False,0.5
+64.0,VEN,a,1,,∅,False,b,False,0.5
+64.0,ARO,a,1,348.0,j,False,a,False,0.5
+64.0,ARO,a,1,,∅,False,b,False,0.5
+64.0,ROM,a,1,348.0,j,False,a,False,0.5
+64.0,ROM,a,1,,∅,False,b,False,0.5
+64.0,EU POR,b,1,192.0,ʒ,False,a,False,1.0
+64.0,BR POR,b,1,192.0,ʒ,False,a,False,1.0
+64.0,GAL,a,1,191.0,ʃ,False,a,False,1.0
+64.0,ASL,a,1,191.0,ʃ,False,a,False,1.0
+64.0,ARG,a,1,198.0,ʝ,False,a,False,1.0
+64.0,GAL,b,1,348.0,j,False,a,False,0.5
+64.0,GAL,b,1,,∅,False,b,False,0.5
+64.0,CAT,b,1,192.0,ʒ,False,a,False,1.0
+64.0,VAL,b,1,109.0,d̠͡ʒ,False,a,False,1.0
+64.0,BAL,b,1,192.0,ʒ,False,a,False,1.0
+64.0,OCC,b,1,109.0,d̠͡ʒ,False,a,False,1.0
+64.0,GAS OCC,b,1,192.0,ʒ,False,a,False,1.0
+64.0,LIG,b,1,184.0,z,False,a,False,1.0
+64.0,LIG,b,1,101.0,d͡z,False,b,True,0.0
+64.0,LMO,b,1,109.0,d̠͡ʒ,False,a,False,0.5
+64.0,LMO,b,1,184.0,z,False,b,False,0.5
+64.0,RMH,b,1,42.0,ɟ,False,a,False,0.5
+64.0,RMH,b,1,109.0,d̠͡ʒ,False,b,False,0.5
+64.0,FUR,b,1,42.0,ɟ,False,a,False,0.5
+64.0,FUR,b,1,109.0,d̠͡ʒ,False,b,False,0.5
+64.0,COR,b,1,42.0,ɟ,False,a,False,1.0
+64.0,ASL,b,1,348.0,j,False,a,False,0.5
+64.0,ASL,b,1,,∅,False,b,False,0.5
+64.0,ITA,b,1,68.0,d̠d̠͡ʒ,False,a,False,1.0
+64.0,ABR,b,1,60.0,dd͡z,False,a,False,0.5
+64.0,ABR,b,1,68.0,d̠d̠͡ʒ,False,b,False,0.5
+64.0,CAM,b,1,60.0,dd͡z,False,a,False,0.5
+64.0,CAM,b,1,68.0,d̠d̠͡ʒ,False,b,False,0.5
+64.0,PGL,b,1,64.0,dd͡z̠,False,a,False,1.0
+64.0,SCN,b,1,68.0,d̠d̠͡ʒ,False,a,False,1.0
+64.0,VEN,b,1,188.0,z̠,False,a,False,0.5
+64.0,VEN,b,1,178.0,ð,False,b,False,0.5
+64.0,ARO,b,1,99.0,d͡z̪,False,a,False,1.0
+64.0,ROM,b,1,109.0,d̠͡ʒ,False,a,False,1.0
+64.0,CAS ESP,a,1,348.0,j,False,a,False,0.5
+64.0,CAS ESP,a,1,,∅,False,b,False,0.5
+64.0,AND ESP,a,1,348.0,j,False,a,False,0.5
+64.0,AND ESP,a,1,,∅,False,b,False,0.5
+64.0,ARG,b,1,348.0,j,False,a,False,0.5
+64.0,ARG,b,1,,∅,False,b,False,0.5
+65.0,BR POR,a,1,254.0,m,False,a,False,1.0
+65.0,AMR ESP,a,1,254.0,m,False,a,False,1.0
+65.0,LAT,a,1,254.0,m,False,a,False,1.0
+65.0,CAT,a,1,254.0,m,False,a,False,1.0
+65.0,VAL,a,1,254.0,m,False,a,False,1.0
+65.0,BAL,a,1,254.0,m,False,a,False,1.0
+65.0,OCC,a,1,254.0,m,False,a,False,1.0
+65.0,GAS OCC,a,1,254.0,m,False,a,False,1.0
+65.0,EU FRA,a,1,254.0,m,False,a,False,1.0
+65.0,QBC FRA,a,1,254.0,m,False,a,False,1.0
+65.0,WAL,a,1,254.0,m,False,a,False,1.0
+65.0,ARP,a,1,254.0,m,False,a,False,1.0
+65.0,LIG,a,1,254.0,m,False,a,False,1.0
+65.0,EU POR,a,1,254.0,m,False,a,False,1.0
+65.0,LMO,a,1,254.0,m,False,a,False,1.0
+65.0,RMH,a,1,254.0,m,False,a,False,1.0
+65.0,FUR,a,1,254.0,m,False,a,False,1.0
+65.0,LOG SRD,a,1,254.0,m,False,a,False,1.0
+65.0,CPN SRD,a,1,254.0,m,False,a,False,1.0
+65.0,COR,a,1,254.0,m,False,a,False,1.0
+65.0,ITA,a,1,254.0,m,False,a,False,1.0
+65.0,ABR,a,1,254.0,m,False,a,False,1.0
+65.0,CAM,a,1,254.0,m,False,a,False,1.0
+65.0,PGL,a,1,254.0,m,False,a,False,1.0
+65.0,SCN,a,1,254.0,m,False,a,False,1.0
+65.0,VEN,a,1,254.0,m,False,a,False,1.0
+65.0,ARO,a,1,254.0,m,False,a,False,1.0
+65.0,ROM,a,1,254.0,m,False,a,False,1.0
+65.0,GAL,a,1,254.0,m,False,a,False,1.0
+65.0,ASL,a,1,254.0,m,False,a,False,1.0
+65.0,CAS ESP,a,1,254.0,m,False,a,False,1.0
+65.0,AND ESP,a,1,254.0,m,False,a,False,1.0
+65.0,ARG,a,1,254.0,m,False,a,False,1.0
+66.0,BR POR,a,1,,◌̃,False,a,False,1.0
+66.0,AMR ESP,a,1,257.0,n,False,a,False,1.0
+66.0,LAT,a,1,257.0,n,False,a,False,1.0
+66.0,CAT,a,1,257.0,n,False,a,False,1.0
+66.0,VAL,a,1,257.0,n,False,a,False,1.0
+66.0,BAL,a,1,257.0,n,False,a,False,1.0
+66.0,OCC,a,1,257.0,n,False,a,False,1.0
+66.0,GAS OCC,a,1,257.0,n,False,a,False,1.0
+66.0,EU FRA,a,1,256.0,n̪,False,a,False,1.0
+66.0,QBC FRA,a,1,256.0,n̪,False,a,False,1.0
+66.0,WAL,a,1,256.0,n̪,False,a,False,1.0
+66.0,ARP,a,1,257.0,n,False,a,False,1.0
+66.0,LIG,a,1,257.0,n,False,a,False,1.0
+66.0,EU POR,a,1,,◌̃,False,a,False,1.0
+66.0,LMO,a,1,257.0,n,False,a,False,1.0
+66.0,RMH,a,1,257.0,n,False,a,False,1.0
+66.0,FUR,a,1,257.0,n,False,a,False,1.0
+66.0,LOG SRD,a,1,257.0,n,False,a,False,1.0
+66.0,CPN SRD,a,1,257.0,n,False,a,False,1.0
+66.0,COR,a,1,257.0,n,False,a,False,1.0
+66.0,ITA,a,1,257.0,n,False,a,False,1.0
+66.0,ABR,a,1,257.0,n,False,a,False,1.0
+66.0,CAM,a,1,257.0,n,False,a,False,1.0
+66.0,PGL,a,1,257.0,n,False,a,False,1.0
+66.0,SCN,a,1,257.0,n,False,a,False,1.0
+66.0,VEN,a,1,257.0,n,False,a,False,1.0
+66.0,ARO,a,1,256.0,n̪,False,a,False,1.0
+66.0,ROM,a,1,256.0,n̪,False,a,False,1.0
+66.0,ROM,b,1,267.0,ɾ̪,False,a,False,1.0
+66.0,GAL,a,1,,∅,False,a,False,1.0
+66.0,ASL,a,1,257.0,n,False,a,False,1.0
+66.0,CAS ESP,a,1,257.0,n,False,a,False,1.0
+66.0,AND ESP,a,1,257.0,n,False,a,False,1.0
+66.0,ARG,a,1,257.0,n,False,a,False,1.0
+67.0,BR POR,a,1,176.0,v,False,a,False,1.0
+67.0,AMR ESP,a,1,328.0,β̞,False,a,False,0.5
+67.0,AMR ESP,a,1,,∅,False,b,False,0.5
+67.0,LAT,a,1,173.0,ɸ,False,a,False,0.5
+67.0,LAT,a,1,175.0,f,False,b,False,0.5
+67.0,CAT,a,1,174.0,β,False,a,False,0.5
+67.0,CAT,a,1,328.0,β̞,False,b,False,0.5
+67.0,VAL,a,1,176.0,v,False,a,False,0.5
+67.0,VAL,a,1,328.0,β̞,False,b,False,0.5
+67.0,BAL,a,1,176.0,v,False,a,False,1.0
+67.0,EU POR,a,1,176.0,v,False,a,False,1.0
+67.0,ITA,a,1,175.0,f,False,a,False,1.0
+67.0,ROM,a,1,175.0,f,False,a,False,1.0
+67.0,GAL,a,1,328.0,β̞,False,a,False,1.0
+67.0,ASL,a,1,328.0,β̞,False,a,False,1.0
+67.0,CAS ESP,a,1,328.0,β̞,False,a,False,0.5
+67.0,CAS ESP,a,1,,∅,False,b,False,0.5
+67.0,AND ESP,a,1,328.0,β̞,False,a,False,0.5
+67.0,AND ESP,a,1,,∅,False,b,False,0.5
+67.0,ARG,a,1,328.0,β̞,False,a,False,1.0
+68.0,BR POR,a,1,176.0,v,False,a,False,1.0
+68.0,AMR ESP,a,1,328.0,β̞,False,a,False,1.0
+68.0,LAT,a,1,346.0,w,False,a,False,1.0
+68.0,CAT,a,1,174.0,β,False,a,False,0.5
+68.0,CAT,a,1,328.0,β̞,False,b,False,0.5
+68.0,VAL,a,1,176.0,v,False,a,False,0.5
+68.0,VAL,a,1,328.0,β̞,False,b,False,0.5
+68.0,BAL,a,1,176.0,v,False,a,False,1.0
+68.0,EU FRA,a,1,176.0,v,False,a,False,1.0
+68.0,QBC FRA,a,1,176.0,v,False,a,False,1.0
+68.0,EU POR,a,1,176.0,v,False,a,False,1.0
+68.0,EU POR,a,1,174.0,β,False,b,True,0.0
+68.0,ITA,a,1,176.0,v,False,a,False,1.0
+68.0,ROM,a,1,346.0,w,False,a,False,0.5
+68.0,ROM,a,1,,∅,False,b,False,0.5
+68.0,GAL,a,1,328.0,β̞,False,a,False,1.0
+68.0,ASL,a,1,328.0,β̞,False,a,False,1.0
+68.0,CAS ESP,a,1,328.0,β̞,False,a,False,1.0
+68.0,AND ESP,a,1,328.0,β̞,False,a,False,1.0
+68.0,ARG,a,1,328.0,β̞,False,a,False,1.0
+69.0,BR POR,a,1,184.0,z,False,a,False,1.0
+69.0,AMR ESP,a,1,183.0,s,False,a,False,1.0
+69.0,LAT,a,1,187.0,s̠,False,a,False,1.0
+69.0,CAT,a,1,188.0,z̠,False,a,False,1.0
+69.0,VAL,a,1,188.0,z̠,False,a,False,1.0
+69.0,BAL,a,1,188.0,z̠,False,a,False,1.0
+69.0,OCC,a,1,188.0,z̠,False,a,False,1.0
+69.0,GAS OCC,a,1,188.0,z̠,False,a,False,1.0
+69.0,EU FRA,a,1,182.0,z̪,False,a,False,1.0
+69.0,QBC FRA,a,1,182.0,z̪,False,a,False,1.0
+69.0,EU POR,a,1,184.0,z,False,a,False,1.0
+69.0,EU POR,a,1,188.0,z̠,False,b,True,0.0
+69.0,ITA,a,1,184.0,z,False,a,False,0.5
+69.0,ITA,a,1,183.0,s,False,b,False,0.5
+69.0,VEN,a,1,188.0,z̠,False,a,False,1.0
+69.0,ARO,a,1,191.0,ʃ,False,a,False,1.0
+69.0,ROM,a,1,191.0,ʃ,False,a,False,1.0
+69.0,GAL,a,1,187.0,s̠,False,a,False,1.0
+69.0,GAL,a,1,183.0,s,False,b,True,0.0
+69.0,ASL,a,1,187.0,s̠,False,a,False,1.0
+69.0,CAS ESP,a,1,187.0,s̠,False,a,False,1.0
+69.0,AND ESP,a,1,179.0,s̟,False,a,False,1.0
+69.0,ARG,a,1,187.0,s̠,False,a,False,1.0
+70.0,BR POR,a,1,184.0,z,False,a,False,1.0
+70.0,AMR ESP,a,1,183.0,s,False,a,False,1.0
+70.0,LAT,a,1,187.0,s̠,False,a,False,1.0
+70.0,CAT,a,1,188.0,z̠,False,a,False,1.0
+70.0,VAL,a,1,188.0,z̠,False,a,False,1.0
+70.0,BAL,a,1,188.0,z̠,False,a,False,1.0
+70.0,OCC,a,1,188.0,z̠,False,a,False,1.0
+70.0,GAS OCC,a,1,188.0,z̠,False,a,False,1.0
+70.0,EU FRA,a,1,182.0,z̪,False,a,False,1.0
+70.0,QBC FRA,a,1,182.0,z̪,False,a,False,1.0
+70.0,EU POR,a,1,184.0,z,False,a,False,1.0
+70.0,EU POR,a,1,188.0,z̠,False,b,True,0.0
+70.0,ITA,a,1,184.0,z,False,a,False,0.5
+70.0,ITA,a,1,183.0,s,False,b,False,0.5
+70.0,VEN,a,1,188.0,z̠,False,a,False,1.0
+70.0,ARO,a,1,181.0,s̪,False,a,False,1.0
+70.0,ROM,a,1,181.0,s̪,False,a,False,1.0
+70.0,GAL,a,1,187.0,s̠,False,a,False,1.0
+70.0,GAL,a,1,183.0,s,False,b,True,0.0
+70.0,ASL,a,1,187.0,s̠,False,a,False,1.0
+70.0,CAS ESP,a,1,187.0,s̠,False,a,False,1.0
+70.0,AND ESP,a,1,179.0,s̟,False,a,False,1.0
+70.0,ARG,a,1,187.0,s̠,False,a,False,1.0
+71.0,BR POR,a,1,269.0,ɾ,False,a,False,1.0
+71.0,AMR ESP,a,1,269.0,ɾ,False,a,False,1.0
+71.0,LAT,a,1,245.0,r,False,a,False,1.0
+71.0,CAT,a,1,269.0,ɾ,False,a,False,1.0
+71.0,VAL,a,1,269.0,ɾ,False,a,False,1.0
+71.0,BAL,a,1,269.0,ɾ,False,a,False,1.0
+71.0,OCC,a,1,269.0,ɾ,False,a,False,1.0
+71.0,GAS OCC,a,1,269.0,ɾ,False,a,False,1.0
+71.0,EU FRA,a,1,202.0,ʁ,False,a,False,1.0
+71.0,EU FRA,a,1,251.0,ʀ,False,b,True,0.0
+71.0,QBC FRA,a,1,202.0,ʁ,False,a,False,1.0
+71.0,QBC FRA,a,1,251.0,ʀ,False,b,True,0.0
+71.0,WAL,a,1,251.0,ʀ,False,a,False,1.0
+71.0,ARP,a,1,221.0,rː,False,a,False,1.0
+71.0,ARP,a,1,251.0,ʀ,False,b,True,0.0
+71.0,LIG,a,1,348.0,j,False,a,False,0.5
+71.0,LIG,a,1,,∅,False,b,False,0.5
+71.0,EU POR,a,1,269.0,ɾ,False,a,False,1.0
+71.0,LOG SRD,a,1,269.0,ɾ,False,a,False,1.0
+71.0,CPN SRD,a,1,269.0,ɾ,False,a,False,1.0
+71.0,ITA,a,1,269.0,ɾ,False,a,False,1.0
+71.0,ABR,a,1,269.0,ɾ,False,a,False,1.0
+71.0,CAM,a,1,269.0,ɾ,False,a,False,1.0
+71.0,PGL,a,1,269.0,ɾ,False,a,False,1.0
+71.0,SCN,a,1,269.0,ɾ,False,a,False,1.0
+71.0,VEN,a,1,269.0,ɾ,False,a,False,1.0
+71.0,ARO,a,1,267.0,ɾ̪,False,a,False,1.0
+71.0,ROM,a,1,267.0,ɾ̪,False,a,False,1.0
+71.0,ROM,b,1,256.0,n̪,False,a,False,1.0
+71.0,GAL,a,1,269.0,ɾ,False,a,False,1.0
+71.0,ASL,a,1,269.0,ɾ,False,a,False,1.0
+71.0,CAS ESP,a,1,269.0,ɾ,False,a,False,1.0
+71.0,AND ESP,a,1,269.0,ɾ,False,a,False,1.0
+71.0,ARG,a,1,269.0,ɾ,False,a,False,1.0
+72.0,BR POR,a,1,,∅,False,a,False,1.0
+72.0,AMR ESP,a,1,303.0,l,False,a,False,1.0
+72.0,LAT,a,1,309.0,ɫ̪,False,a,False,1.0
+72.0,CAT,a,1,303.0,l,False,a,False,1.0
+72.0,VAL,a,1,313.0,ɫ,False,a,False,1.0
+72.0,BAL,a,1,317.0,ʟ,False,a,False,1.0
+72.0,OCC,a,1,303.0,l,False,a,False,1.0
+72.0,GAS OCC,a,1,303.0,l,False,a,False,1.0
+72.0,EU FRA,a,1,303.0,l,False,a,False,1.0
+72.0,QBC FRA,a,1,303.0,l,False,a,False,1.0
+72.0,WAL,a,1,303.0,l,False,a,False,1.0
+72.0,ARP,a,1,303.0,l,False,a,False,1.0
+72.0,LIG,a,1,348.0,j,False,a,False,0.5
+72.0,LIG,a,1,,∅,False,b,False,0.5
+72.0,EU POR,a,1,,∅,False,a,False,1.0
+72.0,LMO,a,1,303.0,l,False,a,False,1.0
+72.0,RMH,a,1,303.0,l,False,a,False,1.0
+72.0,FUR,a,1,303.0,l,False,a,False,1.0
+72.0,LOG SRD,a,1,303.0,l,False,a,False,1.0
+72.0,CPN SRD,a,1,303.0,l,False,a,False,1.0
+72.0,COR,a,1,303.0,l,False,a,False,1.0
+72.0,ITA,a,1,303.0,l,False,a,False,1.0
+72.0,ABR,a,1,303.0,l,False,a,False,1.0
+72.0,CAM,a,1,303.0,l,False,a,False,1.0
+72.0,PGL,a,1,303.0,l,False,a,False,1.0
+72.0,SCN,a,1,303.0,l,False,a,False,1.0
+72.0,VEN,a,1,303.0,l,False,a,False,0.5
+72.0,VEN,a,1,350.0,ɰ,False,b,False,0.5
+72.0,ARO,a,1,267.0,ɾ̪,False,a,False,1.0
+72.0,ROM,a,1,267.0,ɾ̪,False,a,False,1.0
+72.0,LAT,b,1,305.0,l̪ʲ,False,a,False,1.0
+72.0,GAL,a,1,,∅,False,a,False,1.0
+72.0,ASL,a,1,303.0,l,False,a,False,1.0
+72.0,CAS ESP,a,1,303.0,l,False,a,False,1.0
+72.0,AND ESP,a,1,303.0,l,False,a,False,1.0
+72.0,ARG,a,1,303.0,l,False,a,False,1.0
+73.0,BR POR,a,1,348.0,j,False,a,False,0.5
+73.0,BR POR,a,1,,∅,False,b,False,0.5
+73.0,AMR ESP,a,1,,∅,False,a,False,1.0
+73.0,LAT,a,1,342.0,jj,False,a,False,1.0
+73.0,OCC,a,1,348.0,j,False,a,False,1.0
+73.0,GAS OCC,a,1,348.0,j,False,a,False,1.0
+73.0,EU FRA,a,1,348.0,j,False,a,False,0.5
+73.0,EU FRA,a,1,,∅,False,b,False,0.5
+73.0,QBC FRA,a,1,348.0,j,False,a,False,0.5
+73.0,QBC FRA,a,1,,∅,False,b,False,0.5
+73.0,WAL,a,1,348.0,j,False,a,False,0.5
+73.0,WAL,a,1,,∅,False,b,False,0.5
+73.0,ARP,a,1,348.0,j,False,a,False,0.5
+73.0,ARP,a,1,,∅,False,b,False,0.5
+73.0,EU POR,a,1,348.0,j,False,a,False,0.5
+73.0,EU POR,a,1,,∅,False,b,False,0.5
+73.0,ITA,a,1,68.0,d̠d̠͡ʒ,False,a,False,1.0
+73.0,ROM,a,1,,∅,False,a,False,1.0
+73.0,EU POR,b,1,192.0,ʒ,False,a,False,1.0
+73.0,BR POR,b,1,192.0,ʒ,False,a,False,1.0
+73.0,GAL,a,1,191.0,ʃ,False,a,False,1.0
+73.0,ASL,a,1,198.0,ʝ,False,a,False,0.5
+73.0,ASL,a,1,191.0,ʃ,False,b,False,0.5
+73.0,CAS ESP,a,1,198.0,ʝ,False,a,False,1.0
+73.0,GAL,b,1,348.0,j,False,a,False,0.5
+73.0,GAL,b,1,,∅,False,b,False,0.5
+73.0,AND ESP,a,1,198.0,ʝ,False,a,False,1.0
+73.0,AMR ESP,b,1,198.0,ʝ,False,a,False,1.0
+73.0,ARG,a,1,198.0,ʝ,False,a,False,1.0
+73.0,CAT,b,1,192.0,ʒ,False,a,False,1.0
+73.0,VAL,b,1,109.0,d̠͡ʒ,False,a,False,1.0
+73.0,BAL,b,1,192.0,ʒ,False,a,False,1.0
+73.0,OCC,b,1,,̠d̠͡ʒ,False,a,False,1.0
+73.0,OCC,b,1,105.0,d͡z̠,False,b,True,0.0
+73.0,GAS OCC,b,1,192.0,ʒ,False,a,False,1.0
+73.0,ASL,b,1,,∅,False,a,False,1.0
+73.0,ITA,b,1,68.0,d̠d̠͡ʒ,False,a,False,1.0
+73.0,CAS ESP,b,1,,∅,False,a,False,1.0
+73.0,ROM,b,1,192.0,ʒ,False,a,False,1.0
+73.0,AND ESP,b,1,,∅,False,a,False,1.0
+73.0,ARG,b,1,348.0,j,False,a,False,0.5
+73.0,ARG,b,1,,∅,False,b,False,0.5
+74.0,BR POR,a,1,348.0,j,False,a,False,0.5
+74.0,BR POR,a,1,,∅,False,b,False,0.5
+74.0,AMR ESP,a,1,,∅,False,a,False,1.0
+74.0,LAT,a,1,342.0,jj,False,a,False,1.0
+74.0,CAT,a,1,348.0,j,False,a,False,0.5
+74.0,CAT,a,1,,∅,False,b,False,0.5
+74.0,VAL,a,1,348.0,j,False,a,False,0.5
+74.0,VAL,a,1,,∅,False,b,False,0.5
+74.0,BAL,a,1,348.0,j,False,a,False,0.5
+74.0,BAL,a,1,,∅,False,b,False,0.5
+74.0,OCC,a,1,348.0,j,False,a,False,1.0
+74.0,GAS OCC,a,1,348.0,j,False,a,False,1.0
+74.0,EU FRA,a,1,348.0,j,False,a,False,0.5
+74.0,EU FRA,a,1,,∅,False,b,False,0.5
+74.0,QBC FRA,a,1,348.0,j,False,a,False,0.5
+74.0,QBC FRA,a,1,,∅,False,b,False,0.5
+74.0,WAL,a,1,348.0,j,False,a,False,0.5
+74.0,WAL,a,1,,∅,False,b,False,0.5
+74.0,ARP,a,1,348.0,j,False,a,False,0.5
+74.0,ARP,a,1,,∅,False,b,False,0.5
+74.0,LIG,a,1,348.0,j,False,a,False,0.5
+74.0,LIG,a,1,,∅,False,b,False,0.5
+74.0,EU POR,a,1,348.0,j,False,a,False,0.5
+74.0,EU POR,a,1,,∅,False,b,False,0.5
+74.0,ITA,a,1,68.0,d̠d̠͡ʒ,False,a,False,1.0
+74.0,ROM,a,1,348.0,j,False,a,False,1.0
+74.0,EU POR,b,1,192.0,ʒ,False,a,False,1.0
+74.0,BR POR,b,1,192.0,ʒ,False,a,False,1.0
+74.0,GAL,a,1,191.0,ʃ,False,a,False,1.0
+74.0,ASL,a,1,198.0,ʝ,False,a,False,0.5
+74.0,ASL,a,1,191.0,ʃ,False,b,False,0.5
+74.0,CAS ESP,a,1,198.0,ʝ,False,a,False,1.0
+74.0,GAL,b,1,348.0,j,False,a,False,0.5
+74.0,GAL,b,1,,∅,False,b,False,0.5
+74.0,AND ESP,a,1,198.0,ʝ,False,a,False,1.0
+74.0,AMR ESP,b,1,198.0,ʝ,False,a,False,1.0
+74.0,ARG,a,1,198.0,ʝ,False,a,False,1.0
+74.0,CAT,b,1,192.0,ʒ,False,a,False,1.0
+74.0,VAL,b,1,109.0,d̠͡ʒ,False,a,False,1.0
+74.0,BAL,b,1,192.0,ʒ,False,a,False,1.0
+74.0,OCC,b,1,,̠d̠͡ʒ,False,a,False,1.0
+74.0,OCC,b,1,105.0,d͡z̠,False,b,True,0.0
+74.0,GAS OCC,b,1,192.0,ʒ,False,a,False,1.0
+74.0,ASL,b,1,,∅,False,a,False,1.0
+74.0,CAS ESP,b,1,,∅,False,a,False,1.0
+74.0,AND ESP,b,1,,∅,False,a,False,1.0
+74.0,ARG,b,1,348.0,j,False,a,False,0.5
+74.0,ARG,b,1,,∅,False,b,False,0.5
+90.0,BR POR,a,1,25.0,p,False,a,False,1.0
+90.0,AMR ESP,a,1,25.0,p,False,a,False,1.0
+90.0,LAT,a,1,1.0,pp,False,a,False,1.0
+90.0,CAT,a,1,25.0,p,False,a,False,1.0
+90.0,VAL,a,1,25.0,p,False,a,False,1.0
+90.0,BAL,a,1,25.0,p,False,a,False,1.0
+90.0,OCC,a,1,25.0,p,False,a,False,1.0
+90.0,GAS OCC,a,1,25.0,p,False,a,False,1.0
+90.0,EU FRA,a,1,25.0,p,False,a,False,1.0
+90.0,EU POR,a,1,25.0,p,False,a,False,1.0
+90.0,ITA,a,1,1.0,pp,False,a,False,1.0
+90.0,ABR,a,1,1.0,pp,False,a,False,1.0
+90.0,CAM,a,1,1.0,pp,False,a,False,1.0
+90.0,PGL,a,1,1.0,pp,False,a,False,1.0
+90.0,SCN,a,1,1.0,pp,False,a,False,1.0
+90.0,ROM,a,1,25.0,p,False,a,False,1.0
+90.0,GAL,a,1,25.0,p,False,a,False,1.0
+90.0,ASL,a,1,25.0,p,False,a,False,1.0
+90.0,CAS ESP,a,1,25.0,p,False,a,False,1.0
+90.0,AND ESP,a,1,25.0,p,False,a,False,1.0
+90.0,ARG,a,1,25.0,p,False,a,False,1.0
+91.0,BR POR,a,1,26.0,b,False,a,False,1.0
+91.0,AMR ESP,a,1,328.0,β̞,False,a,False,1.0
+91.0,LAT,a,1,2.0,bb,False,a,False,1.0
+91.0,CAT,a,1,174.0,β,False,a,False,0.5
+91.0,CAT,a,1,328.0,β̞,False,b,False,0.5
+91.0,VAL,a,1,26.0,b,False,a,False,0.5
+91.0,VAL,a,1,328.0,β̞,False,b,False,0.5
+91.0,BAL,a,1,26.0,b,False,a,False,0.5
+91.0,BAL,a,1,174.0,β,False,b,False,0.5
+91.0,EU FRA,a,1,26.0,b,False,a,False,1.0
+91.0,QBC FRA,a,1,26.0,b,False,a,False,1.0
+91.0,EU POR,a,1,174.0,β,False,a,False,1.0
+91.0,ITA,a,1,2.0,bb,False,a,False,1.0
+91.0,ITA,a,1,26.0,b,False,b,True,0.0
+91.0,ROM,a,1,26.0,b,False,a,False,1.0
+91.0,GAL,a,1,328.0,β̞,False,a,False,1.0
+91.0,ASL,a,1,328.0,β̞,False,a,False,1.0
+91.0,CAS ESP,a,1,328.0,β̞,False,a,False,1.0
+91.0,AND ESP,a,1,328.0,β̞,False,a,False,1.0
+91.0,ARG,a,1,328.0,β̞,False,a,False,1.0
+92.0,BR POR,a,1,29.0,t̪,False,a,False,1.0
+92.0,AMR ESP,a,1,29.0,t̪,False,a,False,1.0
+92.0,LAT,a,1,5.0,t̪t̪,False,a,False,1.0
+92.0,CAT,a,1,29.0,t̪,False,a,False,1.0
+92.0,VAL,a,1,29.0,t̪,False,a,False,1.0
+92.0,BAL,a,1,29.0,t̪,False,a,False,1.0
+92.0,OCC,a,1,29.0,t̪,False,a,False,1.0
+92.0,GAS OCC,a,1,29.0,t̪,False,a,False,1.0
+92.0,EU FRA,a,1,29.0,t̪,False,a,False,1.0
+92.0,QBC FRA,a,1,29.0,t̪,False,a,False,1.0
+92.0,EU POR,a,1,29.0,t̪,False,a,False,1.0
+92.0,ITA,a,1,5.0,t̪t̪,False,a,False,1.0
+92.0,ROM,a,1,29.0,t̪,False,a,False,1.0
+92.0,BR POR,b,1,108.0,t̠͡ʃ,False,a,False,1.0
+92.0,ROM,b,1,100.0,t͡s,False,a,False,1.0
+92.0,GAL,a,1,29.0,t̪,False,a,False,1.0
+92.0,ASL,a,1,29.0,t̪,False,a,False,1.0
+92.0,CAS ESP,a,1,29.0,t̪,False,a,False,1.0
+92.0,AND ESP,a,1,29.0,t̪,False,a,False,1.0
+92.0,ARG,a,1,29.0,t̪,False,a,False,1.0
+93.0,BR POR,a,1,30.0,d̪,False,a,False,1.0
+93.0,AMR ESP,a,1,330.0,ð̞,False,a,False,1.0
+93.0,LAT,a,1,6.0,d̪d̪,False,a,False,1.0
+93.0,CAT,a,1,178.0,ð,False,a,False,0.5
+93.0,CAT,a,1,330.0,ð̞,False,b,False,0.5
+93.0,VAL,a,1,30.0,d̪,False,a,False,0.5
+93.0,VAL,a,1,330.0,ð̞,False,b,False,0.5
+93.0,BAL,a,1,30.0,d̪,False,a,False,0.5
+93.0,BAL,a,1,178.0,ð,False,b,False,0.5
+93.0,EU FRA,a,1,30.0,d̪,False,a,False,1.0
+93.0,QBC FRA,a,1,30.0,d̪,False,a,False,1.0
+93.0,EU POR,a,1,178.0,ð,False,a,False,1.0
+93.0,ITA,a,1,6.0,d̪d̪,False,a,False,1.0
+93.0,ROM,a,1,30.0,d̪,False,a,False,1.0
+93.0,GAL,a,1,330.0,ð̞,False,a,False,1.0
+93.0,ASL,a,1,330.0,ð̞,False,a,False,1.0
+93.0,CAS ESP,a,1,330.0,ð̞,False,a,False,1.0
+93.0,AND ESP,a,1,330.0,ð̞,False,a,False,1.0
+93.0,ARG,a,1,178.0,ð,False,a,False,0.5
+93.0,ARG,a,1,330.0,ð̞,False,b,False,0.5
+94.0,BR POR,a,1,43.0,k,False,a,False,1.0
+94.0,AMR ESP,a,1,43.0,k,False,a,False,1.0
+94.0,LAT,a,1,19.0,kk,False,a,False,1.0
+94.0,CAT,a,1,43.0,k,False,a,False,1.0
+94.0,VAL,a,1,43.0,k,False,a,False,1.0
+94.0,BAL,a,1,43.0,k,False,a,False,1.0
+94.0,OCC,a,1,43.0,k,False,a,False,1.0
+94.0,GAS OCC,a,1,43.0,k,False,a,False,1.0
+94.0,EU FRA,a,1,43.0,k,False,a,False,1.0
+94.0,QBC FRA,a,1,43.0,k,False,a,False,1.0
+94.0,EU POR,a,1,43.0,k,False,a,False,1.0
+94.0,ITA,a,1,19.0,kk,False,a,False,1.0
+94.0,ROM,a,1,43.0,k,False,a,False,1.0
+94.0,GAL,a,1,43.0,k,False,a,False,1.0
+94.0,ASL,a,1,43.0,k,False,a,False,1.0
+94.0,CAS ESP,a,1,43.0,k,False,a,False,1.0
+94.0,AND ESP,a,1,43.0,k,False,a,False,1.0
+94.0,ARG,a,1,43.0,k,False,a,False,1.0
+95.0,BR POR,a,1,43.0,k,False,a,False,1.0
+95.0,AMR ESP,a,1,43.0,k,False,a,False,1.0
+95.0,LAT,a,1,19.0,kk,False,a,False,1.0
+95.0,CAT,a,1,43.0,k,False,a,False,1.0
+95.0,VAL,a,1,43.0,k,False,a,False,1.0
+95.0,BAL,a,1,43.0,k,False,a,False,0.5
+95.0,BAL,a,1,41.0,c,False,b,False,0.5
+95.0,GAS OCC,a,1,43.0,k,False,a,False,1.0
+95.0,EU FRA,a,1,191.0,ʃ,False,a,False,1.0
+95.0,QBC FRA,a,1,191.0,ʃ,False,a,False,1.0
+95.0,EU POR,a,1,43.0,k,False,a,False,1.0
+95.0,ITA,a,1,19.0,kk,False,a,False,1.0
+95.0,ROM,a,1,43.0,k,False,a,False,1.0
+95.0,GAL,a,1,43.0,k,False,a,False,1.0
+95.0,ASL,a,1,43.0,k,False,a,False,1.0
+95.0,CAS ESP,a,1,43.0,k,False,a,False,1.0
+95.0,AND ESP,a,1,43.0,k,False,a,False,1.0
+95.0,ARG,a,1,43.0,k,False,a,False,1.0
+96.0,BR POR,a,1,183.0,s,False,a,False,1.0
+96.0,AMR ESP,a,1,183.0,s,False,a,False,1.0
+96.0,LAT,a,1,19.0,kk,False,a,False,1.0
+96.0,CAT,a,1,187.0,s̠,False,a,False,1.0
+96.0,CAT,a,1,105.0,d͡z̠,False,b,True,0.0
+96.0,VAL,a,1,187.0,s̠,False,a,False,1.0
+96.0,VAL,a,1,105.0,d͡z̠,False,b,True,0.0
+96.0,BAL,a,1,187.0,s̠,False,a,False,1.0
+96.0,BAL,a,1,105.0,d͡z̠,False,b,True,0.0
+96.0,EU FRA,a,1,181.0,s̪,False,a,False,1.0
+96.0,QBC FRA,a,1,181.0,s̪,False,a,False,1.0
+96.0,EU POR,a,1,183.0,s,False,a,False,1.0
+96.0,EU POR,a,1,181.0,s̪,False,b,True,0.0
+96.0,ITA,a,1,67.0,t̠t̠͡ʃ,False,a,False,1.0
+96.0,ARO,a,1,98.0,t͡s̪,False,a,False,1.0
+96.0,ROM,a,1,108.0,t̠͡ʃ,False,a,False,1.0
+96.0,GAL,a,1,177.0,θ,False,a,False,1.0
+96.0,GAL,a,1,183.0,s,False,b,True,0.0
+96.0,ASL,a,1,177.0,θ,False,a,False,1.0
+96.0,CAS ESP,a,1,177.0,θ,False,a,False,1.0
+96.0,AND ESP,a,1,179.0,s̟,False,a,False,1.0
+96.0,ARG,a,1,177.0,θ,False,a,False,1.0
+97.0,BR POR,a,1,192.0,ʒ,False,a,False,1.0
+97.0,AMR ESP,a,1,205.0,h,False,a,False,1.0
+97.0,LAT,a,1,20.0,ɡɡ,False,a,False,1.0
+97.0,CAT,a,1,192.0,ʒ,False,a,False,1.0
+97.0,VAL,a,1,109.0,d̠͡ʒ,False,a,False,1.0
+97.0,BAL,a,1,192.0,ʒ,False,a,False,1.0
+97.0,EU FRA,a,1,192.0,ʒ,False,a,False,1.0
+97.0,QBC FRA,a,1,192.0,ʒ,False,a,False,1.0
+97.0,EU POR,a,1,192.0,ʒ,False,a,False,1.0
+97.0,ITA,a,1,68.0,d̠d̠͡ʒ,False,a,False,1.0
+97.0,ROM,a,1,109.0,d̠͡ʒ,False,a,False,1.0
+97.0,CAS ESP,a,1,199.0,x,False,a,False,1.0
+97.0,AND ESP,a,1,205.0,h,False,a,False,1.0
+98.0,BR POR,a,1,254.0,m,False,a,False,1.0
+98.0,AMR ESP,a,1,254.0,m,False,a,False,1.0
+98.0,LAT,a,1,230.0,mm,False,a,False,1.0
+98.0,CAT,a,1,254.0,m,False,a,False,1.0
+98.0,VAL,a,1,254.0,m,False,a,False,1.0
+98.0,BAL,a,1,254.0,m,False,a,False,1.0
+98.0,OCC,a,1,254.0,m,False,a,False,1.0
+98.0,GAS OCC,a,1,254.0,m,False,a,False,1.0
+98.0,EU FRA,a,1,254.0,m,False,a,False,1.0
+98.0,QBC FRA,a,1,254.0,m,False,a,False,1.0
+98.0,EU POR,a,1,254.0,m,False,a,False,1.0
+98.0,ITA,a,1,230.0,mm,False,a,False,1.0
+98.0,ARO,a,1,254.0,m,False,a,False,1.0
+98.0,ROM,a,1,254.0,m,False,a,False,1.0
+98.0,GAL,a,1,254.0,m,False,a,False,1.0
+98.0,ASL,a,1,254.0,m,False,a,False,1.0
+98.0,CAS ESP,a,1,254.0,m,False,a,False,1.0
+98.0,AND ESP,a,1,254.0,m,False,a,False,1.0
+98.0,ARG,a,1,254.0,m,False,a,False,1.0
+99.0,BR POR,a,1,257.0,n,False,a,False,1.0
+99.0,AMR ESP,a,1,,n̪ʲ,False,a,False,0.5
+99.0,AMR ESP,a,1,258.0,ȵ,False,b,False,0.5
+99.0,LAT,a,1,233.0,nn,False,a,False,1.0
+99.0,CAT,a,1,258.0,ȵ,False,a,False,0.5
+99.0,CAT,a,1,261.0,ɲ,False,b,False,0.5
+99.0,VAL,a,1,258.0,ȵ,False,a,False,0.5
+99.0,VAL,a,1,261.0,ɲ,False,b,False,0.5
+99.0,BAL,a,1,258.0,ȵ,False,a,False,0.5
+99.0,BAL,a,1,261.0,ɲ,False,b,False,0.5
+99.0,OCC,a,1,257.0,n,False,a,False,1.0
+99.0,GAS OCC,a,1,257.0,n,False,a,False,1.0
+99.0,EU FRA,a,1,257.0,n,False,a,False,1.0
+99.0,QBC FRA,a,1,257.0,n,False,a,False,1.0
+99.0,EU POR,a,1,257.0,n,False,a,False,1.0
+99.0,ITA,a,1,233.0,nn,False,a,False,1.0
+99.0,CAM,a,1,233.0,nn,False,a,False,1.0
+99.0,SCN,a,1,233.0,nn,False,a,False,1.0
+99.0,ARO,a,1,257.0,n,False,a,False,1.0
+99.0,ROM,a,1,257.0,n,False,a,False,1.0
+99.0,GAL,a,1,257.0,n,False,a,False,1.0
+99.0,ASL,a,1,,n̪ʲ,False,a,False,0.5
+99.0,ASL,a,1,258.0,ȵ,False,b,False,0.5
+99.0,CAS ESP,a,1,,n̪ʲ,False,a,False,0.5
+99.0,CAS ESP,a,1,258.0,ȵ,False,b,False,0.5
+99.0,AND ESP,a,1,,n̪ʲ,False,a,False,0.5
+99.0,AND ESP,a,1,258.0,ȵ,False,b,False,0.5
+99.0,ARG,a,1,,n̪ʲ,False,a,False,0.5
+99.0,ARG,a,1,258.0,ȵ,False,b,False,0.5
+100.0,BR POR,a,1,175.0,f,False,a,False,1.0
+100.0,AMR ESP,a,1,175.0,f,False,a,False,1.0
+100.0,LAT,a,1,133.0,ff,False,a,False,1.0
+100.0,CAT,a,1,175.0,f,False,a,False,1.0
+100.0,VAL,a,1,175.0,f,False,a,False,1.0
+100.0,BAL,a,1,175.0,f,False,a,False,1.0
+100.0,EU FRA,a,1,175.0,f,False,a,False,1.0
+100.0,EU POR,a,1,175.0,f,False,a,False,1.0
+100.0,ITA,a,1,133.0,ff,False,a,False,1.0
+100.0,ABR,a,1,133.0,ff,False,a,False,1.0
+100.0,CAM,a,1,133.0,ff,False,a,False,1.0
+100.0,PGL,a,1,133.0,ff,False,a,False,1.0
+100.0,SCN,a,1,133.0,ff,False,a,False,1.0
+100.0,ROM,a,1,175.0,f,False,a,False,1.0
+100.0,GAL,a,1,175.0,f,False,a,False,1.0
+100.0,ASL,a,1,175.0,f,False,a,False,1.0
+100.0,CAS ESP,a,1,175.0,f,False,a,False,1.0
+100.0,AND ESP,a,1,175.0,f,False,a,False,1.0
+100.0,ARG,a,1,175.0,f,False,a,False,1.0
+101.0,BR POR,a,1,191.0,ʃ,False,a,False,1.0
+101.0,AMR ESP,a,1,205.0,h,False,a,False,1.0
+101.0,LAT,a,1,145.0,s̠s̠,False,a,False,1.0
+101.0,CAT,a,1,189.0,ɕ,False,a,False,0.5
+101.0,CAT,a,1,191.0,ʃ,False,b,False,0.5
+101.0,VAL,a,1,189.0,ɕ,False,a,False,0.5
+101.0,VAL,a,1,191.0,ʃ,False,b,False,0.5
+101.0,BAL,a,1,189.0,ɕ,False,a,False,0.5
+101.0,BAL,a,1,191.0,ʃ,False,b,False,0.5
+101.0,OCC,a,1,187.0,s̠,False,a,False,1.0
+101.0,EU FRA,a,1,181.0,s̪,False,a,False,1.0
+101.0,EU POR,a,1,191.0,ʃ,False,a,False,1.0
+101.0,ITA,a,1,149.0,ʃʃ,False,a,False,1.0
+101.0,ARO,a,1,191.0,ʃ,False,a,False,1.0
+101.0,ROM,a,1,191.0,ʃ,False,a,False,1.0
+101.0,EU POR,b,1,183.0,s,False,a,False,1.0
+101.0,EU POR,b,1,187.0,s̠,False,b,True,0.0
+101.0,BR POR,b,1,183.0,s,False,a,False,1.0
+101.0,GAL,a,1,187.0,s̠,False,a,False,1.0
+101.0,GAL,a,1,183.0,s,False,b,True,0.0
+101.0,ASL,a,1,187.0,s̠,False,a,False,1.0
+101.0,CAS ESP,a,1,187.0,s̠,False,a,False,1.0
+101.0,GAL,b,1,191.0,ʃ,False,a,False,1.0
+101.0,AND ESP,a,1,179.0,s̟,False,a,False,1.0
+101.0,AMR ESP,b,1,183.0,s,False,a,False,1.0
+101.0,ARG,a,1,187.0,s̠,False,a,False,1.0
+101.0,CAT,b,1,187.0,s̠,False,a,False,1.0
+101.0,VAL,b,1,187.0,s̠,False,a,False,1.0
+101.0,BAL,b,1,187.0,s̠,False,a,False,1.0
+101.0,GAS OCC,b,1,187.0,s̠,False,a,False,1.0
+101.0,EU FRA,b,1,181.0,s̪,False,a,False,1.0
+101.0,QBC FRA,b,1,181.0,s̪,False,a,False,1.0
+101.0,ITA,b,1,141.0,ss,False,a,False,1.0
+101.0,ASL,b,1,191.0,ʃ,False,a,False,1.0
+101.0,ARO,b,1,191.0,ʃ,False,a,False,0.5
+101.0,ARO,b,1,181.0,s̪,False,b,False,0.5
+101.0,ROM,b,1,191.0,ʃ,False,a,False,0.5
+101.0,ROM,b,1,181.0,s̪,False,b,False,0.5
+101.0,CAS ESP,b,1,199.0,x,False,a,False,1.0
+101.0,AND ESP,b,1,205.0,h,False,a,False,1.0
+101.0,ARG,b,1,191.0,ʃ,False,a,False,1.0
+102.0,BR POR,a,1,183.0,s,False,a,False,1.0
+102.0,AMR ESP,a,1,183.0,s,False,a,False,1.0
+102.0,LAT,a,1,145.0,s̠s̠,False,a,False,1.0
+102.0,CAT,a,1,187.0,s̠,False,a,False,1.0
+102.0,VAL,a,1,187.0,s̠,False,a,False,1.0
+102.0,BAL,a,1,187.0,s̠,False,a,False,1.0
+102.0,OCC,a,1,187.0,s̠,False,a,False,1.0
+102.0,GAS OCC,a,1,187.0,s̠,False,a,False,1.0
+102.0,EU FRA,a,1,181.0,s̪,False,a,False,1.0
+102.0,QBC FRA,a,1,181.0,s̪,False,a,False,1.0
+102.0,EU POR,a,1,183.0,s,False,a,False,1.0
+102.0,EU POR,a,1,187.0,s̠,False,b,True,0.0
+102.0,ITA,a,1,141.0,ss,False,a,False,1.0
+102.0,ARO,a,1,181.0,s̪,False,a,False,1.0
+102.0,ROM,a,1,181.0,s̪,False,a,False,1.0
+102.0,GAL,a,1,187.0,s̠,False,a,False,1.0
+102.0,GAL,a,1,183.0,s,False,b,True,0.0
+102.0,ASL,a,1,187.0,s̠,False,a,False,1.0
+102.0,CAS ESP,a,1,187.0,s̠,False,a,False,1.0
+102.0,AND ESP,a,1,179.0,s̟,False,a,False,1.0
+102.0,ARG,a,1,187.0,s̠,False,a,False,1.0
+103.0,BR POR,a,1,199.0,x,False,a,False,0.5
+103.0,BR POR,a,1,205.0,h,False,b,False,0.5
+103.0,AMR ESP,a,1,221.0,rː,False,a,False,1.0
+103.0,LAT,a,1,221.0,rː,False,a,False,1.0
+103.0,CAT,a,1,223.0,r̠ː,False,a,False,1.0
+103.0,VAL,a,1,223.0,r̠ː,False,a,False,1.0
+103.0,BAL,a,1,223.0,r̠ː,False,a,False,1.0
+103.0,OCC,a,1,221.0,rː,False,a,False,1.0
+103.0,OCC,a,1,251.0,ʀ,False,b,True,0.0
+103.0,GAS OCC,a,1,221.0,rː,False,a,False,1.0
+103.0,EU FRA,a,1,202.0,ʁ,False,a,False,1.0
+103.0,EU FRA,a,1,251.0,ʀ,False,b,True,0.0
+103.0,QBC FRA,a,1,202.0,ʁ,False,a,False,1.0
+103.0,QBC FRA,a,1,251.0,ʀ,False,b,True,0.0
+103.0,WAL,a,1,251.0,ʀ,False,a,False,1.0
+103.0,ARP,a,1,221.0,rː,False,a,False,1.0
+103.0,ARP,a,1,251.0,ʀ,False,b,True,0.0
+103.0,EU POR,a,1,202.0,ʁ,False,a,False,1.0
+103.0,EU POR,a,1,245.0,r,False,b,True,0.0
+103.0,LOG SRD,a,1,221.0,rː,False,a,False,1.0
+103.0,CPN SRD,a,1,221.0,rː,False,a,False,1.0
+103.0,ITA,a,1,221.0,rː,False,a,False,1.0
+103.0,CAM,a,1,221.0,rː,False,a,False,1.0
+103.0,SCN,a,1,,ʐː,False,a,False,0.5
+103.0,SCN,a,1,221.0,rː,False,b,False,0.5
+103.0,ARO,a,1,267.0,ɾ̪,False,a,False,1.0
+103.0,ROM,a,1,267.0,ɾ̪,False,a,False,1.0
+103.0,GAL,a,1,221.0,rː,False,a,False,1.0
+103.0,ASL,a,1,221.0,rː,False,a,False,1.0
+103.0,CAS ESP,a,1,221.0,rː,False,a,False,1.0
+103.0,AND ESP,a,1,221.0,rː,False,a,False,1.0
+103.0,ARG,a,1,221.0,rː,False,a,False,1.0
+104.0,BR POR,a,1,303.0,l,False,a,False,1.0
+104.0,AMR ESP,a,1,198.0,ʝ,False,a,False,1.0
+104.0,LAT,a,1,285.0,ll,False,a,False,0.5
+104.0,LAT,a,1,292.0,ɭɭ,False,b,False,0.5
+104.0,CAT,a,1,,ȴ [ʎ̟],False,a,False,1.0
+104.0,VAL,a,1,,ȴ [ʎ̟],False,a,False,1.0
+104.0,BAL,a,1,,ȴ [ʎ̟],False,a,False,1.0
+104.0,EU FRA,a,1,303.0,l,False,a,False,1.0
+104.0,QBC FRA,a,1,303.0,l,False,a,False,1.0
+104.0,WAL,a,1,303.0,l,False,a,False,1.0
+104.0,EU POR,a,1,309.0,ɫ̪,False,a,False,1.0
+104.0,LOG SRD,a,1,14.0,ɖɖ,False,a,False,1.0
+104.0,CPN SRD,a,1,14.0,ɖɖ,False,a,False,1.0
+104.0,ITA,a,1,285.0,ll,False,a,False,1.0
+104.0,ABR,a,1,285.0,ll,False,a,False,1.0
+104.0,ABR,a,1,286.0,ȴȴ,False,b,True,0.0
+104.0,PGL,a,1,14.0,ɖɖ,False,a,False,1.0
+104.0,SCN,a,1,14.0,ɖɖ,False,a,False,1.0
+104.0,ROM,a,1,303.0,l,False,a,False,1.0
+104.0,ROM,b,1,348.0,j,False,a,False,1.0
+104.0,CAS ESP,a,1,315.0,ʎ,False,a,False,0.5
+104.0,CAS ESP,a,1,198.0,ʝ,False,b,False,0.5
+104.0,AND ESP,a,1,198.0,ʝ,False,a,False,1.0
+31a,AMR ESP,a,1,44.0,ɡ,False,a,False,1.0
+31a,AMR ESP,a,2,,∅,False,a,False,1.0
+31a,AND ESP,a,2,,∅,False,a,False,1.0
+31a,AND ESP,a,1,44.0,ɡ,False,a,False,1.0
+31a,ARG,a,1,44.0,ɡ,False,a,False,1.0
+31a,ARG,a,2,,∅,False,a,False,1.0
+31a,ARP,a,1,44.0,ɡ,False,a,False,1.0
+31a,ARP,a,2,,∅,False,a,False,1.0
+31a,ASL,a,2,,∅,False,a,False,1.0
+31a,ASL,a,1,44.0,ɡ,False,a,False,1.0
+31a,BAL,a,2,,∅,False,a,False,1.0
+31a,BAL,a,1,44.0,ɡ,False,a,False,1.0
+31a,BR POR,a,1,44.0,ɡ,False,a,False,1.0
+31a,BR POR,a,2,,∅,False,a,False,1.0
+31a,CAM,a,2,346.0,w,False,a,False,0.5
+31a,CAM,a,2,176.0,v,False,b,False,0.5
+31a,CAM,a,1,44.0,ɡ,False,a,False,0.5
+31a,CAM,a,1,,∅,False,b,False,0.5
+31a,CAS ESP,a,2,,∅,False,a,False,1.0
+31a,CAS ESP,a,1,44.0,ɡ,False,a,False,1.0
+31a,CAT,a,1,44.0,ɡ,False,a,False,1.0
+31a,CAT,a,2,,∅,False,a,False,1.0
+31a,COR,a,2,,∅,False,a,False,1.0
+31a,COR,a,1,,gʷ,False,a,False,1.0
+31a,CPN SRD,a,2,346.0,w,False,a,False,1.0
+31a,CPN SRD,a,1,44.0,ɡ,False,a,False,1.0
+31a,EU FRA,a,1,44.0,ɡ,False,a,False,1.0
+31a,EU FRA,a,2,,∅,False,a,False,1.0
+31a,EU POR,a,1,44.0,ɡ,False,a,False,1.0
+31a,EU POR,a,2,,∅,False,a,False,1.0
+31a,FUR,a,2,346.0,w,False,a,False,1.0
+31a,FUR,a,1,176.0,v,False,a,False,0.5
+31a,FUR,a,1,,∅,False,b,False,0.5
+31a,GAL,a,1,44.0,ɡ,False,a,False,1.0
+31a,GAL,a,2,,∅,False,a,False,1.0
+31a,GAS OCC,a,1,44.0,ɡ,False,a,False,1.0
+31a,GAS OCC,a,2,,∅,False,a,False,1.0
+31a,ITA,a,1,44.0,ɡ,False,a,False,1.0
+31a,ITA,a,2,346.0,w,False,a,False,1.0
+31a,LAT,a,2,346.0,w,False,a,False,1.0
+31a,LIG,a,1,44.0,ɡ,False,a,False,1.0
+31a,LIG,a,2,346.0,w,False,a,False,1.0
+31a,LMO,a,2,346.0,w,False,a,False,1.0
+31a,LMO,a,1,44.0,ɡ,False,a,False,1.0
+31a,LOG SRD,a,2,346.0,w,False,a,False,0.5
+31a,LOG SRD,a,2,,∅,False,b,False,0.5
+31a,LOG SRD,a,1,44.0,ɡ,False,a,False,1.0
+31a,OCC,a,2,,∅,False,a,False,1.0
+31a,OCC,a,1,44.0,ɡ,False,a,False,1.0
+31a,QBC FRA,a,2,,∅,False,a,False,1.0
+31a,QBC FRA,a,1,44.0,ɡ,False,a,False,1.0
+31a,RMH,a,2,346.0,w,False,a,False,0.5
+31a,RMH,a,2,,∅,False,b,False,0.5
+31a,RMH,a,1,44.0,ɡ,False,a,False,1.0
+31a,VAL,a,1,44.0,ɡ,False,a,False,1.0
+31a,VAL,a,2,,∅,False,a,False,1.0
+31a,VEN,a,1,44.0,ɡ,False,a,False,0.5
+31a,VEN,a,1,,∅,False,b,False,0.5
+31a,VEN,a,2,346.0,w,False,a,False,0.5
+31a,VEN,a,2,176.0,v,False,b,False,0.5
+31a,WAL,a,2,346.0,w,False,a,False,1.0
+31b,AMR ESP,a,1,44.0,ɡ,False,a,False,1.0
+31b,AMR ESP,a,2,346.0,w,False,a,False,1.0
+31b,AND ESP,a,2,346.0,w,False,a,False,1.0
+31b,AND ESP,a,1,44.0,ɡ,False,a,False,1.0
+31b,ARP,a,2,44.0,ɡ,False,a,False,0.5
+31b,ARP,a,2,346.0,w,False,b,False,0.5
+31b,ASL,a,2,346.0,w,False,a,False,1.0
+31b,ASL,a,1,44.0,ɡ,False,a,False,1.0
+31b,BAL,a,2,346.0,w,False,a,False,1.0
+31b,BAL,a,1,44.0,ɡ,False,a,False,1.0
+31b,BR POR,a,1,44.0,ɡ,False,a,False,1.0
+31b,BR POR,a,2,346.0,w,False,a,False,1.0
+31b,CAM,a,2,346.0,w,False,a,False,0.5
+31b,CAM,a,2,176.0,v,False,b,False,0.5
+31b,CAM,a,1,44.0,ɡ,False,a,False,0.5
+31b,CAM,a,1,,∅,False,b,False,0.5
+31b,CAS ESP,a,2,346.0,w,False,a,False,1.0
+31b,CAS ESP,a,1,44.0,ɡ,False,a,False,1.0
+31b,CAT,a,1,44.0,ɡ,False,a,False,1.0
+31b,CAT,a,2,346.0,w,False,a,False,1.0
+31b,COR,a,2,,∅,False,a,False,1.0
+31b,COR,a,1,,gʷ,False,a,False,1.0
+31b,CPN SRD,a,2,346.0,w,False,a,False,1.0
+31b,CPN SRD,a,1,44.0,ɡ,False,a,False,1.0
+31b,EU FRA,a,1,44.0,ɡ,False,a,False,1.0
+31b,EU FRA,a,2,,∅,False,a,False,1.0
+31b,EU POR,a,1,44.0,ɡ,False,a,False,1.0
+31b,EU POR,a,2,346.0,w,False,a,False,1.0
+31b,FUR,a,2,346.0,w,False,a,False,1.0
+31b,FUR,a,1,176.0,v,False,a,False,0.5
+31b,FUR,a,1,,∅,False,b,False,0.5
+31b,GAL,a,1,44.0,ɡ,False,a,False,1.0
+31b,GAL,a,2,346.0,w,False,a,False,0.5
+31b,GAL,a,2,,∅,False,b,False,0.5
+31b,GAS OCC,a,1,44.0,ɡ,False,a,False,0.5
+31b,GAS OCC,a,1,,∅,False,b,False,0.5
+31b,GAS OCC,a,2,346.0,w,False,a,False,0.5
+31b,GAS OCC,a,2,,∅,False,b,False,0.5
+31b,ITA,a,1,44.0,ɡ,False,a,False,1.0
+31b,ITA,a,2,346.0,w,False,a,False,1.0
+31b,LAT,a,2,346.0,w,False,a,False,1.0
+31b,LIG,a,1,44.0,ɡ,False,a,False,1.0
+31b,LIG,a,2,346.0,w,False,a,False,1.0
+31b,LMO,a,2,346.0,w,False,a,False,1.0
+31b,LMO,a,1,44.0,ɡ,False,a,False,1.0
+31b,LOG SRD,a,2,346.0,w,False,a,False,0.5
+31b,LOG SRD,a,2,,∅,False,b,False,0.5
+31b,LOG SRD,a,1,44.0,ɡ,False,a,False,1.0
+31b,OCC,a,2,,∅,False,a,False,1.0
+31b,OCC,a,1,44.0,ɡ,False,a,False,1.0
+31b,QBC FRA,a,2,,∅,False,a,False,1.0
+31b,QBC FRA,a,1,44.0,ɡ,False,a,False,1.0
+31b,RMH,a,2,346.0,w,False,a,False,0.5
+31b,RMH,a,2,,∅,False,b,False,0.5
+31b,RMH,a,1,44.0,ɡ,False,a,False,1.0
+31b,VAL,a,1,44.0,ɡ,False,a,False,1.0
+31b,VAL,a,2,346.0,w,False,a,False,1.0
+31b,VEN,a,1,44.0,ɡ,False,a,False,0.5
+31b,VEN,a,1,,∅,False,b,False,0.5
+31b,VEN,a,2,346.0,w,False,a,False,0.5
+31b,VEN,a,2,176.0,v,False,b,False,0.5
+31b,WAL,a,2,346.0,w,False,a,False,1.0
+32,ABR,a,2,348.0,j,False,a,False,1.0
+32,ABR,a,1,25.0,p,False,a,False,1.0
+32,AMR ESP,a,2,115.0,ɟ͡ʝ,False,a,False,1.0
+32,AND ESP,a,2,115.0,ɟ͡ʝ,False,a,False,1.0
+32,ARG,a,1,25.0,p,False,a,False,1.0
+32,ARG,a,2,303.0,l,False,a,False,1.0
+32,ARG,a,2,304.0,ȴ,False,b,True,0.0
+32,ARO,a,2,303.0,l,False,a,False,1.0
+32,ARO,a,1,25.0,p,False,a,False,1.0
+32,ARP,a,1,25.0,p,False,a,False,1.0
+32,ARP,a,2,,l (ȴ,False,a,False,0.5
+32,ARP,a,2,,j),False,b,False,0.5
+32,ASL,a,2,,ȴ[ʎ̟],False,a,False,1.0
+32,ASL,a,2,112.0,ʈ͡ʂ,False,b,True,0.0
+32,BAL,a,2,317.0,ʟ,False,a,False,1.0
+32,BAL,a,1,25.0,p,False,a,False,1.0
+32,BR POR,a,1,191.0,ʃ,False,a,False,1.0
+32,CAM,a,1,41.0,c,False,a,False,1.0
+32,CAS ESP,a,2,315.0,ʎ,False,a,False,1.0
+32,CAT,a,1,25.0,p,False,a,False,1.0
+32,CAT,a,2,303.0,l,False,a,False,1.0
+32,COR,a,2,348.0,j,False,a,False,1.0
+32,COR,a,1,25.0,p,False,a,False,1.0
+32,CPN SRD,a,2,269.0,ɾ,False,a,False,1.0
+32,CPN SRD,a,1,25.0,p,False,a,False,1.0
+32,EU FRA,a,1,25.0,p,False,a,False,1.0
+32,EU FRA,a,2,303.0,l,False,a,False,1.0
+32,EU POR,a,1,191.0,ʃ,False,a,False,1.0
+32,FUR,a,2,303.0,l,False,a,False,1.0
+32,FUR,a,1,25.0,p,False,a,False,1.0
+32,GAL,a,1,108.0,t̠͡ʃ,False,a,False,1.0
+32,GAS OCC,a,1,25.0,p,False,a,False,1.0
+32,GAS OCC,a,2,303.0,l,False,a,False,1.0
+32,ITA,a,2,348.0,j,False,a,False,1.0
+32,ITA,a,1,25.0,p,False,a,False,1.0
+32,LAT,a,1,25.0,p,False,a,False,1.0
+32,LAT,a,2,309.0,ɫ̪,False,a,False,1.0
+32,LAT,b,1,25.0,p,False,a,False,1.0
+32,LAT,b,2,305.0,l̪ʲ,False,a,False,1.0
+32,LIG,a,1,108.0,t̠͡ʃ,False,a,False,1.0
+32,LMO,a,2,348.0,j,False,a,False,1.0
+32,LMO,a,1,25.0,p,False,a,False,1.0
+32,LOG SRD,a,2,269.0,ɾ,False,a,False,1.0
+32,LOG SRD,a,1,25.0,p,False,a,False,1.0
+32,OCC,a,2,303.0,l,False,a,False,1.0
+32,OCC,a,1,25.0,p,False,a,False,1.0
+32,PGL,a,1,41.0,c,False,a,False,1.0
+32,QBC FRA,a,2,303.0,l,False,a,False,1.0
+32,QBC FRA,a,1,25.0,p,False,a,False,1.0
+32,RMH,a,2,303.0,l,False,a,False,1.0
+32,RMH,a,1,25.0,p,False,a,False,1.0
+32,ROM,a,2,303.0,l,False,a,False,1.0
+32,ROM,a,1,25.0,p,False,a,False,1.0
+32,SCN,a,1,41.0,c,False,a,False,1.0
+32,VAL,a,1,25.0,p,False,a,False,1.0
+32,VAL,a,2,313.0,ɫ,False,a,False,1.0
+32,VEN,a,1,25.0,p,False,a,False,1.0
+32,VEN,a,2,348.0,j,False,a,False,1.0
+32,WAL,a,1,25.0,p,False,a,False,1.0
+32,WAL,a,2,303.0,l,False,a,False,1.0
+33,ABR,a,2,269.0,ɾ,False,a,False,1.0
+33,ABR,a,1,176.0,v,False,a,False,1.0
+33,AMR ESP,a,1,26.0,b,False,a,False,1.0
+33,AMR ESP,a,2,269.0,ɾ,False,a,False,1.0
+33,AND ESP,a,2,269.0,ɾ,False,a,False,1.0
+33,AND ESP,a,1,26.0,b,False,a,False,1.0
+33,ARG,a,1,26.0,b,False,a,False,1.0
+33,ARG,a,2,269.0,ɾ,False,a,False,1.0
+33,ARO,a,2,267.0,ɾ̪,False,a,False,1.0
+33,ARO,a,1,26.0,b,False,a,False,1.0
+33,ARP,a,1,26.0,b,False,a,False,1.0
+33,ARP,a,2,269.0,ɾ,False,a,False,1.0
+33,ARP,a,2,251.0,ʀ,False,b,True,0.0
+33,ASL,a,2,269.0,ɾ,False,a,False,1.0
+33,ASL,a,1,26.0,b,False,a,False,1.0
+33,BAL,a,2,269.0,ɾ,False,a,False,1.0
+33,BAL,a,1,26.0,b,False,a,False,1.0
+33,BR POR,a,1,26.0,b,False,a,False,1.0
+33,BR POR,a,2,269.0,ɾ,False,a,False,1.0
+33,CAM,a,2,269.0,ɾ,False,a,False,1.0
+33,CAM,a,1,176.0,v,False,a,False,1.0
+33,CAS ESP,a,2,269.0,ɾ,False,a,False,1.0
+33,CAS ESP,a,1,26.0,b,False,a,False,1.0
+33,CAT,a,1,26.0,b,False,a,False,1.0
+33,CAT,a,2,269.0,ɾ,False,a,False,1.0
+33,COR,a,2,269.0,ɾ,False,a,False,1.0
+33,COR,a,1,26.0,b,False,a,False,1.0
+33,CPN SRD,a,2,269.0,ɾ,False,a,False,1.0
+33,CPN SRD,a,1,26.0,b,False,a,False,1.0
+33,EU FRA,a,1,26.0,b,False,a,False,1.0
+33,EU FRA,a,2,202.0,ʁ,False,a,False,1.0
+33,EU FRA,a,2,251.0,ʀ,False,b,True,0.0
+33,EU POR,a,1,26.0,b,False,a,False,1.0
+33,EU POR,a,2,269.0,ɾ,False,a,False,1.0
+33,FUR,a,2,269.0,ɾ,False,a,False,1.0
+33,FUR,a,1,26.0,b,False,a,False,1.0
+33,GAL,a,1,26.0,b,False,a,False,1.0
+33,GAL,a,2,269.0,ɾ,False,a,False,1.0
+33,GAS OCC,a,1,26.0,b,False,a,False,1.0
+33,GAS OCC,a,2,269.0,ɾ,False,a,False,1.0
+33,ITA,a,1,26.0,b,False,a,False,1.0
+33,ITA,a,2,269.0,ɾ,False,a,False,1.0
+33,LAT,a,1,26.0,b,False,a,False,1.0
+33,LAT,a,2,269.0,ɾ,False,a,False,1.0
+33,LIG,a,1,26.0,b,False,a,False,1.0
+33,LIG,a,2,269.0,ɾ,False,a,False,1.0
+33,LMO,a,2,269.0,ɾ,False,a,False,1.0
+33,LMO,a,1,26.0,b,False,a,False,1.0
+33,LOG SRD,a,2,269.0,ɾ,False,a,False,1.0
+33,LOG SRD,a,1,26.0,b,False,a,False,1.0
+33,OCC,a,2,269.0,ɾ,False,a,False,1.0
+33,OCC,a,2,251.0,ʀ,False,b,True,0.0
+33,OCC,a,1,26.0,b,False,a,False,1.0
+33,PGL,a,1,176.0,v,False,a,False,1.0
+33,PGL,a,2,269.0,ɾ,False,a,False,1.0
+33,QBC FRA,a,2,202.0,ʁ,False,a,False,1.0
+33,QBC FRA,a,2,251.0,ʀ,False,b,True,0.0
+33,QBC FRA,a,1,26.0,b,False,a,False,1.0
+33,RMH,a,2,269.0,ɾ,False,a,False,1.0
+33,RMH,a,1,26.0,b,False,a,False,1.0
+33,ROM,a,1,26.0,b,False,a,False,1.0
+33,ROM,a,2,267.0,ɾ̪,False,a,False,1.0
+33,SCN,a,1,176.0,v,False,a,False,1.0
+33,SCN,a,2,269.0,ɾ,False,a,False,1.0
+33,VAL,a,1,26.0,b,False,a,False,1.0
+33,VAL,a,2,269.0,ɾ,False,a,False,1.0
+33,VEN,a,1,26.0,b,False,a,False,1.0
+33,VEN,a,2,269.0,ɾ,False,a,False,1.0
+33,WAL,a,1,26.0,b,False,a,False,1.0
+33,WAL,a,2,251.0,ʀ,False,a,False,1.0
+34,ABR,a,2,348.0,j,False,a,False,1.0
+34,ABR,a,1,26.0,b,False,a,False,1.0
+34,AMR ESP,a,1,26.0,b,False,a,False,1.0
+34,AMR ESP,b,2,303.0,l,False,a,False,1.0
+34,AMR ESP,a,2,303.0,l,False,a,False,1.0
+34,AMR ESP,b,1,,∅,False,a,False,1.0
+34,AND ESP,a,2,303.0,l,False,a,False,1.0
+34,AND ESP,b,2,303.0,l,False,a,False,1.0
+34,AND ESP,b,1,26.0,b,False,a,False,1.0
+34,AND ESP,a,1,,∅,False,a,False,1.0
+34,ARG,a,1,26.0,b,False,a,False,1.0
+34,ARG,a,2,303.0,l,False,a,False,1.0
+34,ARG,a,2,304.0,ȴ,False,b,True,0.0
+34,ARO,a,2,303.0,l,False,a,False,1.0
+34,ARO,a,1,26.0,b,False,a,False,1.0
+34,ARP,a,2,,l (ȴ,False,a,False,0.5
+34,ARP,a,2,,j),False,b,False,0.5
+34,ARP,a,1,26.0,b,False,a,False,1.0
+34,ASL,b,2,303.0,l,False,a,False,1.0
+34,ASL,a,2,303.0,l,False,a,False,1.0
+34,ASL,b,1,26.0,b,False,a,False,1.0
+34,ASL,a,1,,∅,False,a,False,1.0
+34,BAL,a,2,317.0,ʟ,False,a,False,1.0
+34,BAL,a,1,26.0,b,False,a,False,1.0
+34,BR POR,b,2,303.0,l,False,a,False,1.0
+34,BR POR,a,2,269.0,ɾ,False,a,False,1.0
+34,BR POR,b,1,,∅,False,a,False,1.0
+34,BR POR,a,1,26.0,b,False,a,False,1.0
+34,CAM,a,2,348.0,j,False,a,False,1.0
+34,CAM,a,1,,∅,False,a,False,1.0
+34,CAS ESP,b,2,303.0,l,False,a,False,1.0
+34,CAS ESP,a,2,303.0,l,False,a,False,1.0
+34,CAS ESP,a,1,,∅,False,a,False,1.0
+34,CAS ESP,b,1,26.0,b,False,a,False,1.0
+34,CAT,a,2,303.0,l,False,a,False,1.0
+34,CAT,a,1,26.0,b,False,a,False,1.0
+34,COR,a,1,26.0,b,False,a,False,1.0
+34,COR,a,2,348.0,j,False,a,False,1.0
+34,CPN SRD,a,1,26.0,b,False,a,False,1.0
+34,CPN SRD,a,2,269.0,ɾ,False,a,False,1.0
+34,EU FRA,a,2,303.0,l,False,a,False,1.0
+34,EU FRA,a,1,26.0,b,False,a,False,1.0
+34,EU POR,a,1,26.0,b,False,a,False,1.0
+34,EU POR,b,2,309.0,ɫ̪,False,a,False,1.0
+34,EU POR,b,1,,∅,False,a,False,1.0
+34,EU POR,a,2,269.0,ɾ,False,a,False,1.0
+34,FUR,a,2,303.0,l,False,a,False,1.0
+34,FUR,a,1,26.0,b,False,a,False,1.0
+34,GAL,a,1,,∅,False,a,False,1.0
+34,GAL,b,2,269.0,ɾ,False,a,False,1.0
+34,GAL,a,2,303.0,l,False,a,False,1.0
+34,GAL,b,1,26.0,b,False,a,False,1.0
+34,GAS OCC,a,1,26.0,b,False,a,False,1.0
+34,GAS OCC,a,2,303.0,l,False,a,False,1.0
+34,ITA,a,1,26.0,b,False,a,False,1.0
+34,ITA,a,2,348.0,j,False,a,False,1.0
+34,LAT,b,1,26.0,b,False,a,False,1.0
+34,LAT,a,1,26.0,b,False,a,False,1.0
+34,LAT,a,2,309.0,ɫ̪,False,a,False,1.0
+34,LAT,b,2,305.0,l̪ʲ,False,a,False,1.0
+34,LIG,a,2,109.0,d̠͡ʒ,False,a,False,1.0
+34,LIG,a,1,,∅,False,a,False,1.0
+34,LMO,a,2,348.0,j,False,a,False,1.0
+34,LMO,a,1,26.0,b,False,a,False,1.0
+34,LOG SRD,a,1,26.0,b,False,a,False,1.0
+34,LOG SRD,a,2,269.0,ɾ,False,a,False,1.0
+34,OCC,a,1,26.0,b,False,a,False,1.0
+34,OCC,a,2,303.0,l,False,a,False,1.0
+34,PGL,a,1,,∅,False,a,False,1.0
+34,PGL,a,2,348.0,j,False,a,False,1.0
+34,QBC FRA,a,2,303.0,l,False,a,False,1.0
+34,QBC FRA,a,1,26.0,b,False,a,False,1.0
+34,RMH,a,1,26.0,b,False,a,False,1.0
+34,RMH,a,2,303.0,l,False,a,False,1.0
+34,ROM,a,2,303.0,l,False,a,False,1.0
+34,ROM,a,1,26.0,b,False,a,False,1.0
+34,SCN,a,2,348.0,j,False,a,False,1.0
+34,SCN,a,1,,∅,False,a,False,1.0
+34,VAL,a,2,313.0,ɫ,False,a,False,1.0
+34,VAL,a,1,26.0,b,False,a,False,1.0
+34,VEN,a,2,348.0,j,False,a,False,1.0
+34,VEN,a,1,26.0,b,False,a,False,1.0
+34,WAL,a,1,26.0,b,False,a,False,1.0
+34,WAL,a,2,303.0,l,False,a,False,1.0
+35,ABR,a,2,269.0,ɾ,False,a,False,1.0
+35,ABR,a,1,29.0,t̪,False,a,False,1.0
+35,AMR ESP,a,1,29.0,t̪,False,a,False,1.0
+35,AMR ESP,a,2,269.0,ɾ,False,a,False,1.0
+35,AND ESP,a,2,269.0,ɾ,False,a,False,1.0
+35,AND ESP,a,1,29.0,t̪,False,a,False,1.0
+35,ARG,a,1,29.0,t̪,False,a,False,1.0
+35,ARG,a,2,269.0,ɾ,False,a,False,1.0
+35,ARO,a,2,267.0,ɾ̪,False,a,False,1.0
+35,ARO,a,1,29.0,t̪,False,a,False,1.0
+35,ARP,a,1,29.0,t̪,False,a,False,1.0
+35,ARP,a,2,269.0,ɾ,False,a,False,1.0
+35,ARP,a,2,251.0,ʀ,False,b,True,0.0
+35,ASL,a,2,269.0,ɾ,False,a,False,1.0
+35,ASL,a,1,29.0,t̪,False,a,False,1.0
+35,BAL,a,2,269.0,ɾ,False,a,False,1.0
+35,BAL,a,1,29.0,t̪,False,a,False,1.0
+35,BR POR,a,1,29.0,t̪,False,a,False,1.0
+35,BR POR,a,2,269.0,ɾ,False,a,False,1.0
+35,CAM,a,2,269.0,ɾ,False,a,False,1.0
+35,CAM,a,1,29.0,t̪,False,a,False,1.0
+35,CAS ESP,a,2,269.0,ɾ,False,a,False,1.0
+35,CAS ESP,a,1,29.0,t̪,False,a,False,1.0
+35,CAT,a,1,29.0,t̪,False,a,False,1.0
+35,CAT,a,2,269.0,ɾ,False,a,False,1.0
+35,COR,a,2,269.0,ɾ,False,a,False,0.5
+35,COR,a,2,273.0,ɽ,False,b,False,0.5
+35,COR,a,1,29.0,t̪,False,a,False,0.5
+35,COR,a,1,37.0,ʈ,False,b,False,0.5
+35,CPN SRD,a,2,269.0,ɾ,False,a,False,1.0
+35,CPN SRD,a,1,29.0,t̪,False,a,False,1.0
+35,EU FRA,a,1,29.0,t̪,False,a,False,1.0
+35,EU FRA,a,2,202.0,ʁ,False,a,False,1.0
+35,EU FRA,a,2,251.0,ʀ,False,b,True,0.0
+35,EU POR,a,1,29.0,t̪,False,a,False,1.0
+35,EU POR,a,2,269.0,ɾ,False,a,False,1.0
+35,FUR,a,2,269.0,ɾ,False,a,False,1.0
+35,FUR,a,1,29.0,t̪,False,a,False,1.0
+35,GAL,a,1,29.0,t̪,False,a,False,1.0
+35,GAL,a,2,269.0,ɾ,False,a,False,1.0
+35,GAS OCC,a,1,29.0,t̪,False,a,False,1.0
+35,GAS OCC,a,2,269.0,ɾ,False,a,False,1.0
+35,ITA,a,1,29.0,t̪,False,a,False,1.0
+35,ITA,a,2,269.0,ɾ,False,a,False,1.0
+35,LAT,a,1,29.0,t̪,False,a,False,1.0
+35,LAT,a,2,269.0,ɾ,False,a,False,1.0
+35,LIG,a,1,29.0,t̪,False,a,False,1.0
+35,LIG,a,2,269.0,ɾ,False,a,False,1.0
+35,LMO,a,2,269.0,ɾ,False,a,False,1.0
+35,LMO,a,1,29.0,t̪,False,a,False,1.0
+35,LOG SRD,a,2,269.0,ɾ,False,a,False,1.0
+35,LOG SRD,a,1,29.0,t̪,False,a,False,1.0
+35,OCC,a,2,269.0,ɾ,False,a,False,1.0
+35,OCC,a,2,251.0,ʀ,False,b,True,0.0
+35,OCC,a,1,29.0,t̪,False,a,False,1.0
+35,PGL,a,1,29.0,t̪,False,a,False,1.0
+35,PGL,a,2,269.0,ɾ,False,a,False,1.0
+35,QBC FRA,a,2,202.0,ʁ,False,a,False,1.0
+35,QBC FRA,a,2,251.0,ʀ,False,b,True,0.0
+35,QBC FRA,a,1,29.0,t̪,False,a,False,1.0
+35,RMH,a,2,269.0,ɾ,False,a,False,1.0
+35,RMH,a,1,29.0,t̪,False,a,False,1.0
+35,ROM,a,1,29.0,t̪,False,a,False,1.0
+35,ROM,a,2,267.0,ɾ̪,False,a,False,1.0
+35,SCN,a,1,37.0,ʈ,False,a,False,1.0
+35,SCN,a,2,273.0,ɽ,False,a,False,1.0
+35,VAL,a,1,29.0,t̪,False,a,False,1.0
+35,VAL,a,2,269.0,ɾ,False,a,False,1.0
+35,VEN,a,1,29.0,t̪,False,a,False,1.0
+35,VEN,a,2,269.0,ɾ,False,a,False,1.0
+35,WAL,a,1,29.0,t̪,False,a,False,1.0
+35,WAL,a,2,251.0,ʀ,False,a,False,1.0
+36,ABR,a,2,269.0,ɾ,False,a,False,1.0
+36,ABR,a,1,30.0,d̪,False,a,False,1.0
+36,AMR ESP,a,1,30.0,d̪,False,a,False,1.0
+36,AMR ESP,a,2,269.0,ɾ,False,a,False,1.0
+36,AND ESP,a,2,269.0,ɾ,False,a,False,1.0
+36,AND ESP,a,1,30.0,d̪,False,a,False,1.0
+36,ARG,a,1,30.0,d̪,False,a,False,1.0
+36,ARG,a,2,269.0,ɾ,False,a,False,1.0
+36,ARO,a,2,267.0,ɾ̪,False,a,False,1.0
+36,ARO,a,1,30.0,d̪,False,a,False,1.0
+36,ARP,a,1,30.0,d̪,False,a,False,1.0
+36,ARP,a,2,269.0,ɾ,False,a,False,1.0
+36,ARP,a,2,251.0,ʀ,False,b,True,0.0
+36,ASL,a,2,269.0,ɾ,False,a,False,1.0
+36,ASL,a,1,30.0,d̪,False,a,False,1.0
+36,BAL,a,2,269.0,ɾ,False,a,False,1.0
+36,BAL,a,1,30.0,d̪,False,a,False,1.0
+36,BR POR,a,1,30.0,d̪,False,a,False,1.0
+36,BR POR,a,2,269.0,ɾ,False,a,False,1.0
+36,CAM,a,2,269.0,ɾ,False,a,False,1.0
+36,CAM,a,1,30.0,d̪,False,a,False,1.0
+36,CAS ESP,a,2,269.0,ɾ,False,a,False,1.0
+36,CAS ESP,a,1,30.0,d̪,False,a,False,1.0
+36,CAT,a,1,30.0,d̪,False,a,False,1.0
+36,CAT,a,2,269.0,ɾ,False,a,False,1.0
+36,COR,a,2,269.0,ɾ,False,a,False,0.5
+36,COR,a,2,273.0,ɽ,False,b,False,0.5
+36,COR,a,1,30.0,d̪,False,a,False,0.5
+36,COR,a,1,38.0,ɖ,False,b,False,0.5
+36,CPN SRD,a,2,269.0,ɾ,False,a,False,1.0
+36,CPN SRD,a,1,30.0,d̪,False,a,False,1.0
+36,EU FRA,a,1,30.0,d̪,False,a,False,1.0
+36,EU FRA,a,2,202.0,ʁ,False,a,False,1.0
+36,EU FRA,a,2,251.0,ʀ,False,b,True,0.0
+36,EU POR,a,1,30.0,d̪,False,a,False,1.0
+36,EU POR,a,2,269.0,ɾ,False,a,False,1.0
+36,FUR,a,2,269.0,ɾ,False,a,False,1.0
+36,FUR,a,1,30.0,d̪,False,a,False,1.0
+36,GAL,a,1,30.0,d̪,False,a,False,1.0
+36,GAL,a,2,269.0,ɾ,False,a,False,1.0
+36,GAS OCC,a,1,30.0,d̪,False,a,False,1.0
+36,GAS OCC,a,2,269.0,ɾ,False,a,False,1.0
+36,ITA,a,1,30.0,d̪,False,a,False,1.0
+36,ITA,a,2,269.0,ɾ,False,a,False,1.0
+36,LAT,a,1,30.0,d̪,False,a,False,1.0
+36,LAT,a,2,269.0,ɾ,False,a,False,1.0
+36,LIG,a,1,30.0,d̪,False,a,False,1.0
+36,LIG,a,2,269.0,ɾ,False,a,False,1.0
+36,LMO,a,2,269.0,ɾ,False,a,False,1.0
+36,LMO,a,1,30.0,d̪,False,a,False,1.0
+36,LOG SRD,a,2,269.0,ɾ,False,a,False,1.0
+36,LOG SRD,a,1,30.0,d̪,False,a,False,1.0
+36,OCC,a,2,269.0,ɾ,False,a,False,1.0
+36,OCC,a,2,251.0,ʀ,False,b,True,0.0
+36,OCC,a,1,30.0,d̪,False,a,False,1.0
+36,PGL,a,1,30.0,d̪,False,a,False,1.0
+36,PGL,a,2,269.0,ɾ,False,a,False,1.0
+36,QBC FRA,a,2,202.0,ʁ,False,a,False,1.0
+36,QBC FRA,a,2,251.0,ʀ,False,b,True,0.0
+36,QBC FRA,a,1,30.0,d̪,False,a,False,1.0
+36,RMH,a,2,269.0,ɾ,False,a,False,1.0
+36,RMH,a,1,30.0,d̪,False,a,False,1.0
+36,ROM,a,1,30.0,d̪,False,a,False,1.0
+36,ROM,a,2,267.0,ɾ̪,False,a,False,1.0
+36,SCN,a,1,38.0,ɖ,False,a,False,1.0
+36,SCN,a,2,273.0,ɽ,False,a,False,1.0
+36,VAL,a,1,30.0,d̪,False,a,False,1.0
+36,VAL,a,2,269.0,ɾ,False,a,False,1.0
+36,VEN,a,1,30.0,d̪,False,a,False,1.0
+36,VEN,a,2,269.0,ɾ,False,a,False,1.0
+36,WAL,a,1,30.0,d̪,False,a,False,1.0
+36,WAL,a,2,251.0,ʀ,False,a,False,1.0
+37,ABR,a,2,269.0,ɾ,False,a,False,1.0
+37,ABR,a,1,43.0,k,False,a,False,1.0
+37,AMR ESP,a,1,43.0,k,False,a,False,1.0
+37,AMR ESP,a,2,269.0,ɾ,False,a,False,1.0
+37,AND ESP,a,2,269.0,ɾ,False,a,False,1.0
+37,AND ESP,a,1,43.0,k,False,a,False,1.0
+37,ARG,a,1,43.0,k,False,a,False,1.0
+37,ARG,a,2,269.0,ɾ,False,a,False,1.0
+37,ARO,a,2,267.0,ɾ̪,False,a,False,1.0
+37,ARO,a,1,43.0,k,False,a,False,1.0
+37,ARP,a,1,43.0,k,False,a,False,1.0
+37,ARP,a,2,269.0,ɾ,False,a,False,1.0
+37,ARP,a,2,251.0,ʀ,False,b,True,0.0
+37,ASL,a,2,269.0,ɾ,False,a,False,1.0
+37,ASL,a,1,43.0,k,False,a,False,1.0
+37,BAL,a,2,269.0,ɾ,False,a,False,1.0
+37,BAL,a,1,43.0,k,False,a,False,1.0
+37,BR POR,a,1,43.0,k,False,a,False,1.0
+37,BR POR,a,2,269.0,ɾ,False,a,False,1.0
+37,CAM,a,2,269.0,ɾ,False,a,False,1.0
+37,CAM,a,1,43.0,k,False,a,False,1.0
+37,CAS ESP,a,2,269.0,ɾ,False,a,False,1.0
+37,CAS ESP,a,1,43.0,k,False,a,False,1.0
+37,CAT,a,1,43.0,k,False,a,False,1.0
+37,CAT,a,2,269.0,ɾ,False,a,False,1.0
+37,COR,a,2,269.0,ɾ,False,a,False,1.0
+37,COR,a,1,43.0,k,False,a,False,1.0
+37,CPN SRD,a,2,269.0,ɾ,False,a,False,1.0
+37,CPN SRD,a,1,43.0,k,False,a,False,1.0
+37,EU FRA,a,1,43.0,k,False,a,False,1.0
+37,EU FRA,a,2,202.0,ʁ,False,a,False,1.0
+37,EU FRA,a,2,251.0,ʀ,False,b,True,0.0
+37,EU POR,a,1,43.0,k,False,a,False,1.0
+37,EU POR,a,2,269.0,ɾ,False,a,False,1.0
+37,FUR,a,2,269.0,ɾ,False,a,False,1.0
+37,FUR,a,1,43.0,k,False,a,False,1.0
+37,GAL,a,1,43.0,k,False,a,False,1.0
+37,GAL,a,2,269.0,ɾ,False,a,False,1.0
+37,GAS OCC,a,1,43.0,k,False,a,False,1.0
+37,GAS OCC,a,2,269.0,ɾ,False,a,False,1.0
+37,ITA,a,1,43.0,k,False,a,False,1.0
+37,ITA,a,2,269.0,ɾ,False,a,False,1.0
+37,LAT,a,1,43.0,k,False,a,False,1.0
+37,LAT,a,2,269.0,ɾ,False,a,False,1.0
+37,LIG,a,1,43.0,k,False,a,False,1.0
+37,LIG,a,2,269.0,ɾ,False,a,False,1.0
+37,LMO,a,2,269.0,ɾ,False,a,False,1.0
+37,LMO,a,1,43.0,k,False,a,False,1.0
+37,LOG SRD,a,2,269.0,ɾ,False,a,False,1.0
+37,LOG SRD,a,1,43.0,k,False,a,False,1.0
+37,OCC,a,2,269.0,ɾ,False,a,False,1.0
+37,OCC,a,2,251.0,ʀ,False,b,True,0.0
+37,OCC,a,1,43.0,k,False,a,False,1.0
+37,PGL,a,1,43.0,k,False,a,False,1.0
+37,PGL,a,2,269.0,ɾ,False,a,False,1.0
+37,QBC FRA,a,2,202.0,ʁ,False,a,False,1.0
+37,QBC FRA,a,2,251.0,ʀ,False,b,True,0.0
+37,QBC FRA,a,1,43.0,k,False,a,False,1.0
+37,RMH,a,2,269.0,ɾ,False,a,False,1.0
+37,RMH,a,1,43.0,k,False,a,False,1.0
+37,ROM,a,1,43.0,k,False,a,False,1.0
+37,ROM,a,2,267.0,ɾ̪,False,a,False,1.0
+37,SCN,a,1,43.0,k,False,a,False,1.0
+37,SCN,a,2,269.0,ɾ,False,a,False,1.0
+37,VAL,a,1,43.0,k,False,a,False,1.0
+37,VAL,a,2,269.0,ɾ,False,a,False,1.0
+37,VEN,a,1,43.0,k,False,a,False,1.0
+37,VEN,a,2,269.0,ɾ,False,a,False,1.0
+37,WAL,a,1,43.0,k,False,a,False,1.0
+37,WAL,a,2,251.0,ʀ,False,a,False,1.0
+38,ABR,a,2,,∅,False,a,False,1.0
+38,ABR,a,1,41.0,c,False,a,False,1.0
+38,AMR ESP,a,1,,∅,False,a,False,1.0
+38,AMR ESP,a,2,115.0,ɟ͡ʝ,False,a,False,1.0
+38,AND ESP,a,2,115.0,ɟ͡ʝ,False,a,False,1.0
+38,AND ESP,a,1,,∅,False,a,False,1.0
+38,ARG,a,1,43.0,k,False,a,False,1.0
+38,ARG,a,2,303.0,l,False,a,False,1.0
+38,ARG,a,2,304.0,ȴ,False,b,True,0.0
+38,ARO,a,2,315.0,ʎ,False,a,False,1.0
+38,ARO,a,1,43.0,k,False,a,False,1.0
+38,ARP,a,1,43.0,k,False,a,False,0.5
+38,ARP,a,1,33.0,ȶ,False,b,False,0.5
+38,ARP,a,2,303.0,l,False,a,False,0.5
+38,ARP,a,2,348.0,j,False,b,False,0.5
+38,ASL,a,2,,ȴ[ʎ̟],False,a,False,1.0
+38,ASL,a,2,112.0,ʈ͡ʂ,False,b,True,0.0
+38,ASL,a,1,,∅,False,a,False,1.0
+38,BAL,a,2,317.0,ʟ,False,a,False,1.0
+38,BAL,a,1,43.0,k,False,a,False,1.0
+38,BR POR,a,1,191.0,ʃ,False,a,False,1.0
+38,BR POR,a,2,,∅,False,a,False,1.0
+38,CAM,a,2,,∅,False,a,False,1.0
+38,CAM,a,1,41.0,c,False,a,False,1.0
+38,CAS ESP,a,2,315.0,ʎ,False,a,False,1.0
+38,CAS ESP,a,1,,∅,False,a,False,1.0
+38,CAT,a,1,43.0,k,False,a,False,1.0
+38,CAT,a,2,303.0,l,False,a,False,1.0
+38,COR,a,2,,∅,False,a,False,1.0
+38,COR,a,1,41.0,c,False,a,False,1.0
+38,CPN SRD,a,2,269.0,ɾ,False,a,False,1.0
+38,CPN SRD,a,1,43.0,k,False,a,False,1.0
+38,EU FRA,a,1,43.0,k,False,a,False,1.0
+38,EU FRA,a,2,303.0,l,False,a,False,1.0
+38,EU FRA,b,2,303.0,l,False,a,False,1.0
+38,EU FRA,b,1,44.0,ɡ,False,a,False,1.0
+38,EU POR,a,1,191.0,ʃ,False,a,False,1.0
+38,EU POR,a,2,,∅,False,a,False,1.0
+38,FUR,a,2,303.0,l,False,a,False,1.0
+38,FUR,a,1,43.0,k,False,a,False,1.0
+38,GAL,a,1,108.0,t̠͡ʃ,False,a,False,1.0
+38,GAL,a,2,,∅,False,a,False,1.0
+38,GAS OCC,a,1,43.0,k,False,a,False,1.0
+38,GAS OCC,a,2,303.0,l,False,a,False,1.0
+38,ITA,a,2,348.0,j,False,a,False,1.0
+38,ITA,a,1,43.0,k,False,a,False,1.0
+38,LAT,a,2,309.0,ɫ̪,False,a,False,1.0
+38,LAT,a,1,43.0,k,False,a,False,1.0
+38,LAT,b,1,43.0,k,False,a,False,1.0
+38,LAT,b,2,305.0,l̪ʲ,False,a,False,1.0
+38,LIG,a,1,108.0,t̠͡ʃ,False,a,False,1.0
+38,LIG,a,2,,∅,False,a,False,1.0
+38,LMO,a,2,,∅,False,a,False,1.0
+38,LMO,a,1,108.0,t̠͡ʃ,False,a,False,1.0
+38,LOG SRD,a,2,269.0,ɾ,False,a,False,1.0
+38,LOG SRD,a,1,43.0,k,False,a,False,1.0
+38,OCC,a,2,303.0,l,False,a,False,1.0
+38,OCC,a,1,43.0,k,False,a,False,1.0
+38,PGL,a,2,,∅,False,a,False,1.0
+38,PGL,a,1,41.0,c,False,a,False,1.0
+38,QBC FRA,a,1,43.0,k,False,a,False,1.0
+38,QBC FRA,a,2,303.0,l,False,a,False,1.0
+38,RMH,a,2,303.0,l,False,a,False,1.0
+38,RMH,a,1,43.0,k,False,a,False,1.0
+38,ROM,a,1,43.0,k,False,a,False,0.5
+38,ROM,a,1,41.0,c,False,b,False,0.5
+38,ROM,a,2,348.0,j,False,a,False,0.5
+38,ROM,a,2,,∅,False,b,False,0.5
+38,SCN,a,2,,∅,False,a,False,1.0
+38,SCN,a,1,41.0,c,False,a,False,1.0
+38,VAL,a,2,,,False,a,False,0.5
+38,VAL,a,2,,,False,b,False,0.5
+38,VAL,a,1,43.0,k,False,a,False,1.0
+38,VEN,a,2,,∅,False,a,False,1.0
+38,VEN,a,1,108.0,t̠͡ʃ,False,a,False,1.0
+38,WAL,a,1,43.0,k,False,a,False,1.0
+38,WAL,a,2,303.0,l,False,a,False,1.0
+39,ABR,a,2,346.0,w,False,a,False,1.0
+39,ABR,a,1,43.0,k,False,a,False,1.0
+39,AMR ESP,a,1,43.0,k,False,a,False,1.0
+39,AMR ESP,a,2,346.0,w,False,a,False,1.0
+39,AND ESP,a,2,346.0,w,False,a,False,1.0
+39,AND ESP,a,1,43.0,k,False,a,False,1.0
+39,ARG,a,1,43.0,k,False,a,False,1.0
+39,ARG,a,2,346.0,w,False,a,False,1.0
+39,ARO,a,1,25.0,p,False,a,False,1.0
+39,ARO,b,2,,∅,False,a,False,1.0
+39,ARO,a,2,,∅,False,a,False,1.0
+39,ARO,b,1,43.0,k,False,a,False,1.0
+39,ARP,a,1,43.0,k,False,a,False,1.0
+39,ARP,a,2,,∅,False,a,False,1.0
+39,ASL,a,1,43.0,k,False,a,False,1.0
+39,ASL,a,2,346.0,w,False,a,False,1.0
+39,BAL,a,1,43.0,k,False,a,False,1.0
+39,BAL,a,2,346.0,w,False,a,False,1.0
+39,BR POR,a,2,346.0,w,False,a,False,1.0
+39,BR POR,a,1,43.0,k,False,a,False,1.0
+39,CAM,a,2,346.0,w,False,a,False,1.0
+39,CAM,a,1,43.0,k,False,a,False,1.0
+39,CAS ESP,a,1,43.0,k,False,a,False,1.0
+39,CAS ESP,a,2,346.0,w,False,a,False,1.0
+39,CAT,a,1,43.0,k,False,a,False,1.0
+39,CAT,a,2,346.0,w,False,a,False,1.0
+39,COR,a,2,,∅,False,a,False,1.0
+39,COR,a,1,39.0,kʷ,False,a,False,1.0
+39,CPN SRD,a,2,346.0,w,False,a,False,1.0
+39,CPN SRD,b,1,43.0,k,False,a,False,1.0
+39,CPN SRD,b,2,,∅,False,a,False,1.0
+39,CPN SRD,a,1,43.0,k,False,a,False,1.0
+39,EU FRA,a,1,43.0,k,False,a,False,1.0
+39,EU FRA,a,2,,∅,False,a,False,1.0
+39,EU POR,a,2,346.0,w,False,a,False,1.0
+39,EU POR,a,1,43.0,k,False,a,False,1.0
+39,FUR,a,1,43.0,k,False,a,False,1.0
+39,FUR,a,2,346.0,w,False,a,False,1.0
+39,GAL,a,1,43.0,k,False,a,False,1.0
+39,GAL,a,2,346.0,w,False,a,False,0.5
+39,GAL,a,2,,∅,False,b,False,0.5
+39,GAS OCC,a,1,43.0,k,False,a,False,1.0
+39,GAS OCC,a,2,346.0,w,False,a,False,1.0
+39,ITA,a,1,43.0,k,False,a,False,1.0
+39,ITA,a,2,346.0,w,False,a,False,1.0
+39,LAT,a,1,39.0,kʷ,False,a,False,1.0
+39,LIG,a,1,43.0,k,False,a,False,1.0
+39,LIG,a,2,346.0,w,False,a,False,1.0
+39,LMO,a,2,346.0,w,False,a,False,1.0
+39,LMO,a,1,43.0,k,False,a,False,1.0
+39,LOG SRD,b,1,43.0,k,False,a,False,1.0
+39,LOG SRD,a,2,,∅,False,a,False,1.0
+39,LOG SRD,a,1,26.0,b,False,a,False,1.0
+39,LOG SRD,b,2,,∅,False,a,False,1.0
+39,OCC,a,2,,∅,False,a,False,1.0
+39,OCC,a,1,43.0,k,False,a,False,1.0
+39,PGL,a,2,346.0,w,False,a,False,1.0
+39,PGL,a,1,43.0,k,False,a,False,1.0
+39,QBC FRA,a,1,43.0,k,False,a,False,1.0
+39,QBC FRA,a,2,,∅,False,a,False,1.0
+39,RMH,a,1,43.0,k,False,a,False,1.0
+39,RMH,a,2,346.0,w,False,a,False,1.0
+39,ROM,b,1,43.0,k,False,a,False,1.0
+39,ROM,a,2,,∅,False,a,False,1.0
+39,ROM,b,2,,∅,False,a,False,1.0
+39,ROM,a,1,25.0,p,False,a,False,1.0
+39,SCN,a,2,346.0,w,False,a,False,1.0
+39,SCN,a,1,43.0,k,False,a,False,1.0
+39,VAL,a,1,43.0,k,False,a,False,1.0
+39,VAL,a,2,346.0,w,False,a,False,1.0
+39,VEN,a,2,346.0,w,False,a,False,1.0
+39,VEN,a,1,43.0,k,False,a,False,1.0
+39,WAL,a,1,43.0,k,False,a,False,1.0
+39,WAL,a,2,346.0,w,False,a,False,0.5
+39,WAL,a,2,,∅,False,b,False,0.5
+40,ABR,a,2,346.0,w,False,a,False,1.0
+40,ABR,a,1,43.0,k,False,a,False,1.0
+40,AMR ESP,a,1,43.0,k,False,a,False,1.0
+40,AMR ESP,a,2,,∅,False,a,False,1.0
+40,AND ESP,a,2,,∅,False,a,False,1.0
+40,AND ESP,a,1,43.0,k,False,a,False,1.0
+40,ARG,a,1,43.0,k,False,a,False,1.0
+40,ARG,a,2,,∅,False,a,False,1.0
+40,ARO,a,1,25.0,p,False,a,False,1.0
+40,ARO,a,2,,∅,False,a,False,1.0
+40,ARP,a,1,43.0,k,False,a,False,1.0
+40,ARP,a,2,,∅,False,a,False,1.0
+40,ASL,a,2,,∅,False,a,False,1.0
+40,ASL,a,1,43.0,k,False,a,False,1.0
+40,BAL,b,1,43.0,k,False,a,False,1.0
+40,BAL,a,1,43.0,k,False,a,False,1.0
+40,BAL,a,2,,∅,False,a,False,1.0
+40,BAL,b,2,346.0,w,False,a,False,1.0
+40,BR POR,a,2,,∅,False,a,False,1.0
+40,BR POR,a,1,43.0,k,False,a,False,1.0
+40,CAM,a,1,43.0,k,False,a,False,1.0
+40,CAM,a,2,346.0,w,False,a,False,1.0
+40,CAS ESP,a,1,43.0,k,False,a,False,1.0
+40,CAS ESP,a,2,,∅,False,a,False,1.0
+40,CAT,b,1,43.0,k,False,a,False,1.0
+40,CAT,a,1,43.0,k,False,a,False,1.0
+40,CAT,b,2,346.0,w,False,a,False,1.0
+40,CAT,a,2,,∅,False,a,False,1.0
+40,COR,a,2,,∅,False,a,False,1.0
+40,COR,a,1,39.0,kʷ,False,a,False,1.0
+40,CPN SRD,a,2,,∅,False,a,False,1.0
+40,CPN SRD,a,1,43.0,k,False,a,False,1.0
+40,EU FRA,a,1,43.0,k,False,a,False,1.0
+40,EU FRA,a,2,,∅,False,a,False,1.0
+40,EU POR,a,1,43.0,k,False,a,False,1.0
+40,EU POR,a,2,,∅,False,a,False,1.0
+40,FUR,b,2,346.0,w,False,a,False,0.5
+40,FUR,b,2,,∅,False,b,False,0.5
+40,FUR,b,1,43.0,k,False,a,False,1.0
+40,FUR,a,2,,∅,False,a,False,1.0
+40,FUR,a,1,43.0,k,False,a,False,1.0
+40,GAL,a,2,,∅,False,a,False,1.0
+40,GAL,a,1,43.0,k,False,a,False,1.0
+40,GAS OCC,a,1,43.0,k,False,a,False,1.0
+40,GAS OCC,a,2,,∅,False,a,False,1.0
+40,ITA,a,1,43.0,k,False,a,False,1.0
+40,ITA,a,2,346.0,w,False,a,False,1.0
+40,LAT,a,1,39.0,kʷ,False,a,False,1.0
+40,LIG,a,1,43.0,k,False,a,False,1.0
+40,LIG,a,2,346.0,w,False,a,False,1.0
+40,LMO,a,1,43.0,k,False,a,False,1.0
+40,LMO,a,2,346.0,w,False,a,False,1.0
+40,LOG SRD,a,2,,∅,False,a,False,1.0
+40,LOG SRD,a,1,26.0,b,False,a,False,1.0
+40,OCC,a,1,43.0,k,False,a,False,1.0
+40,OCC,a,2,,∅,False,a,False,1.0
+40,PGL,a,1,43.0,k,False,a,False,1.0
+40,PGL,a,2,346.0,w,False,a,False,1.0
+40,QBC FRA,a,1,43.0,k,False,a,False,1.0
+40,QBC FRA,a,2,,∅,False,a,False,1.0
+40,RMH,a,2,346.0,w,False,a,False,0.5
+40,RMH,a,2,,∅,False,b,False,0.5
+40,RMH,a,1,43.0,k,False,a,False,1.0
+40,ROM,a,1,25.0,p,False,a,False,1.0
+40,ROM,a,2,,∅,False,a,False,1.0
+40,SCN,a,1,43.0,k,False,a,False,1.0
+40,SCN,a,2,346.0,w,False,a,False,1.0
+40,VAL,b,1,43.0,k,False,a,False,1.0
+40,VAL,b,2,346.0,w,False,a,False,1.0
+40,VAL,a,2,,∅,False,a,False,1.0
+40,VAL,a,1,43.0,k,False,a,False,1.0
+40,VEN,a,2,346.0,w,False,a,False,1.0
+40,VEN,a,1,43.0,k,False,a,False,1.0
+40,WAL,b,2,346.0,w,False,a,False,0.5
+40,WAL,b,2,,∅,False,b,False,0.5
+40,WAL,b,1,43.0,k,False,a,False,1.0
+40,WAL,a,1,43.0,k,False,a,False,1.0
+40,WAL,a,2,,∅,False,a,False,1.0
+41,ABR,a,2,,∅,False,a,False,1.0
+41,ABR,a,1,43.0,k,False,a,False,1.0
+41,AMR ESP,a,1,43.0,k,False,a,False,1.0
+41,AMR ESP,a,2,,∅,False,a,False,1.0
+41,AND ESP,a,2,,∅,False,a,False,1.0
+41,AND ESP,a,1,43.0,k,False,a,False,1.0
+41,ARG,a,1,43.0,k,False,a,False,1.0
+41,ARG,a,2,,∅,False,a,False,1.0
+41,ARO,a,2,,∅,False,a,False,1.0
+41,ARO,a,1,43.0,k,False,a,False,1.0
+41,ARP,a,1,43.0,k,False,a,False,1.0
+41,ARP,a,2,,∅,False,a,False,1.0
+41,ASL,a,2,,∅,False,a,False,1.0
+41,ASL,a,1,43.0,k,False,a,False,1.0
+41,BAL,a,2,,∅,False,a,False,1.0
+41,BAL,a,1,43.0,k,False,a,False,1.0
+41,BR POR,a,1,43.0,k,False,a,False,1.0
+41,BR POR,a,2,,∅,False,a,False,1.0
+41,CAM,a,2,,∅,False,a,False,1.0
+41,CAM,a,1,43.0,k,False,a,False,1.0
+41,CAS ESP,a,2,,∅,False,a,False,1.0
+41,CAS ESP,a,1,43.0,k,False,a,False,1.0
+41,CAT,a,1,43.0,k,False,a,False,1.0
+41,CAT,a,2,,∅,False,a,False,1.0
+41,COR,a,2,,∅,False,a,False,1.0
+41,COR,a,1,43.0,k,False,a,False,1.0
+41,CPN SRD,a,2,,∅,False,a,False,1.0
+41,CPN SRD,a,1,43.0,k,False,a,False,1.0
+41,EU FRA,a,1,43.0,k,False,a,False,1.0
+41,EU FRA,a,2,,∅,False,a,False,1.0
+41,EU POR,a,1,43.0,k,False,a,False,1.0
+41,EU POR,a,2,,∅,False,a,False,1.0
+41,FUR,a,2,,∅,False,a,False,1.0
+41,FUR,a,1,43.0,k,False,a,False,1.0
+41,GAL,a,1,43.0,k,False,a,False,1.0
+41,GAL,a,2,,∅,False,a,False,1.0
+41,GAS OCC,a,1,43.0,k,False,a,False,1.0
+41,GAS OCC,a,2,,∅,False,a,False,1.0
+41,ITA,a,1,43.0,k,False,a,False,1.0
+41,ITA,a,2,,∅,False,a,False,1.0
+41,LAT,a,1,39.0,kʷ,False,a,False,1.0
+41,LIG,a,1,43.0,k,False,a,False,1.0
+41,LIG,a,2,,∅,False,a,False,1.0
+41,LMO,a,2,,∅,False,a,False,1.0
+41,LMO,a,1,43.0,k,False,a,False,1.0
+41,LOG SRD,a,2,,∅,False,a,False,1.0
+41,LOG SRD,a,1,43.0,k,False,a,False,1.0
+41,OCC,a,2,,∅,False,a,False,1.0
+41,OCC,a,1,43.0,k,False,a,False,1.0
+41,PGL,a,1,43.0,k,False,a,False,1.0
+41,PGL,a,2,,∅,False,a,False,1.0
+41,QBC FRA,a,2,,∅,False,a,False,1.0
+41,QBC FRA,a,1,43.0,k,False,a,False,1.0
+41,RMH,a,2,,∅,False,a,False,1.0
+41,RMH,a,1,43.0,k,False,a,False,1.0
+41,ROM,a,1,43.0,k,False,a,False,1.0
+41,ROM,a,2,,∅,False,a,False,1.0
+41,SCN,a,1,43.0,k,False,a,False,1.0
+41,SCN,a,2,,∅,False,a,False,1.0
+41,VAL,a,1,43.0,k,False,a,False,1.0
+41,VAL,a,2,,∅,False,a,False,1.0
+41,VEN,a,1,43.0,k,False,a,False,1.0
+41,VEN,a,2,,∅,False,a,False,1.0
+41,WAL,a,1,43.0,k,False,a,False,1.0
+41,WAL,a,2,,∅,False,a,False,1.0
+42,ABR,b,2,346.0,w,False,a,False,1.0
+42,ABR,b,1,43.0,k,False,a,False,1.0
+42,AMR ESP,a,1,43.0,k,False,a,False,1.0
+42,AMR ESP,a,2,,∅,False,a,False,1.0
+42,AND ESP,a,2,,∅,False,a,False,1.0
+42,AND ESP,a,1,43.0,k,False,a,False,1.0
+42,ARG,a,1,43.0,k,False,a,False,1.0
+42,ARG,a,2,,∅,False,a,False,1.0
+42,ARO,a,2,,∅,False,a,False,1.0
+42,ARO,a,1,98.0,t͡s̪,False,a,False,1.0
+42,ARP,a,1,43.0,k,False,a,False,1.0
+42,ARP,a,2,,∅,False,a,False,1.0
+42,ASL,a,1,43.0,k,False,a,False,1.0
+42,ASL,a,2,,∅,False,a,False,1.0
+42,BAL,a,2,,∅,False,a,False,1.0
+42,BAL,a,1,43.0,k,False,a,False,0.5
+42,BAL,a,1,41.0,c,False,b,False,0.5
+42,BR POR,a,1,43.0,k,False,a,False,1.0
+42,BR POR,a,2,,∅,False,a,False,1.0
+42,CAM,a,1,43.0,k,False,a,False,1.0
+42,CAM,b,1,43.0,k,False,a,False,1.0
+42,CAM,b,2,346.0,w,False,a,False,1.0
+42,CAM,a,2,,∅,False,a,False,1.0
+42,CAS ESP,a,1,43.0,k,False,a,False,1.0
+42,CAS ESP,a,2,,∅,False,a,False,1.0
+42,CAT,a,2,,∅,False,a,False,1.0
+42,CAT,a,1,43.0,k,False,a,False,1.0
+42,COR,b,1,43.0,k,False,a,False,1.0
+42,COR,a,2,,∅,False,a,False,1.0
+42,COR,a,1,43.0,k,False,a,False,1.0
+42,COR,b,2,346.0,w,False,a,False,1.0
+42,CPN SRD,b,1,43.0,k,False,a,False,1.0
+42,CPN SRD,a,1,43.0,k,False,a,False,1.0
+42,CPN SRD,a,2,,∅,False,a,False,1.0
+42,CPN SRD,b,2,346.0,w,False,a,False,1.0
+42,EU FRA,a,1,43.0,k,False,a,False,1.0
+42,EU FRA,a,2,,∅,False,a,False,1.0
+42,EU POR,a,2,,∅,False,a,False,1.0
+42,EU POR,a,1,43.0,k,False,a,False,1.0
+42,FUR,a,2,346.0,w,False,a,False,1.0
+42,FUR,a,1,43.0,k,False,a,False,1.0
+42,GAL,a,1,43.0,k,False,a,False,1.0
+42,GAL,a,2,,∅,False,a,False,1.0
+42,GAS OCC,a,2,,∅,False,a,False,1.0
+42,GAS OCC,a,1,43.0,k,False,a,False,1.0
+42,ITA,a,2,,∅,False,a,False,1.0
+42,ITA,b,1,43.0,k,False,a,False,1.0
+42,ITA,b,2,346.0,w,False,a,False,1.0
+42,ITA,a,1,43.0,k,False,a,False,1.0
+42,LAT,a,1,39.0,kʷ,False,a,False,1.0
+42,LIG,b,2,346.0,w,False,a,False,1.0
+42,LIG,a,1,43.0,k,False,a,False,1.0
+42,LIG,a,2,,∅,False,a,False,1.0
+42,LIG,b,1,43.0,k,False,a,False,1.0
+42,LMO,a,1,43.0,k,False,a,False,1.0
+42,LMO,b,2,346.0,w,False,a,False,1.0
+42,LMO,a,2,,∅,False,a,False,1.0
+42,LMO,b,1,43.0,k,False,a,False,1.0
+42,LOG SRD,b,2,,∅,False,a,False,1.0
+42,LOG SRD,a,1,43.0,k,False,a,False,1.0
+42,LOG SRD,a,2,,∅,False,a,False,1.0
+42,LOG SRD,b,1,26.0,b,False,a,False,1.0
+42,OCC,a,2,,∅,False,a,False,1.0
+42,OCC,a,1,43.0,k,False,a,False,1.0
+42,PGL,b,2,346.0,w,False,a,False,1.0
+42,PGL,b,1,43.0,k,False,a,False,1.0
+42,QBC FRA,a,1,43.0,k,False,a,False,1.0
+42,QBC FRA,a,2,,∅,False,a,False,1.0
+42,RMH,b,2,346.0,w,False,a,False,1.0
+42,RMH,b,1,43.0,k,False,a,False,1.0
+42,RMH,a,1,41.0,c,False,a,False,0.5
+42,RMH,a,1,108.0,t̠͡ʃ,False,b,False,0.5
+42,RMH,a,2,,∅,False,a,False,1.0
+42,ROM,a,1,108.0,t̠͡ʃ,False,a,False,1.0
+42,ROM,a,2,,∅,False,a,False,1.0
+42,SCN,a,2,346.0,w,False,a,False,0.5
+42,SCN,a,2,,∅,False,b,False,0.5
+42,SCN,b,2,346.0,w,False,a,False,1.0
+42,SCN,a,1,43.0,k,False,a,False,1.0
+42,SCN,b,1,43.0,k,False,a,False,1.0
+42,VAL,a,2,,∅,False,a,False,1.0
+42,VAL,a,1,43.0,k,False,a,False,1.0
+42,VEN,b,2,346.0,w,False,a,False,1.0
+42,VEN,b,1,43.0,k,False,a,False,1.0
+42,VEN,a,1,43.0,k,False,a,False,1.0
+42,VEN,a,2,,∅,False,a,False,1.0
+42,WAL,a,2,346.0,w,False,a,False,0.5
+42,WAL,a,2,,∅,False,b,False,0.5
+42,WAL,a,1,43.0,k,False,a,False,1.0
+43,ABR,a,2,,ȴ[ʎ̟],False,a,False,0.5
+43,ABR,a,2,348.0,j,False,b,False,0.5
+43,ABR,a,1,,∅,False,a,False,1.0
+43,AMR ESP,a,1,,∅,False,a,False,1.0
+43,AMR ESP,a,2,303.0,l,False,a,False,1.0
+43,AND ESP,a,2,303.0,l,False,a,False,1.0
+43,AND ESP,a,1,,∅,False,a,False,1.0
+43,ARG,a,1,44.0,ɡ,False,a,False,1.0
+43,ARG,a,2,303.0,l,False,a,False,1.0
+43,ARG,a,2,304.0,ȴ,False,b,True,0.0
+43,ARO,a,2,315.0,ʎ,False,a,False,1.0
+43,ARO,a,1,44.0,ɡ,False,a,False,1.0
+43,ARP,a,1,44.0,ɡ,False,a,False,0.5
+43,ARP,a,1,,∅,False,b,False,0.5
+43,ARP,a,2,303.0,l,False,a,False,0.5
+43,ARP,a,2,348.0,j,False,b,False,0.5
+43,ASL,a,2,,ȴ[ʎ̟],False,a,False,1.0
+43,ASL,a,2,112.0,ʈ͡ʂ,False,b,True,0.0
+43,ASL,a,1,,∅,False,a,False,1.0
+43,BAL,a,2,317.0,ʟ,False,a,False,1.0
+43,BAL,a,1,44.0,ɡ,False,a,False,1.0
+43,BR POR,a,1,,∅,False,a,False,1.0
+43,BR POR,a,2,303.0,l,False,a,False,1.0
+43,CAM,a,2,,ȴ[ʎ̟],False,a,False,0.5
+43,CAM,a,2,348.0,j,False,b,False,0.5
+43,CAM,a,1,,∅,False,a,False,1.0
+43,CAS ESP,a,2,303.0,l,False,a,False,1.0
+43,CAS ESP,a,1,,∅,False,a,False,1.0
+43,CAT,a,1,44.0,ɡ,False,a,False,1.0
+43,CAT,a,2,303.0,l,False,a,False,1.0
+43,COR,a,2,,∅,False,a,False,1.0
+43,COR,a,1,42.0,ɟ,False,a,False,1.0
+43,CPN SRD,a,2,,∅,False,a,False,1.0
+43,CPN SRD,b,2,303.0,l,False,a,False,1.0
+43,CPN SRD,b,1,,∅,False,a,False,1.0
+43,CPN SRD,a,1,109.0,d̠͡ʒ,False,a,False,1.0
+43,EU FRA,a,1,44.0,ɡ,False,a,False,1.0
+43,EU FRA,a,2,303.0,l,False,a,False,1.0
+43,EU FRA,b,1,,∅,False,a,False,1.0
+43,EU FRA,b,2,303.0,l,False,a,False,1.0
+43,EU POR,a,2,309.0,ɫ̪,False,a,False,1.0
+43,EU POR,a,1,,∅,False,a,False,1.0
+43,FUR,a,1,44.0,ɡ,False,a,False,1.0
+43,FUR,a,2,303.0,l,False,a,False,1.0
+43,GAL,a,1,,∅,False,a,False,1.0
+43,GAL,a,2,303.0,l,False,a,False,1.0
+43,GAS OCC,a,1,44.0,ɡ,False,a,False,1.0
+43,GAS OCC,a,2,303.0,l,False,a,False,1.0
+43,ITA,a,2,348.0,j,False,a,False,1.0
+43,ITA,a,1,44.0,ɡ,False,a,False,1.0
+43,LAT,b,1,44.0,ɡ,False,a,False,1.0
+43,LAT,a,1,44.0,ɡ,False,a,False,1.0
+43,LAT,a,2,309.0,ɫ̪,False,a,False,1.0
+43,LAT,b,2,305.0,l̪ʲ,False,a,False,1.0
+43,LIG,a,1,109.0,d̠͡ʒ,False,a,False,1.0
+43,LIG,a,2,,∅,False,a,False,1.0
+43,LMO,a,2,,∅,False,a,False,1.0
+43,LMO,a,1,109.0,d̠͡ʒ,False,a,False,1.0
+43,LOG SRD,b,2,303.0,l,False,a,False,1.0
+43,LOG SRD,a,2,269.0,ɾ,False,a,False,1.0
+43,LOG SRD,b,1,,∅,False,a,False,1.0
+43,LOG SRD,a,1,44.0,ɡ,False,a,False,1.0
+43,OCC,a,2,303.0,l,False,a,False,1.0
+43,OCC,a,1,44.0,ɡ,False,a,False,1.0
+43,PGL,a,2,,∅,False,a,False,1.0
+43,PGL,a,1,42.0,ɟ,False,a,False,1.0
+43,QBC FRA,b,2,303.0,l,False,a,False,1.0
+43,QBC FRA,b,1,,∅,False,a,False,1.0
+43,QBC FRA,a,1,44.0,ɡ,False,a,False,1.0
+43,QBC FRA,a,2,303.0,l,False,a,False,1.0
+43,RMH,a,1,44.0,ɡ,False,a,False,1.0
+43,RMH,a,2,303.0,l,False,a,False,1.0
+43,ROM,a,2,348.0,j,False,a,False,0.5
+43,ROM,a,2,,∅,False,b,False,0.5
+43,ROM,a,1,44.0,ɡ,False,a,False,0.5
+43,ROM,a,1,42.0,ɟ,False,b,False,0.5
+43,SCN,a,2,,ȴ[ʎ̟],False,a,False,0.5
+43,SCN,a,2,348.0,j,False,b,False,0.5
+43,SCN,a,1,42.0,ɟ,False,a,False,0.5
+43,SCN,a,1,,∅,False,b,False,0.5
+43,VAL,a,1,44.0,ɡ,False,a,False,1.0
+43,VAL,a,2,313.0,ɫ,False,a,False,1.0
+43,VEN,a,2,,∅,False,a,False,1.0
+43,VEN,a,1,109.0,d̠͡ʒ,False,a,False,1.0
+43,WAL,a,1,44.0,ɡ,False,a,False,1.0
+43,WAL,a,2,303.0,l,False,a,False,1.0
+44,ABR,a,2,269.0,ɾ,False,a,False,1.0
+44,ABR,a,1,175.0,f,False,a,False,1.0
+44,AMR ESP,a,1,175.0,f,False,a,False,1.0
+44,AMR ESP,a,2,269.0,ɾ,False,a,False,1.0
+44,AND ESP,a,2,269.0,ɾ,False,a,False,1.0
+44,AND ESP,a,1,175.0,f,False,a,False,1.0
+44,ARG,a,1,175.0,f,False,a,False,1.0
+44,ARG,a,2,269.0,ɾ,False,a,False,1.0
+44,ARO,a,2,267.0,ɾ̪,False,a,False,1.0
+44,ARO,a,1,175.0,f,False,a,False,1.0
+44,ARP,a,1,175.0,f,False,a,False,1.0
+44,ARP,a,2,269.0,ɾ,False,a,False,1.0
+44,ARP,a,2,251.0,ʀ,False,b,True,0.0
+44,ASL,a,2,269.0,ɾ,False,a,False,1.0
+44,ASL,a,1,175.0,f,False,a,False,1.0
+44,BAL,a,2,269.0,ɾ,False,a,False,1.0
+44,BAL,a,1,175.0,f,False,a,False,1.0
+44,BR POR,a,1,175.0,f,False,a,False,1.0
+44,BR POR,a,2,269.0,ɾ,False,a,False,1.0
+44,CAM,a,2,269.0,ɾ,False,a,False,1.0
+44,CAM,a,1,175.0,f,False,a,False,1.0
+44,CAS ESP,a,2,269.0,ɾ,False,a,False,1.0
+44,CAS ESP,a,1,175.0,f,False,a,False,1.0
+44,CAT,a,1,175.0,f,False,a,False,1.0
+44,CAT,a,2,269.0,ɾ,False,a,False,1.0
+44,COR,a,2,269.0,ɾ,False,a,False,1.0
+44,COR,a,1,175.0,f,False,a,False,1.0
+44,CPN SRD,a,2,269.0,ɾ,False,a,False,1.0
+44,CPN SRD,a,1,175.0,f,False,a,False,1.0
+44,EU FRA,a,1,175.0,f,False,a,False,1.0
+44,EU FRA,a,2,202.0,ʁ,False,a,False,1.0
+44,EU FRA,a,2,251.0,ʀ,False,b,True,0.0
+44,EU POR,a,1,175.0,f,False,a,False,1.0
+44,EU POR,a,2,269.0,ɾ,False,a,False,1.0
+44,FUR,a,2,269.0,ɾ,False,a,False,1.0
+44,FUR,a,1,175.0,f,False,a,False,1.0
+44,GAL,a,1,175.0,f,False,a,False,1.0
+44,GAL,a,2,269.0,ɾ,False,a,False,1.0
+44,GAS OCC,a,1,175.0,f,False,a,False,1.0
+44,GAS OCC,a,2,269.0,ɾ,False,a,False,1.0
+44,ITA,a,1,175.0,f,False,a,False,1.0
+44,ITA,a,2,269.0,ɾ,False,a,False,1.0
+44,LAT,a,1,173.0,ɸ,False,a,False,0.5
+44,LAT,a,1,175.0,f,False,b,False,0.5
+44,LAT,a,2,269.0,ɾ,False,a,False,1.0
+44,LIG,a,1,175.0,f,False,a,False,1.0
+44,LIG,a,2,269.0,ɾ,False,a,False,1.0
+44,LMO,a,2,269.0,ɾ,False,a,False,1.0
+44,LMO,a,1,175.0,f,False,a,False,1.0
+44,LOG SRD,a,2,269.0,ɾ,False,a,False,1.0
+44,LOG SRD,a,1,175.0,f,False,a,False,1.0
+44,OCC,a,2,269.0,ɾ,False,a,False,1.0
+44,OCC,a,2,251.0,ʀ,False,b,True,0.0
+44,OCC,a,1,175.0,f,False,a,False,1.0
+44,PGL,a,1,175.0,f,False,a,False,1.0
+44,PGL,a,2,269.0,ɾ,False,a,False,1.0
+44,QBC FRA,a,2,202.0,ʁ,False,a,False,1.0
+44,QBC FRA,a,2,251.0,ʀ,False,b,True,0.0
+44,QBC FRA,a,1,175.0,f,False,a,False,1.0
+44,RMH,a,2,269.0,ɾ,False,a,False,1.0
+44,RMH,a,1,175.0,f,False,a,False,1.0
+44,ROM,a,1,175.0,f,False,a,False,1.0
+44,ROM,a,2,267.0,ɾ̪,False,a,False,1.0
+44,SCN,a,1,175.0,f,False,a,False,1.0
+44,SCN,a,2,269.0,ɾ,False,a,False,1.0
+44,VAL,a,1,175.0,f,False,a,False,1.0
+44,VAL,a,2,269.0,ɾ,False,a,False,1.0
+44,VEN,a,1,175.0,f,False,a,False,1.0
+44,VEN,a,2,269.0,ɾ,False,a,False,1.0
+44,WAL,a,1,175.0,f,False,a,False,1.0
+44,WAL,a,2,251.0,ʀ,False,a,False,1.0
+45,ABR,a,2,348.0,j,False,a,False,1.0
+45,ABR,a,1,175.0,f,False,a,False,1.0
+45,AMR ESP,a,1,,∅,False,a,False,1.0
+45,AMR ESP,b,2,303.0,l,False,a,False,1.0
+45,AMR ESP,a,2,115.0,ɟ͡ʝ,False,a,False,1.0
+45,AMR ESP,b,1,175.0,f,False,a,False,1.0
+45,AND ESP,a,2,303.0,l,False,a,False,1.0
+45,AND ESP,b,2,115.0,ɟ͡ʝ,False,a,False,1.0
+45,AND ESP,b,1,,∅,False,a,False,1.0
+45,AND ESP,a,1,175.0,f,False,a,False,1.0
+45,ARG,a,1,175.0,f,False,a,False,1.0
+45,ARG,a,2,303.0,l,False,a,False,1.0
+45,ARG,a,2,304.0,ȴ,False,b,True,0.0
+45,ARO,a,2,303.0,l,False,a,False,1.0
+45,ARO,a,1,175.0,f,False,a,False,1.0
+45,ARP,a,2,,l (ȴ,False,a,False,0.5
+45,ARP,a,2,,j),False,b,False,0.5
+45,ARP,a,1,175.0,f,False,a,False,0.5
+45,ARP,a,1,197.0,ç,False,b,False,0.5
+45,ASL,a,2,,ȴ[ʎ̟],False,a,False,1.0
+45,ASL,a,2,112.0,ʈ͡ʂ,False,b,True,0.0
+45,ASL,a,1,,∅,False,a,False,1.0
+45,BAL,a,2,317.0,ʟ,False,a,False,1.0
+45,BAL,a,1,175.0,f,False,a,False,1.0
+45,BR POR,b,2,269.0,ɾ,False,a,False,1.0
+45,BR POR,a,2,,∅,False,a,False,1.0
+45,BR POR,b,1,175.0,f,False,a,False,1.0
+45,BR POR,a,1,191.0,ʃ,False,a,False,1.0
+45,CAM,a,1,191.0,ʃ,False,a,False,1.0
+45,CAM,a,2,,∅,False,a,False,1.0
+45,CAS ESP,a,2,303.0,l,False,a,False,1.0
+45,CAS ESP,b,2,315.0,ʎ,False,a,False,1.0
+45,CAS ESP,b,1,,∅,False,a,False,1.0
+45,CAS ESP,a,1,175.0,f,False,a,False,1.0
+45,CAT,a,2,303.0,l,False,a,False,1.0
+45,CAT,a,1,175.0,f,False,a,False,1.0
+45,COR,a,2,348.0,j,False,a,False,1.0
+45,COR,a,1,175.0,f,False,a,False,1.0
+45,CPN SRD,a,2,269.0,ɾ,False,a,False,1.0
+45,CPN SRD,a,1,175.0,f,False,a,False,1.0
+45,EU FRA,a,1,175.0,f,False,a,False,1.0
+45,EU FRA,a,2,303.0,l,False,a,False,1.0
+45,EU POR,b,2,269.0,ɾ,False,a,False,1.0
+45,EU POR,b,1,175.0,f,False,a,False,1.0
+45,EU POR,a,2,,∅,False,a,False,1.0
+45,EU POR,a,1,191.0,ʃ,False,a,False,1.0
+45,FUR,a,1,175.0,f,False,a,False,1.0
+45,FUR,a,2,303.0,l,False,a,False,1.0
+45,GAL,b,2,,∅,False,a,False,1.0
+45,GAL,a,2,269.0,ɾ,False,a,False,1.0
+45,GAL,b,1,108.0,t̠͡ʃ,False,a,False,1.0
+45,GAL,a,1,175.0,f,False,a,False,1.0
+45,GAS OCC,a,1,175.0,f,False,a,False,1.0
+45,GAS OCC,a,2,303.0,l,False,a,False,1.0
+45,ITA,a,1,175.0,f,False,a,False,1.0
+45,ITA,a,2,348.0,j,False,a,False,1.0
+45,LAT,b,2,305.0,l̪ʲ,False,a,False,1.0
+45,LAT,a,1,173.0,ɸ,False,a,False,0.5
+45,LAT,a,1,175.0,f,False,b,False,0.5
+45,LAT,b,1,173.0,ɸ,False,a,False,0.5
+45,LAT,b,1,175.0,f,False,b,False,0.5
+45,LAT,a,2,309.0,ɫ̪,False,a,False,1.0
+45,LIG,a,1,191.0,ʃ,False,a,False,1.0
+45,LIG,a,2,,∅,False,a,False,1.0
+45,LMO,a,2,348.0,j,False,a,False,1.0
+45,LMO,a,1,175.0,f,False,a,False,1.0
+45,LOG SRD,a,2,269.0,ɾ,False,a,False,1.0
+45,LOG SRD,a,1,175.0,f,False,a,False,1.0
+45,OCC,a,1,175.0,f,False,a,False,1.0
+45,OCC,a,2,303.0,l,False,a,False,1.0
+45,PGL,a,1,175.0,f,False,a,False,1.0
+45,PGL,a,2,348.0,j,False,a,False,1.0
+45,QBC FRA,a,1,175.0,f,False,a,False,1.0
+45,QBC FRA,a,2,303.0,l,False,a,False,1.0
+45,RMH,a,2,303.0,l,False,a,False,1.0
+45,RMH,a,1,175.0,f,False,a,False,1.0
+45,ROM,a,1,175.0,f,False,a,False,1.0
+45,ROM,a,2,303.0,l,False,a,False,1.0
+45,SCN,a,2,,∅,False,a,False,1.0
+45,SCN,a,1,197.0,ç,False,a,False,0.5
+45,SCN,a,1,191.0,ʃ,False,b,False,0.5
+45,VAL,a,2,313.0,ɫ,False,a,False,1.0
+45,VAL,a,1,175.0,f,False,a,False,1.0
+45,VEN,a,2,348.0,j,False,a,False,1.0
+45,VEN,a,1,175.0,f,False,a,False,1.0
+45,WAL,a,2,303.0,l,False,a,False,1.0
+45,WAL,a,1,175.0,f,False,a,False,1.0
+75,AMR ESP,a,1,25.0,p,False,a,False,1.0
+75,AMR ESP,a,2,348.0,j,False,a,False,1.0
+75,AND ESP,a,2,348.0,j,False,a,False,1.0
+75,AND ESP,a,1,25.0,p,False,a,False,1.0
+75,ARG,a,1,25.0,p,False,a,False,1.0
+75,ARG,a,2,348.0,j,False,a,False,1.0
+75,ARO,a,2,348.0,j,False,a,False,1.0
+75,ARO,a,1,43.0,k,False,a,False,1.0
+75,ASL,a,2,348.0,j,False,a,False,1.0
+75,ASL,a,1,25.0,p,False,a,False,1.0
+75,BAL,a,2,348.0,j,False,a,False,0.5
+75,BAL,a,2,,∅,False,b,False,0.5
+75,BAL,a,1,25.0,p,False,a,False,1.0
+75,BR POR,a,1,348.0,j,False,a,False,1.0
+75,BR POR,a,2,26.0,b,False,a,False,1.0
+75,CAS ESP,a,2,348.0,j,False,a,False,1.0
+75,CAS ESP,a,1,25.0,p,False,a,False,1.0
+75,CAT,a,1,25.0,p,False,a,False,1.0
+75,CAT,a,2,348.0,j,False,a,False,0.5
+75,CAT,a,2,,∅,False,b,False,0.5
+75,EU FRA,a,1,,∅,False,a,False,1.0
+75,EU FRA,a,2,191.0,ʃ,False,a,False,1.0
+75,EU POR,a,1,348.0,j,False,a,False,1.0
+75,EU POR,a,2,174.0,β,False,a,False,1.0
+75,GAL,a,2,328.0,β̞,False,a,False,1.0
+75,GAL,a,1,348.0,j,False,a,False,1.0
+75,GAS OCC,a,2,348.0,j,False,a,False,1.0
+75,GAS OCC,a,1,25.0,p,False,a,False,1.0
+75,ITA,a,2,348.0,j,False,a,False,1.0
+75,ITA,a,1,1.0,pp,False,a,False,1.0
+75,ITA,b,1,25.0,p,False,a,False,1.0
+75,ITA,b,2,348.0,j,False,a,False,1.0
+75,LAT,a,1,25.0,p,False,a,False,1.0
+75,LAT,a,2,348.0,j,False,a,False,1.0
+75,OCC,a,2,348.0,j,False,a,False,1.0
+75,OCC,a,1,25.0,p,False,a,False,1.0
+75,QBC FRA,a,2,191.0,ʃ,False,a,False,1.0
+75,QBC FRA,a,1,,∅,False,a,False,1.0
+75,ROM,b,2,348.0,j,False,a,False,0.5
+75,ROM,b,2,,∅,False,b,False,0.5
+75,ROM,b,1,25.0,p,False,a,False,1.0
+75,ROM,a,2,25.0,p,False,a,False,1.0
+75,ROM,a,1,348.0,j,False,a,False,1.0
+75,VAL,a,1,25.0,p,False,a,False,1.0
+75,VAL,a,2,348.0,j,False,a,False,0.5
+75,VAL,a,2,,∅,False,b,False,0.5
+75,WAL,a,1,,"pj, tʃ",False,a,False,1.0
+76,AMR ESP,c,1,,∅,False,a,False,1.0
+76,AMR ESP,c,2,,∅,False,a,False,1.0
+76,AMR ESP,b,1,,∅,False,a,False,1.0
+76,AMR ESP,b,2,198.0,ʝ,False,a,False,1.0
+76,AMR ESP,a,2,348.0,j,False,a,False,1.0
+76,AMR ESP,a,1,328.0,β̞,False,a,False,1.0
+76,AND ESP,b,2,348.0,j,False,a,False,1.0
+76,AND ESP,b,1,328.0,β̞,False,a,False,1.0
+76,AND ESP,c,2,,∅,False,a,False,1.0
+76,AND ESP,c,1,,∅,False,a,False,1.0
+76,AND ESP,a,2,198.0,ʝ,False,a,False,1.0
+76,AND ESP,a,1,,∅,False,a,False,1.0
+76,ARG,c,2,348.0,j,False,a,False,1.0
+76,ARG,b,2,,∅,False,a,False,1.0
+76,ARG,b,1,,∅,False,a,False,1.0
+76,ARO,a,2,348.0,j,False,a,False,1.0
+76,ARO,a,1,43.0,k,False,a,False,1.0
+76,ASL,b,2,348.0,j,False,a,False,1.0
+76,ASL,c,1,,∅,False,a,False,1.0
+76,ASL,c,2,,∅,False,a,False,1.0
+76,BAL,b,2,44.0,ɡ,False,a,False,0.5
+76,BAL,b,2,200.0,ɣ,False,b,False,0.5
+76,BAL,a,1,174.0,β,False,a,False,0.5
+76,BAL,a,1,192.0,ʒ,False,b,False,0.5
+76,BAL,c,2,,∅,False,a,False,1.0
+76,BAL,c,1,,∅,False,a,False,1.0
+76,BAL,b,1,,∅,False,a,False,1.0
+76,BAL,a,2,348.0,j,False,a,False,0.5
+76,BAL,a,2,,∅,False,b,False,0.5
+76,BR POR,c,1,,∅,False,a,False,1.0
+76,BR POR,a,2,176.0,v,False,a,False,1.0
+76,BR POR,b,2,192.0,ʒ,False,a,False,1.0
+76,BR POR,a,1,348.0,j,False,a,False,1.0
+76,BR POR,c,2,348.0,j,False,a,False,1.0
+76,BR POR,b,1,,∅,False,a,False,1.0
+76,CAS ESP,c,1,,∅,False,a,False,1.0
+76,CAS ESP,b,2,348.0,j,False,a,False,1.0
+76,CAS ESP,b,1,328.0,β̞,False,a,False,1.0
+76,CAS ESP,a,2,198.0,ʝ,False,a,False,1.0
+76,CAS ESP,a,1,,∅,False,a,False,1.0
+76,CAS ESP,c,2,,∅,False,a,False,1.0
+76,CAT,c,1,,∅,False,a,False,1.0
+76,CAT,c,2,,∅,False,a,False,1.0
+76,CAT,a,1,174.0,β,False,a,False,0.5
+76,CAT,a,1,192.0,ʒ,False,b,False,0.5
+76,CAT,a,2,348.0,j,False,a,False,0.5
+76,CAT,a,2,,∅,False,b,False,0.5
+76,CAT,b,2,200.0,ɣ,False,a,False,0.5
+76,CAT,b,2,335.0,ɣ̞,False,b,False,0.5
+76,CAT,b,1,,∅,False,a,False,1.0
+76,EU FRA,a,1,,∅,False,a,False,1.0
+76,EU FRA,c,2,,∅,False,a,False,1.0
+76,EU FRA,c,1,,∅,False,a,False,1.0
+76,EU FRA,a,2,192.0,ʒ,False,a,False,1.0
+76,EU FRA,b,1,,∅,False,a,False,1.0
+76,EU FRA,b,2,,∅,False,a,False,1.0
+76,EU POR,b,2,192.0,ʒ,False,a,False,1.0
+76,EU POR,b,1,,∅,False,a,False,1.0
+76,EU POR,a,2,176.0,v,False,a,False,1.0
+76,EU POR,a,2,174.0,β,False,b,True,0.0
+76,EU POR,a,1,348.0,j,False,a,False,1.0
+76,EU POR,c,2,348.0,j,False,a,False,1.0
+76,EU POR,c,1,,∅,False,a,False,1.0
+76,GAL,b,2,348.0,j,False,a,False,1.0
+76,GAL,c,2,348.0,j,False,a,False,1.0
+76,GAL,c,1,,∅,False,a,False,1.0
+76,GAL,b,1,328.0,β̞,False,a,False,1.0
+76,ITA,a,2,348.0,j,False,a,False,1.0
+76,ITA,c,2,,∅,False,a,False,1.0
+76,ITA,b,1,2.0,bb,False,a,False,1.0
+76,ITA,a,1,2.0,bb,False,a,False,1.0
+76,ITA,b,2,348.0,j,False,a,False,1.0
+76,ITA,c,1,,∅,False,a,False,1.0
+76,LAT,a,2,348.0,j,False,a,False,1.0
+76,LAT,a,1,26.0,b,False,a,False,1.0
+76,QBC FRA,a,1,,∅,False,a,False,1.0
+76,QBC FRA,c,2,,∅,False,a,False,1.0
+76,QBC FRA,b,2,,∅,False,a,False,1.0
+76,QBC FRA,a,2,192.0,ʒ,False,a,False,1.0
+76,QBC FRA,b,1,,∅,False,a,False,1.0
+76,QBC FRA,c,1,,∅,False,a,False,1.0
+76,ROM,c,1,,∅,False,a,False,1.0
+76,ROM,c,2,,∅,False,a,False,1.0
+76,ROM,a,2,26.0,b,False,a,False,1.0
+76,ROM,a,1,348.0,j,False,a,False,1.0
+76,ROM,b,1,348.0,j,False,a,False,1.0
+76,ROM,b,2,26.0,b,False,a,False,1.0
+76,VAL,a,1,174.0,β,False,a,False,0.5
+76,VAL,a,1,109.0,d̠͡ʒ,False,b,False,0.5
+76,VAL,b,1,,∅,False,a,False,1.0
+76,VAL,c,1,,∅,False,a,False,1.0
+76,VAL,a,2,348.0,j,False,a,False,0.5
+76,VAL,a,2,,∅,False,b,False,0.5
+76,VAL,c,2,,∅,False,a,False,1.0
+76,VAL,b,2,44.0,ɡ,False,a,False,0.5
+76,VAL,b,2,335.0,ɣ̞,False,b,False,0.5
+77,AMR ESP,a,1,183.0,s,False,a,False,1.0
+77,AMR ESP,a,2,,∅,False,a,False,1.0
+77,AND ESP,a,2,,∅,False,a,False,1.0
+77,AND ESP,a,1,179.0,s̟,False,a,False,1.0
+77,ARG,a,1,177.0,θ,False,a,False,1.0
+77,ARG,a,2,,∅,False,a,False,1.0
+77,ARO,a,1,98.0,t͡s̪,False,a,False,1.0
+77,ARO,a,2,,∅,False,a,False,1.0
+77,ASL,a,1,177.0,θ,False,a,False,1.0
+77,ASL,a,2,,∅,False,a,False,1.0
+77,BAL,b,2,,∅,False,a,False,1.0
+77,BAL,b,1,187.0,s̠,False,a,False,1.0
+77,BAL,a,2,,∅,False,a,False,1.0
+77,BAL,a,1,,∅,False,a,False,1.0
+77,BAL,a,1,188.0,z̠,False,b,True,0.0
+77,BR POR,b,1,183.0,s,False,a,False,1.0
+77,BR POR,b,2,,∅,False,a,False,1.0
+77,BR POR,a,1,184.0,z,False,a,False,1.0
+77,BR POR,a,2,,∅,False,a,False,1.0
+77,CAS ESP,a,2,,∅,False,a,False,1.0
+77,CAS ESP,a,1,177.0,θ,False,a,False,1.0
+77,CAT,a,2,,∅,False,a,False,1.0
+77,CAT,b,1,187.0,s̠,False,a,False,1.0
+77,CAT,a,1,,∅,False,a,False,1.0
+77,CAT,a,1,188.0,z̠,False,b,True,0.0
+77,CAT,b,2,,∅,False,a,False,1.0
+77,EU FRA,a,2,,∅,False,a,False,1.0
+77,EU FRA,a,1,182.0,z̪,False,a,False,1.0
+77,EU FRA,b,2,,∅,False,a,False,1.0
+77,EU FRA,b,1,181.0,s̪,False,a,False,1.0
+77,EU POR,b,1,183.0,s,False,a,False,1.0
+77,EU POR,b,1,181.0,s̪,False,b,True,0.0
+77,EU POR,b,2,,∅,False,a,False,1.0
+77,EU POR,a,2,,∅,False,a,False,1.0
+77,EU POR,a,1,184.0,z,False,a,False,1.0
+77,EU POR,a,1,182.0,z̪,False,b,True,0.0
+77,GAL,a,2,,∅,False,a,False,1.0
+77,GAL,a,1,177.0,θ,False,a,False,1.0
+77,GAL,a,1,183.0,s,False,b,True,0.0
+77,GAS OCC,a,1,188.0,z̠,False,a,False,1.0
+77,GAS OCC,b,2,,∅,False,a,False,1.0
+77,GAS OCC,b,1,187.0,s̠,False,a,False,1.0
+77,GAS OCC,a,2,,∅,False,a,False,1.0
+77,ITA,b,1,59.0,tt͡s,False,a,False,1.0
+77,ITA,a,2,,∅,False,a,False,1.0
+77,ITA,a,1,59.0,tt͡s,False,a,False,1.0
+77,ITA,a,1,192.0,ʒ,False,b,True,0.0
+77,ITA,b,2,,∅,False,a,False,1.0
+77,LAT,a,2,348.0,j,False,a,False,1.0
+77,LAT,a,1,29.0,t̪,False,a,False,1.0
+77,OCC,b,2,,∅,False,a,False,1.0
+77,OCC,a,1,188.0,z̠,False,a,False,1.0
+77,OCC,a,2,,∅,False,a,False,1.0
+77,OCC,b,1,187.0,s̠,False,a,False,1.0
+77,QBC FRA,a,1,182.0,z̪,False,a,False,1.0
+77,QBC FRA,b,2,,∅,False,a,False,1.0
+77,QBC FRA,a,2,,∅,False,a,False,1.0
+77,QBC FRA,b,1,181.0,s̪,False,a,False,1.0
+77,ROM,b,2,,∅,False,a,False,1.0
+77,ROM,a,2,,∅,False,a,False,1.0
+77,ROM,b,1,108.0,t̠͡ʃ,False,a,False,1.0
+77,ROM,a,1,98.0,t͡s̪,False,a,False,1.0
+77,VAL,a,2,,∅,False,a,False,1.0
+77,VAL,b,2,,∅,False,a,False,1.0
+77,VAL,a,1,,∅,False,a,False,1.0
+77,VAL,a,1,188.0,z̠,False,b,True,0.0
+77,VAL,b,1,187.0,s̠,False,a,False,1.0
+78,AMR ESP,a,1,183.0,s,False,a,False,1.0
+78,AMR ESP,a,2,,∅,False,a,False,1.0
+78,AND ESP,a,2,,∅,False,a,False,1.0
+78,AND ESP,a,1,179.0,s̟,False,a,False,1.0
+78,ARG,a,1,177.0,θ,False,a,False,1.0
+78,ARG,a,2,,∅,False,a,False,1.0
+78,ASL,a,1,177.0,θ,False,a,False,1.0
+78,ASL,a,2,,∅,False,a,False,1.0
+78,BAL,a,1,,∅,False,a,False,1.0
+78,BAL,a,1,188.0,z̠,False,b,True,0.0
+78,BAL,a,2,,∅,False,a,False,1.0
+78,BR POR,b,1,183.0,s,False,a,False,1.0
+78,BR POR,a,2,,∅,False,a,False,1.0
+78,BR POR,b,2,,∅,False,a,False,1.0
+78,BR POR,a,1,184.0,z,False,a,False,1.0
+78,CAS ESP,a,1,177.0,θ,False,a,False,1.0
+78,CAS ESP,a,2,,∅,False,a,False,1.0
+78,CAT,a,1,,∅,False,a,False,1.0
+78,CAT,a,1,188.0,z̠,False,b,True,0.0
+78,CAT,a,2,,∅,False,a,False,1.0
+78,EU FRA,a,1,182.0,z̪,False,a,False,1.0
+78,EU FRA,a,2,,∅,False,a,False,1.0
+78,EU POR,a,1,184.0,z,False,a,False,1.0
+78,EU POR,a,1,182.0,z̪,False,b,True,0.0
+78,EU POR,a,2,,∅,False,a,False,1.0
+78,EU POR,b,2,,∅,False,a,False,1.0
+78,EU POR,b,1,183.0,s,False,a,False,1.0
+78,EU POR,b,1,181.0,s̪,False,b,True,0.0
+78,GAL,a,1,177.0,θ,False,a,False,1.0
+78,GAL,a,1,183.0,s,False,b,True,0.0
+78,GAL,a,2,,∅,False,a,False,1.0
+78,GAS OCC,a,1,188.0,z̠,False,a,False,1.0
+78,GAS OCC,a,2,,∅,False,a,False,1.0
+78,ITA,a,2,,∅,False,a,False,1.0
+78,ITA,a,1,59.0,tt͡s,False,a,False,1.0
+78,LAT,a,2,348.0,j,False,a,False,1.0
+78,LAT,a,1,29.0,t̪,False,a,False,1.0
+78,OCC,a,2,,∅,False,a,False,1.0
+78,OCC,a,1,188.0,z̠,False,a,False,1.0
+78,QBC FRA,a,1,182.0,z̪,False,a,False,1.0
+78,QBC FRA,a,2,,∅,False,a,False,1.0
+78,ROM,a,2,,∅,False,a,False,1.0
+78,ROM,a,1,98.0,t͡s̪,False,a,False,1.0
+78,VAL,a,1,,∅,False,a,False,1.0
+78,VAL,a,1,188.0,z̠,False,b,True,0.0
+78,VAL,a,2,,∅,False,a,False,1.0
+79,AMR ESP,a,1,,∅,False,a,False,1.0
+79,AMR ESP,b,2,198.0,ʝ,False,a,False,1.0
+79,AMR ESP,a,2,,∅,False,a,False,1.0
+79,AMR ESP,b,1,,∅,False,a,False,1.0
+79,AND ESP,a,2,198.0,ʝ,False,a,False,1.0
+79,AND ESP,b,2,,∅,False,a,False,1.0
+79,AND ESP,b,1,,∅,False,a,False,1.0
+79,AND ESP,a,1,,∅,False,a,False,1.0
+79,ARG,b,1,,∅,False,a,False,1.0
+79,ARG,a,2,198.0,ʝ,False,a,False,1.0
+79,ARG,a,1,,∅,False,a,False,1.0
+79,ARG,b,2,348.0,j,False,a,False,0.5
+79,ARG,b,2,,∅,False,b,False,0.5
+79,ARO,a,2,,∅,False,a,False,1.0
+79,ARO,a,1,99.0,d͡z̪,False,a,False,1.0
+79,ARP,a,2,348.0,j,False,a,False,0.5
+79,ARP,a,2,,∅,False,b,False,0.5
+79,ARP,a,1,,∅,False,a,False,1.0
+79,ASL,b,1,,∅,False,a,False,1.0
+79,ASL,a,2,198.0,ʝ,False,a,False,0.5
+79,ASL,a,2,191.0,ʃ,False,b,False,0.5
+79,ASL,b,2,,∅,False,a,False,1.0
+79,ASL,a,1,,∅,False,a,False,1.0
+79,BAL,b,1,,∅,False,a,False,1.0
+79,BAL,b,2,192.0,ʒ,False,a,False,1.0
+79,BR POR,a,2,348.0,j,False,a,False,0.5
+79,BR POR,a,2,,∅,False,b,False,0.5
+79,BR POR,b,2,192.0,ʒ,False,a,False,1.0
+79,BR POR,a,1,,∅,False,a,False,1.0
+79,BR POR,b,1,,∅,False,a,False,1.0
+79,CAS ESP,b,2,,∅,False,a,False,1.0
+79,CAS ESP,b,1,,∅,False,a,False,1.0
+79,CAS ESP,a,1,,∅,False,a,False,1.0
+79,CAS ESP,a,2,198.0,ʝ,False,a,False,1.0
+79,CAT,b,2,192.0,ʒ,False,a,False,1.0
+79,CAT,b,1,,∅,False,a,False,1.0
+79,EU FRA,a,2,348.0,j,False,a,False,1.0
+79,EU FRA,a,1,,∅,False,a,False,1.0
+79,EU POR,b,2,192.0,ʒ,False,a,False,1.0
+79,EU POR,a,2,348.0,j,False,a,False,0.5
+79,EU POR,a,2,,∅,False,b,False,0.5
+79,EU POR,a,1,,∅,False,a,False,1.0
+79,EU POR,b,1,,∅,False,a,False,1.0
+79,GAL,a,1,,∅,False,a,False,1.0
+79,GAL,b,1,,∅,False,a,False,1.0
+79,GAL,b,2,348.0,j,False,a,False,0.5
+79,GAL,b,2,,∅,False,b,False,0.5
+79,GAL,a,2,191.0,ʃ,False,a,False,1.0
+79,GAS OCC,b,1,,∅,False,a,False,1.0
+79,GAS OCC,b,2,192.0,ʒ,False,a,False,1.0
+79,GAS OCC,a,2,348.0,j,False,a,False,1.0
+79,GAS OCC,a,1,,∅,False,a,False,1.0
+79,ITA,b,1,,∅,False,a,False,1.0
+79,ITA,a,2,,∅,False,a,False,1.0
+79,ITA,b,2,68.0,d̠d̠͡ʒ,False,a,False,1.0
+79,ITA,a,1,60.0,dd͡z,False,a,False,1.0
+79,LAT,a,1,30.0,d̪,False,a,False,1.0
+79,LAT,a,2,348.0,j,False,a,False,1.0
+79,OCC,b,1,,∅,False,a,False,1.0
+79,OCC,a,1,,∅,False,a,False,1.0
+79,OCC,b,2,,̠d̠͡ʒ,False,a,False,1.0
+79,OCC,b,2,105.0,d͡z̠,False,b,True,0.0
+79,OCC,a,2,348.0,j,False,a,False,1.0
+79,QBC FRA,a,2,348.0,j,False,a,False,1.0
+79,QBC FRA,a,1,,∅,False,a,False,1.0
+79,ROM,a,1,182.0,z̪,False,a,False,1.0
+79,ROM,a,2,,∅,False,a,False,1.0
+79,SCN,a,1,,∅,False,a,False,1.0
+79,SCN,a,2,348.0,j,False,a,False,1.0
+79,VAL,b,2,109.0,d̠͡ʒ,False,a,False,1.0
+79,VAL,b,1,,∅,False,a,False,1.0
+79,WAL,a,2,348.0,j,False,a,False,0.5
+79,WAL,a,2,,∅,False,b,False,0.5
+79,WAL,a,1,,∅,False,a,False,1.0
+80,ABR,a,2,,∅,False,a,False,1.0
+80,ABR,a,1,67.0,t̠t̠͡ʃ,False,a,False,1.0
+80,AMR ESP,a,1,183.0,s,False,a,False,1.0
+80,AMR ESP,a,2,,∅,False,a,False,1.0
+80,AND ESP,a,2,,∅,False,a,False,1.0
+80,AND ESP,a,1,179.0,s̟,False,a,False,1.0
+80,ARG,a,1,177.0,θ,False,a,False,1.0
+80,ARG,a,2,,∅,False,a,False,1.0
+80,ARO,a,2,,∅,False,a,False,1.0
+80,ARO,a,1,98.0,t͡s̪,False,a,False,1.0
+80,ASL,a,2,,∅,False,a,False,1.0
+80,ASL,a,1,177.0,θ,False,a,False,1.0
+80,BAL,a,2,,∅,False,a,False,1.0
+80,BAL,a,1,187.0,s̠,False,a,False,1.0
+80,BR POR,a,1,183.0,s,False,a,False,1.0
+80,BR POR,a,2,,∅,False,a,False,1.0
+80,CAM,a,2,,∅,False,a,False,1.0
+80,CAM,a,1,67.0,t̠t̠͡ʃ,False,a,False,1.0
+80,CAS ESP,a,2,,∅,False,a,False,1.0
+80,CAS ESP,a,1,177.0,θ,False,a,False,1.0
+80,CAT,a,1,187.0,s̠,False,a,False,1.0
+80,CAT,a,2,,∅,False,a,False,1.0
+80,EU FRA,a,2,,∅,False,a,False,1.0
+80,EU FRA,a,1,181.0,s̪,False,a,False,1.0
+80,EU POR,a,1,183.0,s,False,a,False,1.0
+80,EU POR,a,1,181.0,s̪,False,b,True,0.0
+80,EU POR,a,2,,∅,False,a,False,1.0
+80,GAL,a,2,,∅,False,a,False,1.0
+80,GAL,a,1,177.0,θ,False,a,False,1.0
+80,GAL,a,1,183.0,s,False,b,True,0.0
+80,GAS OCC,a,1,187.0,s̠,False,a,False,1.0
+80,GAS OCC,a,2,,∅,False,a,False,1.0
+80,ITA,a,1,67.0,t̠t̠͡ʃ,False,a,False,1.0
+80,ITA,a,2,,∅,False,a,False,1.0
+80,LAT,a,1,43.0,k,False,a,False,1.0
+80,LAT,a,2,348.0,j,False,a,False,1.0
+80,OCC,a,2,,∅,False,a,False,1.0
+80,OCC,a,1,187.0,s̠,False,a,False,1.0
+80,PGL,a,1,59.0,tt͡s,False,a,False,1.0
+80,PGL,a,2,,∅,False,a,False,1.0
+80,QBC FRA,a,2,,∅,False,a,False,1.0
+80,QBC FRA,a,1,181.0,s̪,False,a,False,1.0
+80,ROM,a,1,98.0,t͡s̪,False,a,False,1.0
+80,ROM,b,2,,∅,False,a,False,1.0
+80,ROM,b,1,108.0,t̠͡ʃ,False,a,False,1.0
+80,ROM,a,2,,∅,False,a,False,1.0
+80,SCN,a,1,59.0,tt͡s,False,a,False,1.0
+80,SCN,a,2,,∅,False,a,False,1.0
+80,VAL,a,1,187.0,s̠,False,a,False,1.0
+80,VAL,a,2,,∅,False,a,False,1.0
+81,ABR,a,2,,∅,False,a,False,1.0
+81,ABR,a,1,67.0,t̠t̠͡ʃ,False,a,False,1.0
+81,AMR ESP,a,1,183.0,s,False,a,False,1.0
+81,AMR ESP,a,2,,∅,False,a,False,1.0
+81,AND ESP,a,2,,∅,False,a,False,1.0
+81,AND ESP,a,1,179.0,s̟,False,a,False,1.0
+81,ARG,a,1,177.0,θ,False,a,False,1.0
+81,ARG,a,2,,∅,False,a,False,1.0
+81,ARO,a,2,,∅,False,a,False,1.0
+81,ARO,a,1,98.0,t͡s̪,False,a,False,1.0
+81,ASL,a,2,,∅,False,a,False,1.0
+81,ASL,a,1,177.0,θ,False,a,False,1.0
+81,BAL,a,2,,∅,False,a,False,1.0
+81,BAL,a,1,187.0,s̠,False,a,False,1.0
+81,BR POR,a,1,183.0,s,False,a,False,1.0
+81,BR POR,a,2,,∅,False,a,False,1.0
+81,CAM,a,2,,∅,False,a,False,1.0
+81,CAM,a,1,67.0,t̠t̠͡ʃ,False,a,False,1.0
+81,CAS ESP,a,2,,∅,False,a,False,1.0
+81,CAS ESP,a,1,177.0,θ,False,a,False,1.0
+81,CAT,a,1,187.0,s̠,False,a,False,1.0
+81,CAT,a,2,,∅,False,a,False,1.0
+81,EU FRA,a,1,181.0,s̪,False,a,False,1.0
+81,EU FRA,a,2,,∅,False,a,False,1.0
+81,EU POR,a,1,183.0,s,False,a,False,1.0
+81,EU POR,a,1,181.0,s̪,False,b,True,0.0
+81,EU POR,a,2,,∅,False,a,False,1.0
+81,GAL,a,1,177.0,θ,False,a,False,1.0
+81,GAL,a,1,183.0,s,False,b,True,0.0
+81,GAL,a,2,,∅,False,a,False,1.0
+81,GAS OCC,a,1,187.0,s̠,False,a,False,1.0
+81,GAS OCC,a,2,,∅,False,a,False,1.0
+81,ITA,a,1,67.0,t̠t̠͡ʃ,False,a,False,1.0
+81,ITA,a,2,,∅,False,a,False,1.0
+81,LAT,a,1,43.0,k,False,a,False,1.0
+81,LAT,a,2,348.0,j,False,a,False,1.0
+81,OCC,a,2,,∅,False,a,False,1.0
+81,OCC,a,1,187.0,s̠,False,a,False,1.0
+81,PGL,a,1,59.0,tt͡s,False,a,False,1.0
+81,PGL,a,2,,∅,False,a,False,1.0
+81,QBC FRA,a,2,,∅,False,a,False,1.0
+81,QBC FRA,a,1,181.0,s̪,False,a,False,1.0
+81,ROM,a,1,98.0,t͡s̪,False,a,False,1.0
+81,ROM,a,2,,∅,False,a,False,1.0
+81,SCN,a,1,59.0,tt͡s,False,a,False,1.0
+81,SCN,a,2,,∅,False,a,False,1.0
+81,VAL,a,1,187.0,s̠,False,a,False,1.0
+81,VAL,a,2,,∅,False,a,False,1.0
+82,AMR ESP,a,1,,∅,False,a,False,1.0
+82,AMR ESP,b,2,198.0,ʝ,False,a,False,1.0
+82,AMR ESP,a,2,348.0,j,False,a,False,0.5
+82,AMR ESP,a,2,,∅,False,b,False,0.5
+82,AMR ESP,b,1,,∅,False,a,False,1.0
+82,AND ESP,a,2,198.0,ʝ,False,a,False,1.0
+82,AND ESP,b,2,348.0,j,False,a,False,0.5
+82,AND ESP,b,2,,∅,False,b,False,0.5
+82,AND ESP,b,1,,∅,False,a,False,1.0
+82,AND ESP,a,1,,∅,False,a,False,1.0
+82,ARG,b,1,,∅,False,a,False,1.0
+82,ARG,a,2,198.0,ʝ,False,a,False,1.0
+82,ARG,a,1,,∅,False,a,False,1.0
+82,ARG,b,2,348.0,j,False,a,False,0.5
+82,ARG,b,2,,∅,False,b,False,0.5
+82,ASL,b,1,,∅,False,a,False,1.0
+82,ASL,a,2,198.0,ʝ,False,a,False,0.5
+82,ASL,a,2,191.0,ʃ,False,b,False,0.5
+82,ASL,b,2,,∅,False,a,False,1.0
+82,ASL,a,1,,∅,False,a,False,1.0
+82,BAL,a,1,,∅,False,a,False,1.0
+82,BAL,b,1,,∅,False,a,False,1.0
+82,BAL,a,2,348.0,j,False,a,False,1.0
+82,BAL,b,2,192.0,ʒ,False,a,False,1.0
+82,BR POR,a,2,348.0,j,False,a,False,0.5
+82,BR POR,a,2,,∅,False,b,False,0.5
+82,BR POR,b,2,192.0,ʒ,False,a,False,1.0
+82,BR POR,a,1,,∅,False,a,False,1.0
+82,BR POR,b,1,,∅,False,a,False,1.0
+82,CAS ESP,b,2,348.0,j,False,a,False,0.5
+82,CAS ESP,b,2,,∅,False,b,False,0.5
+82,CAS ESP,b,1,,∅,False,a,False,1.0
+82,CAS ESP,a,1,,∅,False,a,False,1.0
+82,CAS ESP,a,2,198.0,ʝ,False,a,False,1.0
+82,CAT,b,2,192.0,ʒ,False,a,False,1.0
+82,CAT,a,2,348.0,j,False,a,False,1.0
+82,CAT,a,1,,∅,False,a,False,1.0
+82,CAT,b,1,,∅,False,a,False,1.0
+82,EU FRA,a,2,348.0,j,False,a,False,1.0
+82,EU FRA,a,1,,∅,False,a,False,1.0
+82,EU POR,b,2,192.0,ʒ,False,a,False,1.0
+82,EU POR,a,2,348.0,j,False,a,False,0.5
+82,EU POR,a,2,,∅,False,b,False,0.5
+82,EU POR,a,1,,∅,False,a,False,1.0
+82,EU POR,b,1,,∅,False,a,False,1.0
+82,GAL,a,1,,∅,False,a,False,1.0
+82,GAL,b,1,,∅,False,a,False,1.0
+82,GAL,b,2,348.0,j,False,a,False,0.5
+82,GAL,b,2,,∅,False,b,False,0.5
+82,GAL,a,2,191.0,ʃ,False,a,False,1.0
+82,GAS OCC,b,1,,∅,False,a,False,1.0
+82,GAS OCC,b,2,192.0,ʒ,False,a,False,1.0
+82,GAS OCC,a,2,348.0,j,False,a,False,1.0
+82,GAS OCC,a,1,,∅,False,a,False,1.0
+82,ITA,b,1,,∅,False,a,False,1.0
+82,ITA,a,2,,∅,False,a,False,1.0
+82,ITA,b,2,68.0,d̠d̠͡ʒ,False,a,False,1.0
+82,ITA,a,1,60.0,dd͡z,False,a,False,1.0
+82,LAT,a,1,44.0,ɡ,False,a,False,1.0
+82,LAT,a,2,348.0,j,False,a,False,1.0
+82,OCC,b,1,,∅,False,a,False,1.0
+82,OCC,a,1,,∅,False,a,False,1.0
+82,OCC,b,2,,̠d̠͡ʒ,False,a,False,1.0
+82,OCC,b,2,105.0,d͡z̠,False,b,True,0.0
+82,OCC,a,2,348.0,j,False,a,False,1.0
+82,QBC FRA,a,2,348.0,j,False,a,False,1.0
+82,QBC FRA,a,1,,∅,False,a,False,1.0
+82,ROM,a,1,,∅,False,a,False,1.0
+82,ROM,a,2,348.0,j,False,a,False,0.5
+82,ROM,a,2,,∅,False,b,False,0.5
+82,VAL,a,1,,∅,False,a,False,1.0
+82,VAL,b,2,109.0,d̠͡ʒ,False,a,False,1.0
+82,VAL,b,1,,∅,False,a,False,1.0
+82,VAL,a,2,348.0,j,False,a,False,1.0
+83,AMR ESP,a,1,328.0,β̞,False,a,False,1.0
+83,AMR ESP,a,2,348.0,j,False,a,False,1.0
+83,AND ESP,a,2,348.0,j,False,a,False,1.0
+83,AND ESP,a,1,328.0,β̞,False,a,False,1.0
+83,ARG,a,2,348.0,j,False,a,False,1.0
+83,ASL,a,2,348.0,j,False,a,False,1.0
+83,ASL,a,1,328.0,β̞,False,a,False,1.0
+83,BAL,b,1,346.0,w,False,a,False,1.0
+83,BAL,a,1,176.0,v,False,a,False,1.0
+83,BAL,a,2,348.0,j,False,a,False,0.5
+83,BAL,a,2,,∅,False,b,False,0.5
+83,BAL,b,2,192.0,ʒ,False,a,False,1.0
+83,BR POR,a,2,176.0,v,False,a,False,1.0
+83,BR POR,a,1,348.0,j,False,a,False,0.5
+83,BR POR,a,1,,∅,False,b,False,0.5
+83,CAS ESP,a,1,328.0,β̞,False,a,False,1.0
+83,CAS ESP,a,2,348.0,j,False,a,False,1.0
+83,CAT,b,1,346.0,w,False,a,False,1.0
+83,CAT,a,1,174.0,β,False,a,False,0.5
+83,CAT,a,1,328.0,β̞,False,b,False,0.5
+83,CAT,b,2,192.0,ʒ,False,a,False,1.0
+83,CAT,a,2,348.0,j,False,a,False,0.5
+83,CAT,a,2,,∅,False,b,False,0.5
+83,EU FRA,a,1,,∅,False,a,False,1.0
+83,EU FRA,a,2,192.0,ʒ,False,a,False,1.0
+83,EU POR,a,1,348.0,j,False,a,False,0.5
+83,EU POR,a,1,,∅,False,b,False,0.5
+83,EU POR,a,2,176.0,v,False,a,False,1.0
+83,EU POR,a,2,174.0,β,False,b,True,0.0
+83,GAL,a,2,348.0,j,False,a,False,1.0
+83,GAL,a,1,328.0,β̞,False,a,False,1.0
+83,ITA,a,1,2.0,bb,False,a,False,1.0
+83,ITA,a,2,348.0,j,False,a,False,1.0
+83,LAT,a,2,348.0,j,False,a,False,1.0
+83,LAT,a,1,346.0,w,False,a,False,0.5
+83,LAT,a,1,174.0,β,False,b,False,0.5
+83,QBC FRA,a,2,192.0,ʒ,False,a,False,1.0
+83,QBC FRA,a,1,,∅,False,a,False,1.0
+83,ROM,a,1,348.0,j,False,a,False,1.0
+83,ROM,a,2,26.0,b,False,a,False,1.0
+83,VAL,a,1,176.0,v,False,a,False,0.5
+83,VAL,a,1,328.0,β̞,False,b,False,0.5
+83,VAL,a,2,348.0,j,False,a,False,0.5
+83,VAL,a,2,,∅,False,b,False,0.5
+83,VAL,b,1,346.0,w,False,a,False,1.0
+83,VAL,b,2,109.0,d̠͡ʒ,False,a,False,1.0
+83.5,AMR ESP,a,1,175.0,f,False,a,False,1.0
+83.5,AMR ESP,a,2,348.0,j,False,a,False,1.0
+83.5,AND ESP,a,2,348.0,j,False,a,False,1.0
+83.5,AND ESP,a,1,175.0,f,False,a,False,1.0
+83.5,BAL,a,2,348.0,j,False,a,False,0.5
+83.5,BAL,a,2,,∅,False,b,False,0.5
+83.5,BAL,a,1,175.0,f,False,a,False,1.0
+83.5,BR POR,a,1,348.0,j,False,a,False,1.0
+83.5,BR POR,a,2,175.0,f,False,a,False,1.0
+83.5,CAS ESP,a,2,348.0,j,False,a,False,1.0
+83.5,CAS ESP,a,1,175.0,f,False,a,False,1.0
+83.5,CAT,a,1,175.0,f,False,a,False,1.0
+83.5,CAT,a,2,348.0,j,False,a,False,0.5
+83.5,CAT,a,2,,∅,False,b,False,0.5
+83.5,EU FRA,a,1,175.0,f,False,a,False,1.0
+83.5,EU FRA,a,2,348.0,j,False,a,False,0.5
+83.5,EU FRA,a,2,,∅,False,b,False,0.5
+83.5,EU POR,a,1,348.0,j,False,a,False,1.0
+83.5,EU POR,a,2,175.0,f,False,a,False,1.0
+83.5,GAL,a,1,175.0,f,False,a,False,1.0
+83.5,GAL,a,2,348.0,j,False,a,False,1.0
+83.5,GAS OCC,a,1,175.0,f,False,a,False,1.0
+83.5,GAS OCC,a,2,348.0,j,False,a,False,1.0
+83.5,ITA,a,1,133.0,ff,False,a,False,1.0
+83.5,ITA,a,2,348.0,j,False,a,False,1.0
+83.5,LAT,a,1,173.0,ɸ,False,a,False,0.5
+83.5,LAT,a,1,175.0,f,False,b,False,0.5
+83.5,LAT,a,2,348.0,j,False,a,False,1.0
+83.5,OCC,a,2,348.0,j,False,a,False,1.0
+83.5,OCC,a,1,175.0,f,False,a,False,1.0
+83.5,QBC FRA,a,2,348.0,j,False,a,False,0.5
+83.5,QBC FRA,a,2,,∅,False,b,False,0.5
+83.5,QBC FRA,a,1,175.0,f,False,a,False,1.0
+83.5,ROM,a,1,348.0,j,False,a,False,1.0
+83.5,ROM,a,2,175.0,f,False,a,False,1.0
+83.5,VAL,a,1,175.0,f,False,a,False,1.0
+83.5,VAL,a,2,348.0,j,False,a,False,0.5
+83.5,VAL,a,2,,∅,False,b,False,0.5
+84,ABR,a,2,,∅,False,a,False,1.0
+84,ABR,a,1,191.0,ʃ,False,a,False,1.0
+84,AMR ESP,a,1,,∅,False,a,False,1.0
+84,AMR ESP,a,2,183.0,s,False,a,False,1.0
+84,AND ESP,a,2,179.0,s̟,False,a,False,1.0
+84,AND ESP,a,1,,∅,False,a,False,1.0
+84,ARO,a,1,191.0,ʃ,False,a,False,1.0
+84,ARO,a,2,,∅,False,a,False,1.0
+84,BAL,a,1,,∅,False,a,False,1.0
+84,BAL,a,2,188.0,z̠,False,a,False,1.0
+84,BR POR,b,1,,∅,False,a,False,1.0
+84,BR POR,a,2,192.0,ʒ,False,a,False,1.0
+84,BR POR,b,2,184.0,z,False,a,False,1.0
+84,BR POR,a,1,348.0,j,False,a,False,1.0
+84,CAM,a,1,183.0,s,False,a,False,1.0
+84,CAM,a,2,,∅,False,a,False,1.0
+84,CAS ESP,a,1,,∅,False,a,False,1.0
+84,CAS ESP,a,2,187.0,s̠,False,a,False,0.5
+84,CAS ESP,a,2,177.0,θ,False,b,False,0.5
+84,CAT,a,1,,∅,False,a,False,1.0
+84,CAT,a,2,188.0,z̠,False,a,False,1.0
+84,EU FRA,a,1,,∅,False,a,False,1.0
+84,EU FRA,a,2,182.0,z̪,False,a,False,1.0
+84,EU POR,b,2,184.0,z,False,a,False,1.0
+84,EU POR,b,2,188.0,z̠,False,b,True,0.0
+84,EU POR,a,1,348.0,j,False,a,False,1.0
+84,EU POR,b,1,,∅,False,a,False,1.0
+84,EU POR,a,2,192.0,ʒ,False,a,False,1.0
+84,GAL,b,1,348.0,j,False,a,False,1.0
+84,GAL,a,1,,∅,False,a,False,1.0
+84,GAL,a,2,187.0,s̠,False,a,False,1.0
+84,GAL,a,2,183.0,s,False,b,True,0.0
+84,GAL,b,2,191.0,ʃ,False,a,False,1.0
+84,ITA,a,2,,∅,False,a,False,1.0
+84,ITA,a,1,191.0,ʃ,False,a,False,0.5
+84,ITA,a,1,109.0,d̠͡ʒ,False,b,False,0.5
+84,LAT,a,2,348.0,j,False,a,False,1.0
+84,LAT,a,1,187.0,s̠,False,a,False,1.0
+84,PGL,a,2,,∅,False,a,False,1.0
+84,PGL,a,1,183.0,s,False,a,False,1.0
+84,QBC FRA,a,1,,∅,False,a,False,1.0
+84,QBC FRA,a,2,182.0,z̪,False,a,False,1.0
+84,ROM,a,1,191.0,ʃ,False,a,False,1.0
+84,ROM,a,2,,∅,False,a,False,1.0
+84,SCN,a,2,,∅,False,a,False,1.0
+84,SCN,a,1,183.0,s,False,a,False,1.0
+84,VAL,a,2,188.0,z̠,False,a,False,1.0
+84,VAL,a,1,,∅,False,a,False,1.0
+85,AMR ESP,a,1,254.0,m,False,a,False,1.0
+85,AMR ESP,a,2,348.0,j,False,a,False,1.0
+85,AND ESP,a,2,348.0,j,False,a,False,1.0
+85,AND ESP,a,1,254.0,m,False,a,False,1.0
+85,BAL,a,2,348.0,j,False,a,False,0.5
+85,BAL,a,2,,∅,False,b,False,0.5
+85,BAL,a,1,254.0,m,False,a,False,1.0
+85,BR POR,a,1,348.0,j,False,a,False,0.5
+85,BR POR,a,1,,∅,False,b,False,0.5
+85,BR POR,a,2,254.0,m,False,a,False,1.0
+85,CAS ESP,a,2,348.0,j,False,a,False,1.0
+85,CAS ESP,a,1,254.0,m,False,a,False,1.0
+85,CAT,a,1,254.0,m,False,a,False,1.0
+85,CAT,a,2,348.0,j,False,a,False,0.5
+85,CAT,a,2,,∅,False,b,False,0.5
+85,EU FRA,a,1,,◌̃,False,a,False,1.0
+85,EU FRA,a,2,192.0,ʒ,False,a,False,1.0
+85,EU POR,a,1,348.0,j,False,a,False,0.5
+85,EU POR,a,1,,∅,False,b,False,0.5
+85,EU POR,a,2,254.0,m,False,a,False,1.0
+85,ITA,a,1,230.0,mm,False,a,False,1.0
+85,ITA,a,2,348.0,j,False,a,False,1.0
+85,LAT,a,1,254.0,m,False,a,False,1.0
+85,LAT,a,2,348.0,j,False,a,False,1.0
+85,ROM,a,1,348.0,j,False,a,False,1.0
+85,ROM,a,2,254.0,m,False,a,False,1.0
+85,VAL,a,1,254.0,m,False,a,False,1.0
+85,VAL,a,2,348.0,j,False,a,False,0.5
+85,VAL,a,2,,∅,False,b,False,0.5
+86,AMR ESP,a,1,,n̪ʲ,False,a,False,0.5
+86,AMR ESP,a,1,258.0,ȵ,False,b,False,0.5
+86,AMR ESP,a,2,,∅,False,a,False,1.0
+86,AND ESP,a,2,,∅,False,a,False,1.0
+86,AND ESP,a,1,,n̪ʲ,False,a,False,0.5
+86,AND ESP,a,1,258.0,ȵ,False,b,False,0.5
+86,ARO,a,2,,∅,False,a,False,1.0
+86,ARO,a,1,261.0,ɲ,False,a,False,1.0
+86,BAL,a,2,,∅,False,a,False,1.0
+86,BAL,a,1,258.0,ȵ,False,a,False,0.5
+86,BAL,a,1,261.0,ɲ,False,b,False,0.5
+86,BR POR,a,1,,◌̃,False,a,False,1.0
+86,BR POR,a,2,349.0,j̃,False,a,False,1.0
+86,CAS ESP,a,2,,∅,False,a,False,1.0
+86,CAS ESP,a,1,,n̪ʲ,False,a,False,0.5
+86,CAS ESP,a,1,258.0,ȵ,False,b,False,0.5
+86,CAT,a,1,258.0,ȵ,False,a,False,0.5
+86,CAT,a,1,261.0,ɲ,False,b,False,0.5
+86,CAT,a,2,,∅,False,a,False,1.0
+86,EU FRA,a,1,258.0,ȵ,False,a,False,0.5
+86,EU FRA,a,1,261.0,ɲ,False,b,False,0.5
+86,EU FRA,b,2,192.0,ʒ,False,a,False,1.0
+86,EU FRA,a,2,,∅,False,a,False,1.0
+86,EU FRA,b,1,,◌̃,False,a,False,1.0
+86,EU POR,a,1,,n̪ʲ,False,a,False,0.5
+86,EU POR,a,1,258.0,ȵ,False,b,False,0.5
+86,EU POR,a,2,,∅,False,a,False,1.0
+86,FUR,a,1,258.0,ȵ,False,a,False,1.0
+86,GAS OCC,a,2,,∅,False,a,False,1.0
+86,GAS OCC,a,1,,n̪ʲ,False,a,False,0.5
+86,GAS OCC,a,1,258.0,ȵ,False,b,False,0.5
+86,ITA,a,2,,∅,False,a,False,1.0
+86,ITA,a,1,,n̪ʲː,False,a,False,0.5
+86,ITA,a,1,234.0,ȵȵ,False,b,False,0.5
+86,LAT,a,1,257.0,n,False,a,False,1.0
+86,LAT,a,2,348.0,j,False,a,False,1.0
+86,OCC,a,2,,∅,False,a,False,1.0
+86,OCC,a,1,,n̪ʲ,False,a,False,0.5
+86,OCC,a,1,258.0,ȵ,False,b,False,0.5
+86,QBC FRA,a,2,,∅,False,a,False,1.0
+86,QBC FRA,a,1,258.0,ȵ,False,a,False,0.5
+86,QBC FRA,a,1,261.0,ɲ,False,b,False,0.5
+86,QBC FRA,b,2,192.0,ʒ,False,a,False,1.0
+86,QBC FRA,b,1,,◌̃,False,a,False,1.0
+86,RMH,a,1,258.0,ȵ,False,a,False,1.0
+86,ROM,a,2,348.0,j,False,a,False,0.5
+86,ROM,a,2,,∅,False,b,False,0.5
+86,ROM,a,1,,∅,False,a,False,1.0
+86,VAL,a,1,258.0,ȵ,False,a,False,0.5
+86,VAL,a,1,261.0,ɲ,False,b,False,0.5
+86,VAL,a,2,,∅,False,a,False,1.0
+87,ABR,a,2,,∅,False,a,False,1.0
+87,ABR,a,1,269.0,ɾ,False,a,False,1.0
+87,AMR ESP,a,1,,∅,False,a,False,1.0
+87,AMR ESP,a,2,269.0,ɾ,False,a,False,1.0
+87,AND ESP,a,2,269.0,ɾ,False,a,False,1.0
+87,AND ESP,a,1,,∅,False,a,False,1.0
+87,BAL,a,2,269.0,ɾ,False,a,False,1.0
+87,BAL,a,1,,∅,False,a,False,1.0
+87,BR POR,a,1,348.0,j,False,a,False,1.0
+87,BR POR,a,2,269.0,ɾ,False,a,False,1.0
+87,CAM,a,2,,∅,False,a,False,1.0
+87,CAM,a,1,269.0,ɾ,False,a,False,1.0
+87,CAS ESP,a,2,269.0,ɾ,False,a,False,1.0
+87,CAS ESP,a,1,,∅,False,a,False,1.0
+87,CAT,a,1,,∅,False,a,False,1.0
+87,CAT,a,2,269.0,ɾ,False,a,False,1.0
+87,EU FRA,a,1,,∅,False,a,False,1.0
+87,EU FRA,a,2,202.0,ʁ,False,a,False,1.0
+87,EU FRA,a,2,251.0,ʀ,False,b,True,0.0
+87,EU POR,a,1,348.0,j,False,a,False,1.0
+87,EU POR,a,2,269.0,ɾ,False,a,False,1.0
+87,GAL,a,1,348.0,j,False,a,False,1.0
+87,GAL,a,2,269.0,ɾ,False,a,False,1.0
+87,ITA,a,1,,∅,False,a,False,1.0
+87,ITA,a,2,348.0,j,False,a,False,1.0
+87,LAT,a,1,269.0,ɾ,False,a,False,1.0
+87,LAT,a,2,348.0,j,False,a,False,1.0
+87,PGL,a,1,269.0,ɾ,False,a,False,1.0
+87,PGL,a,2,,∅,False,a,False,1.0
+87,QBC FRA,a,2,202.0,ʁ,False,a,False,1.0
+87,QBC FRA,a,2,251.0,ʀ,False,b,True,0.0
+87,QBC FRA,a,1,,∅,False,a,False,1.0
+87,ROM,a,1,267.0,ɾ̪,False,a,False,1.0
+87,ROM,a,2,,∅,False,a,False,1.0
+87,SCN,a,1,269.0,ɾ,False,a,False,1.0
+87,SCN,a,2,,∅,False,a,False,1.0
+87,VAL,a,1,,∅,False,a,False,1.0
+87,VAL,a,2,269.0,ɾ,False,a,False,1.0
+88,AMR ESP,a,1,205.0,h,False,a,False,1.0
+88,AMR ESP,a,2,,∅,False,a,False,1.0
+88,AND ESP,a,2,,∅,False,a,False,1.0
+88,AND ESP,a,1,205.0,h,False,a,False,1.0
+88,BAL,a,2,,∅,False,a,False,1.0
+88,BAL,a,1,348.0,j,False,a,False,1.0
+88,BR POR,a,1,,ȴ [ʎ̟],False,a,False,1.0
+88,BR POR,a,2,,∅,False,a,False,1.0
+88,CAM,a,2,,∅,False,a,False,1.0
+88,CAM,a,1,,ȴȴ [ʎ̟ʎ̟],False,a,False,1.0
+88,CAS ESP,a,2,,∅,False,a,False,1.0
+88,CAS ESP,a,1,199.0,x,False,a,False,1.0
+88,CAT,a,1,,ȴ [ʎ̟],False,a,False,1.0
+88,CAT,a,2,,∅,False,a,False,1.0
+88,EU FRA,a,1,,∅,False,a,False,1.0
+88,EU FRA,a,2,348.0,j,False,a,False,1.0
+88,EU POR,a,1,,ȴ [ʎ̟],False,a,False,1.0
+88,EU POR,a,2,,∅,False,a,False,1.0
+88,ITA,a,1,,ȴȴ [ʎ̟ʎ̟],False,a,False,1.0
+88,ITA,a,2,,∅,False,a,False,1.0
+88,LAT,a,1,305.0,l̪ʲ,False,a,False,1.0
+88,LAT,a,2,348.0,j,False,a,False,1.0
+88,QBC FRA,a,2,348.0,j,False,a,False,1.0
+88,QBC FRA,a,1,,∅,False,a,False,1.0
+88,ROM,a,1,,∅,False,a,False,1.0
+88,ROM,a,2,348.0,j,False,a,False,0.5
+88,ROM,a,2,,∅,False,b,False,0.5
+88,VAL,a,1,,ȴ [ʎ̟],False,a,False,1.0
+88,VAL,a,2,,∅,False,a,False,1.0
+89,AMR ESP,a,1,205.0,h,False,a,False,1.0
+89,AMR ESP,a,2,,∅,False,a,False,1.0
+89,AND ESP,a,2,,∅,False,a,False,1.0
+89,AND ESP,a,1,205.0,h,False,a,False,1.0
+89,BAL,a,2,,∅,False,a,False,1.0
+89,BAL,a,1,348.0,j,False,a,False,1.0
+89,BR POR,a,1,,ȴ [ʎ̟],False,a,False,1.0
+89,BR POR,a,2,,∅,False,a,False,1.0
+89,CAM,a,2,,∅,False,a,False,1.0
+89,CAM,a,1,,ȴȴ [ʎ̟ʎ̟],False,a,False,1.0
+89,CAS ESP,a,2,,∅,False,a,False,1.0
+89,CAS ESP,a,1,199.0,x,False,a,False,1.0
+89,CAT,a,1,,ȴ [ʎ̟],False,a,False,1.0
+89,CAT,a,2,,∅,False,a,False,1.0
+89,EU FRA,a,1,,∅,False,a,False,1.0
+89,EU FRA,a,2,348.0,j,False,a,False,1.0
+89,EU POR,a,1,,ȴ [ʎ̟],False,a,False,1.0
+89,EU POR,a,2,,∅,False,a,False,1.0
+89,ITA,a,1,,ȴȴ [ʎ̟ʎ̟],False,a,False,1.0
+89,ITA,a,2,,∅,False,a,False,1.0
+89,LAT,a,1,305.0,l̪ʲ,False,a,False,1.0
+89,LAT,a,2,348.0,j,False,a,False,1.0
+89,QBC FRA,a,2,348.0,j,False,a,False,1.0
+89,QBC FRA,a,1,,∅,False,a,False,1.0
+89,ROM,a,1,,∅,False,a,False,1.0
+89,ROM,a,2,348.0,j,False,a,False,1.0
+89,VAL,a,1,,ȴ [ʎ̟],False,a,False,1.0
+89,VAL,a,2,,∅,False,a,False,1.0
+46,ABR,a,2,25.0,p,False,a,False,1.0
+46,ABR,a,1,183.0,s,False,a,False,1.0
+46,AMR ESP,a,1,183.0,s,False,a,False,1.0
+46,AMR ESP,a,2,25.0,p,False,a,False,1.0
+46,AND ESP,a,1,205.0,h,False,a,False,1.0
+46,AND ESP,a,2,25.0,p,False,a,False,1.0
+46,ARG,a,2,25.0,p,False,a,False,1.0
+46,ARG,a,1,187.0,s̠,False,a,False,1.0
+46,ARO,a,1,181.0,s̪,False,a,False,1.0
+46,ARO,a,2,25.0,p,False,a,False,1.0
+46,ARP,a,1,,∅,False,a,False,1.0
+46,ARP,a,2,25.0,p,False,a,False,1.0
+46,ASL,a,1,187.0,s̠,False,a,False,1.0
+46,ASL,a,2,25.0,p,False,a,False,1.0
+46,BAL,a,2,25.0,p,False,a,False,1.0
+46,BAL,a,1,187.0,s̠,False,a,False,1.0
+46,BR POR,a,2,25.0,p,False,a,False,1.0
+46,BR POR,a,1,183.0,s,False,a,False,1.0
+46,CAM,a,1,191.0,ʃ,False,a,False,1.0
+46,CAM,a,2,25.0,p,False,a,False,1.0
+46,CAS ESP,a,2,25.0,p,False,a,False,1.0
+46,CAS ESP,a,1,187.0,s̠,False,a,False,1.0
+46,CAT,a,2,25.0,p,False,a,False,1.0
+46,CAT,a,1,187.0,s̠,False,a,False,1.0
+46,COR,a,2,25.0,p,False,a,False,1.0
+46,COR,a,1,183.0,s,False,a,False,1.0
+46,CPN SRD,a,2,25.0,p,False,a,False,1.0
+46,CPN SRD,a,1,183.0,s,False,a,False,1.0
+46,CPN SRD,a,1,187.0,s̠,False,b,True,0.0
+46,EU FRA,a,2,25.0,p,False,a,False,1.0
+46,EU FRA,a,1,,∅,False,a,False,1.0
+46,EU POR,a,1,191.0,ʃ,False,a,False,1.0
+46,EU POR,a,2,25.0,p,False,a,False,1.0
+46,FUR,a,2,25.0,p,False,a,False,1.0
+46,FUR,a,1,187.0,s̠,False,a,False,0.5
+46,FUR,a,1,191.0,ʃ,False,b,False,0.5
+46,GAL,a,1,187.0,s̠,False,a,False,1.0
+46,GAL,a,1,183.0,s,False,b,True,0.0
+46,GAL,a,2,25.0,p,False,a,False,1.0
+46,GAS OCC,a,1,187.0,s̠,False,a,False,1.0
+46,GAS OCC,a,2,25.0,p,False,a,False,1.0
+46,ITA,a,2,25.0,p,False,a,False,1.0
+46,ITA,a,1,183.0,s,False,a,False,1.0
+46,LAT,a,2,25.0,p,False,a,False,1.0
+46,LAT,a,1,187.0,s̠,False,a,False,1.0
+46,LIG,a,2,25.0,p,False,a,False,1.0
+46,LIG,a,1,183.0,s,False,a,False,1.0
+46,LIG,a,1,191.0,ʃ,False,b,True,0.0
+46,LMO,a,2,25.0,p,False,a,False,1.0
+46,LMO,a,1,187.0,s̠,False,a,False,1.0
+46,LOG SRD,a,2,25.0,p,False,a,False,1.0
+46,LOG SRD,a,1,187.0,s̠,False,a,False,1.0
+46,OCC,a,2,25.0,p,False,a,False,1.0
+46,OCC,a,1,187.0,s̠,False,a,False,1.0
+46,PGL,a,1,183.0,s,False,a,False,1.0
+46,PGL,a,2,25.0,p,False,a,False,1.0
+46,QBC FRA,a,1,,∅,False,a,False,1.0
+46,QBC FRA,a,2,25.0,p,False,a,False,1.0
+46,RMH,a,1,191.0,ʃ,False,a,False,1.0
+46,RMH,a,2,25.0,p,False,a,False,1.0
+46,ROM,a,2,25.0,p,False,a,False,1.0
+46,ROM,a,1,181.0,s̪,False,a,False,1.0
+46,SCN,a,1,183.0,s,False,a,False,0.5
+46,SCN,a,1,191.0,ʃ,False,b,False,0.5
+46,SCN,a,2,25.0,p,False,a,False,1.0
+46,VAL,a,2,25.0,p,False,a,False,1.0
+46,VAL,a,1,187.0,s̠,False,a,False,1.0
+46,VEN,a,2,25.0,p,False,a,False,1.0
+46,VEN,a,1,187.0,s̠,False,a,False,1.0
+46,WAL,a,2,25.0,p,False,a,False,1.0
+46,WAL,a,1,181.0,s̪,False,a,False,1.0
+47,ABR,a,2,29.0,t̪,False,a,False,1.0
+47,ABR,a,1,183.0,s,False,a,False,1.0
+47,AMR ESP,a,1,183.0,s,False,a,False,1.0
+47,AMR ESP,a,2,29.0,t̪,False,a,False,1.0
+47,AND ESP,a,2,29.0,t̪,False,a,False,1.0
+47,AND ESP,a,1,205.0,h,False,a,False,1.0
+47,ARG,a,2,29.0,t̪,False,a,False,1.0
+47,ARG,a,1,187.0,s̠,False,a,False,1.0
+47,ARO,a,1,181.0,s̪,False,a,False,1.0
+47,ARO,b,1,191.0,ʃ,False,a,False,1.0
+47,ARO,a,2,29.0,t̪,False,a,False,1.0
+47,ARO,b,2,29.0,t̪,False,a,False,1.0
+47,ARP,a,1,,∅,False,a,False,1.0
+47,ARP,a,2,29.0,t̪,False,a,False,1.0
+47,ASL,a,2,29.0,t̪,False,a,False,1.0
+47,ASL,a,1,187.0,s̠,False,a,False,1.0
+47,BAL,a,2,29.0,t̪,False,a,False,1.0
+47,BAL,a,1,187.0,s̠,False,a,False,1.0
+47,BR POR,a,2,29.0,t̪,False,a,False,1.0
+47,BR POR,a,1,183.0,s,False,a,False,1.0
+47,CAM,a,1,191.0,ʃ,False,a,False,1.0
+47,CAM,a,2,29.0,t̪,False,a,False,1.0
+47,CAS ESP,a,1,187.0,s̠,False,a,False,1.0
+47,CAS ESP,a,2,29.0,t̪,False,a,False,1.0
+47,CAT,a,1,187.0,s̠,False,a,False,1.0
+47,CAT,a,2,29.0,t̪,False,a,False,1.0
+47,COR,a,2,29.0,t̪,False,a,False,1.0
+47,COR,a,1,183.0,s,False,a,False,1.0
+47,CPN SRD,a,2,29.0,t̪,False,a,False,1.0
+47,CPN SRD,a,1,183.0,s,False,a,False,1.0
+47,CPN SRD,a,1,187.0,s̠,False,b,True,0.0
+47,EU FRA,a,1,,∅,False,a,False,1.0
+47,EU FRA,a,2,29.0,t̪,False,a,False,1.0
+47,EU POR,a,1,191.0,ʃ,False,a,False,1.0
+47,EU POR,a,2,29.0,t̪,False,a,False,1.0
+47,FUR,a,1,187.0,s̠,False,a,False,0.5
+47,FUR,a,1,191.0,ʃ,False,b,False,0.5
+47,FUR,a,2,29.0,t̪,False,a,False,1.0
+47,GAL,a,1,187.0,s̠,False,a,False,1.0
+47,GAL,a,1,183.0,s,False,b,True,0.0
+47,GAL,a,2,29.0,t̪,False,a,False,1.0
+47,GAS OCC,a,2,29.0,t̪,False,a,False,1.0
+47,GAS OCC,a,1,187.0,s̠,False,a,False,1.0
+47,ITA,a,1,183.0,s,False,a,False,1.0
+47,ITA,a,2,29.0,t̪,False,a,False,1.0
+47,LAT,a,1,187.0,s̠,False,a,False,1.0
+47,LAT,a,2,29.0,t̪,False,a,False,1.0
+47,LIG,a,2,29.0,t̪,False,a,False,1.0
+47,LIG,a,1,183.0,s,False,a,False,1.0
+47,LIG,a,1,191.0,ʃ,False,b,True,0.0
+47,LMO,a,2,29.0,t̪,False,a,False,1.0
+47,LMO,a,1,187.0,s̠,False,a,False,1.0
+47,LOG SRD,a,2,29.0,t̪,False,a,False,1.0
+47,LOG SRD,a,1,187.0,s̠,False,a,False,1.0
+47,OCC,a,2,29.0,t̪,False,a,False,1.0
+47,OCC,a,1,187.0,s̠,False,a,False,1.0
+47,PGL,a,2,29.0,t̪,False,a,False,1.0
+47,PGL,a,1,183.0,s,False,a,False,1.0
+47,QBC FRA,a,1,,∅,False,a,False,1.0
+47,QBC FRA,a,2,29.0,t̪,False,a,False,1.0
+47,RMH,a,2,29.0,t̪,False,a,False,1.0
+47,RMH,a,1,191.0,ʃ,False,a,False,1.0
+47,ROM,a,1,181.0,s̪,False,a,False,1.0
+47,ROM,b,1,191.0,ʃ,False,a,False,1.0
+47,ROM,a,2,29.0,t̪,False,a,False,1.0
+47,ROM,b,2,29.0,t̪,False,a,False,1.0
+47,SCN,a,1,183.0,s,False,a,False,0.5
+47,SCN,a,1,191.0,ʃ,False,b,False,0.5
+47,SCN,a,2,29.0,t̪,False,a,False,1.0
+47,VAL,a,1,187.0,s̠,False,a,False,1.0
+47,VAL,a,2,29.0,t̪,False,a,False,1.0
+47,VEN,a,1,187.0,s̠,False,a,False,1.0
+47,VEN,a,2,29.0,t̪,False,a,False,1.0
+47,WAL,a,1,181.0,s̪,False,a,False,1.0
+47,WAL,a,2,29.0,t̪,False,a,False,1.0
+48,ABR,a,2,29.0,t̪,False,a,False,1.0
+48,ABR,a,1,183.0,s,False,a,False,1.0
+48,AMR ESP,a,1,183.0,s,False,a,False,1.0
+48,AMR ESP,a,2,29.0,t̪,False,a,False,1.0
+48,AND ESP,a,1,205.0,h,False,a,False,1.0
+48,AND ESP,a,2,29.0,t̪,False,a,False,1.0
+48,ARG,a,2,29.0,t̪,False,a,False,1.0
+48,ARG,a,1,187.0,s̠,False,a,False,1.0
+48,ARO,a,1,181.0,s̪,False,a,False,1.0
+48,ARO,a,2,29.0,t̪,False,a,False,1.0
+48,ARP,a,1,,∅,False,a,False,1.0
+48,ARP,a,2,29.0,t̪,False,a,False,1.0
+48,ASL,a,1,187.0,s̠,False,a,False,1.0
+48,ASL,a,2,29.0,t̪,False,a,False,1.0
+48,BAL,a,2,29.0,t̪,False,a,False,1.0
+48,BAL,a,1,187.0,s̠,False,a,False,1.0
+48,BR POR,a,2,29.0,t̪,False,a,False,1.0
+48,BR POR,a,1,183.0,s,False,a,False,1.0
+48,CAM,a,1,191.0,ʃ,False,a,False,1.0
+48,CAM,a,2,29.0,t̪,False,a,False,1.0
+48,CAS ESP,a,2,29.0,t̪,False,a,False,1.0
+48,CAS ESP,a,1,187.0,s̠,False,a,False,1.0
+48,CAT,a,2,29.0,t̪,False,a,False,1.0
+48,CAT,a,1,187.0,s̠,False,a,False,1.0
+48,COR,a,2,29.0,t̪,False,a,False,1.0
+48,COR,a,1,183.0,s,False,a,False,1.0
+48,CPN SRD,a,2,29.0,t̪,False,a,False,1.0
+48,CPN SRD,a,1,183.0,s,False,a,False,1.0
+48,CPN SRD,a,1,187.0,s̠,False,b,True,0.0
+48,EU FRA,a,2,29.0,t̪,False,a,False,1.0
+48,EU FRA,a,1,,∅,False,a,False,1.0
+48,EU POR,a,1,191.0,ʃ,False,a,False,1.0
+48,EU POR,a,2,29.0,t̪,False,a,False,1.0
+48,FUR,a,2,29.0,t̪,False,a,False,1.0
+48,FUR,a,1,187.0,s̠,False,a,False,0.5
+48,FUR,a,1,191.0,ʃ,False,b,False,0.5
+48,GAL,a,1,187.0,s̠,False,a,False,1.0
+48,GAL,a,1,183.0,s,False,b,True,0.0
+48,GAL,a,2,29.0,t̪,False,a,False,1.0
+48,GAS OCC,a,1,187.0,s̠,False,a,False,1.0
+48,GAS OCC,a,2,29.0,t̪,False,a,False,1.0
+48,ITA,a,2,29.0,t̪,False,a,False,1.0
+48,ITA,a,1,183.0,s,False,a,False,1.0
+48,LAT,a,2,29.0,t̪,False,a,False,1.0
+48,LAT,a,1,187.0,s̠,False,a,False,1.0
+48,LIG,a,2,29.0,t̪,False,a,False,1.0
+48,LIG,a,1,183.0,s,False,a,False,1.0
+48,LIG,a,1,191.0,ʃ,False,b,True,0.0
+48,LMO,a,2,29.0,t̪,False,a,False,1.0
+48,LMO,a,1,187.0,s̠,False,a,False,1.0
+48,LOG SRD,a,2,29.0,t̪,False,a,False,1.0
+48,LOG SRD,a,1,187.0,s̠,False,a,False,1.0
+48,OCC,a,2,29.0,t̪,False,a,False,1.0
+48,OCC,a,1,187.0,s̠,False,a,False,1.0
+48,PGL,a,1,183.0,s,False,a,False,1.0
+48,PGL,a,2,29.0,t̪,False,a,False,1.0
+48,QBC FRA,a,1,,∅,False,a,False,1.0
+48,QBC FRA,a,2,29.0,t̪,False,a,False,1.0
+48,RMH,a,1,191.0,ʃ,False,a,False,1.0
+48,RMH,a,2,29.0,t̪,False,a,False,1.0
+48,ROM,a,2,29.0,t̪,False,a,False,1.0
+48,ROM,a,1,181.0,s̪,False,a,False,1.0
+48,SCN,a,1,183.0,s,False,a,False,0.5
+48,SCN,a,1,191.0,ʃ,False,b,False,0.5
+48,SCN,a,2,29.0,t̪,False,a,False,1.0
+48,VAL,a,2,29.0,t̪,False,a,False,1.0
+48,VAL,a,1,187.0,s̠,False,a,False,1.0
+48,VEN,a,2,29.0,t̪,False,a,False,1.0
+48,VEN,a,1,187.0,s̠,False,a,False,1.0
+48,WAL,a,2,29.0,t̪,False,a,False,1.0
+48,WAL,a,1,181.0,s̪,False,a,False,1.0
+49a,ABR,a,1,183.0,s,False,a,False,1.0
+49a,AMR ESP,a,1,183.0,s,False,a,False,1.0
+49a,AMR ESP,a,2,43.0,k,False,a,False,1.0
+49a,AND ESP,a,1,205.0,h,False,a,False,1.0
+49a,AND ESP,a,2,43.0,k,False,a,False,1.0
+49a,ARG,a,2,43.0,k,False,a,False,1.0
+49a,ARG,a,1,187.0,s̠,False,a,False,1.0
+49a,ARP,a,1,,∅,False,a,False,1.0
+49a,ARP,a,2,108.0,t̠͡ʃ,False,a,False,0.5
+49a,ARP,a,2,177.0,θ,False,b,False,0.5
+49a,ASL,a,1,187.0,s̠,False,a,False,1.0
+49a,ASL,a,2,43.0,k,False,a,False,1.0
+49a,BAL,a,2,43.0,k,False,a,False,1.0
+49a,BAL,a,1,187.0,s̠,False,a,False,1.0
+49a,BR POR,a,2,43.0,k,False,a,False,1.0
+49a,BR POR,a,1,183.0,s,False,a,False,1.0
+49a,CAM,a,1,191.0,ʃ,False,a,False,1.0
+49a,CAS ESP,a,2,43.0,k,False,a,False,1.0
+49a,CAS ESP,a,1,187.0,s̠,False,a,False,1.0
+49a,CAT,a,2,43.0,k,False,a,False,1.0
+49a,CAT,a,1,187.0,s̠,False,a,False,1.0
+49a,COR,a,1,183.0,s,False,a,False,1.0
+49a,CPN SRD,a,1,183.0,s,False,a,False,1.0
+49a,CPN SRD,a,1,187.0,s̠,False,b,True,0.0
+49a,EU FRA,a,2,191.0,ʃ,False,a,False,1.0
+49a,EU FRA,b,1,,∅,False,a,False,1.0
+49a,EU FRA,b,2,43.0,k,False,a,False,1.0
+49a,EU FRA,a,1,,∅,False,a,False,1.0
+49a,EU POR,a,2,43.0,k,False,a,False,1.0
+49a,EU POR,a,1,191.0,ʃ,False,a,False,1.0
+49a,FUR,a,1,187.0,s̠,False,a,False,0.5
+49a,FUR,a,1,191.0,ʃ,False,b,False,0.5
+49a,GAL,a,2,43.0,k,False,a,False,1.0
+49a,GAL,a,1,187.0,s̠,False,a,False,1.0
+49a,GAL,a,1,183.0,s,False,b,True,0.0
+49a,GAS OCC,a,2,43.0,k,False,a,False,1.0
+49a,GAS OCC,a,1,187.0,s̠,False,a,False,1.0
+49a,ITA,a,1,183.0,s,False,a,False,1.0
+49a,ITA,a,2,43.0,k,False,a,False,1.0
+49a,LAT,a,2,43.0,k,False,a,False,1.0
+49a,LAT,a,1,187.0,s̠,False,a,False,1.0
+49a,LIG,a,1,183.0,s,False,a,False,1.0
+49a,LIG,a,1,191.0,ʃ,False,b,True,0.0
+49a,LIG,a,2,43.0,k,False,a,False,1.0
+49a,LMO,a,2,43.0,k,False,a,False,1.0
+49a,LMO,a,1,187.0,s̠,False,a,False,1.0
+49a,LOG SRD,a,1,187.0,s̠,False,a,False,1.0
+49a,OCC,a,2,43.0,k,False,a,False,1.0
+49a,OCC,a,1,187.0,s̠,False,a,False,1.0
+49a,PGL,a,1,183.0,s,False,a,False,1.0
+49a,QBC FRA,a,1,,∅,False,a,False,1.0
+49a,QBC FRA,a,2,191.0,ʃ,False,a,False,1.0
+49a,QBC FRA,b,1,,∅,False,a,False,1.0
+49a,QBC FRA,b,2,43.0,k,False,a,False,1.0
+49a,RMH,a,1,191.0,ʃ,False,a,False,1.0
+49a,SCN,a,1,183.0,s,False,a,False,0.5
+49a,SCN,a,1,191.0,ʃ,False,b,False,0.5
+49a,VAL,a,1,187.0,s̠,False,a,False,1.0
+49a,VAL,a,2,43.0,k,False,a,False,1.0
+49a,VEN,a,2,43.0,k,False,a,False,1.0
+49a,VEN,a,1,187.0,s̠,False,a,False,1.0
+49a,WAL,a,1,181.0,s̪,False,a,False,0.333333
+49a,WAL,a,1,191.0,ʃ,False,b,False,0.333333
+49a,WAL,a,1,205.0,h,False,c,False,0.333333
+49a,WAL,a,2,191.0,ʃ,False,a,False,0.333333
+49a,WAL,a,2,43.0,k,False,b,False,0.333333
+49a,WAL,a,2,205.0,h,False,c,False,0.333333
+49b,AMR ESP,a,1,,∅,False,a,False,1.0
+49b,AMR ESP,a,2,183.0,s,False,a,False,1.0
+49b,AMR ESP,b,2,43.0,k,False,a,False,1.0
+49b,AMR ESP,b,1,183.0,s,False,a,False,1.0
+49b,AND ESP,b,2,179.0,s̟,False,a,False,1.0
+49b,AND ESP,b,1,,∅,False,a,False,1.0
+49b,AND ESP,a,2,43.0,k,False,a,False,1.0
+49b,AND ESP,a,1,205.0,h,False,a,False,1.0
+49b,ARG,a,1,,∅,False,a,False,1.0
+49b,ARG,a,2,177.0,θ,False,a,False,1.0
+49b,ARO,a,1,181.0,s̪,False,a,False,1.0
+49b,ARO,a,2,43.0,k,False,a,False,1.0
+49b,ASL,a,1,187.0,s̠,False,a,False,1.0
+49b,ASL,b,1,,∅,False,a,False,1.0
+49b,ASL,a,2,43.0,k,False,a,False,1.0
+49b,ASL,b,2,177.0,θ,False,a,False,1.0
+49b,BAL,a,1,,∅,False,a,False,1.0
+49b,BAL,a,2,187.0,s̠,False,a,False,1.0
+49b,BAL,b,2,43.0,k,False,a,False,1.0
+49b,BAL,b,1,187.0,s̠,False,a,False,1.0
+49b,BR POR,a,2,183.0,s,False,a,False,1.0
+49b,BR POR,b,2,43.0,k,False,a,False,1.0
+49b,BR POR,a,1,,∅,False,a,False,1.0
+49b,BR POR,b,1,183.0,s,False,a,False,1.0
+49b,CAS ESP,b,1,,∅,False,a,False,1.0
+49b,CAS ESP,b,2,177.0,θ,False,a,False,1.0
+49b,CAS ESP,a,1,187.0,s̠,False,a,False,1.0
+49b,CAS ESP,a,2,43.0,k,False,a,False,1.0
+49b,CAT,a,1,,∅,False,a,False,1.0
+49b,CAT,a,2,187.0,s̠,False,a,False,1.0
+49b,CAT,b,2,43.0,k,False,a,False,1.0
+49b,CAT,b,1,187.0,s̠,False,a,False,1.0
+49b,CPN SRD,b,1,187.0,s̠,False,a,False,1.0
+49b,CPN SRD,a,2,,∅,False,a,False,1.0
+49b,CPN SRD,b,2,43.0,k,False,a,False,1.0
+49b,CPN SRD,a,1,191.0,ʃ,False,a,False,1.0
+49b,EU FRA,b,1,181.0,s̪,False,a,False,1.0
+49b,EU FRA,a,2,181.0,s̪,False,a,False,1.0
+49b,EU FRA,b,2,43.0,k,False,a,False,1.0
+49b,EU FRA,a,1,,∅,False,a,False,1.0
+49b,EU POR,b,2,43.0,k,False,a,False,1.0
+49b,EU POR,a,1,,∅,False,a,False,1.0
+49b,EU POR,b,1,191.0,ʃ,False,a,False,1.0
+49b,EU POR,a,2,183.0,s,False,a,False,1.0
+49b,GAL,b,2,177.0,θ,False,a,False,1.0
+49b,GAL,b,2,183.0,s,False,b,True,0.0
+49b,GAL,b,1,,∅,False,a,False,1.0
+49b,GAL,a,2,43.0,k,False,a,False,1.0
+49b,GAL,a,1,187.0,s̠,False,a,False,1.0
+49b,GAL,a,1,183.0,s,False,b,True,0.0
+49b,GAS OCC,b,2,43.0,k,False,a,False,1.0
+49b,GAS OCC,a,2,187.0,s̠,False,a,False,1.0
+49b,GAS OCC,a,1,,∅,False,a,False,1.0
+49b,GAS OCC,b,1,187.0,s̠,False,a,False,1.0
+49b,ITA,a,2,,∅,False,a,False,1.0
+49b,ITA,b,1,183.0,s,False,a,False,1.0
+49b,ITA,b,2,43.0,k,False,a,False,1.0
+49b,ITA,a,1,191.0,ʃ,False,a,False,1.0
+49b,LAT,a,2,43.0,k,False,a,False,1.0
+49b,LAT,a,1,187.0,s̠,False,a,False,1.0
+49b,LIG,b,1,183.0,s,False,a,False,1.0
+49b,LIG,b,2,43.0,k,False,a,False,1.0
+49b,LOG SRD,a,2,43.0,k,False,a,False,1.0
+49b,LOG SRD,b,2,43.0,k,False,a,False,1.0
+49b,LOG SRD,b,1,187.0,s̠,False,a,False,1.0
+49b,LOG SRD,a,1,187.0,s̠,False,a,False,1.0
+49b,OCC,a,2,187.0,s̠,False,a,False,1.0
+49b,OCC,b,1,187.0,s̠,False,a,False,1.0
+49b,OCC,a,1,,∅,False,a,False,1.0
+49b,OCC,b,2,43.0,k,False,a,False,1.0
+49b,QBC FRA,b,2,43.0,k,False,a,False,1.0
+49b,QBC FRA,a,2,181.0,s̪,False,a,False,1.0
+49b,QBC FRA,a,1,,∅,False,a,False,1.0
+49b,QBC FRA,b,1,181.0,s̪,False,a,False,1.0
+49b,ROM,b,1,191.0,ʃ,False,a,False,1.0
+49b,ROM,a,2,43.0,k,False,a,False,1.0
+49b,ROM,b,2,29.0,t̪,False,a,False,1.0
+49b,ROM,a,1,181.0,s̪,False,a,False,1.0
+49b,VAL,b,2,43.0,k,False,a,False,1.0
+49b,VAL,b,1,187.0,s̠,False,a,False,1.0
+49b,VAL,a,2,187.0,s̠,False,a,False,1.0
+49b,VAL,a,1,,∅,False,a,False,1.0
+49b,WAL,a,1,,∅,False,a,False,1.0
+50,ABR,a,2,43.0,k,False,a,False,1.0
+50,ABR,a,1,183.0,s,False,a,False,1.0
+50,AMR ESP,a,1,183.0,s,False,a,False,1.0
+50,AMR ESP,a,2,43.0,k,False,a,False,1.0
+50,AND ESP,a,1,205.0,h,False,a,False,1.0
+50,AND ESP,a,2,43.0,k,False,a,False,1.0
+50,ARG,a,2,43.0,k,False,a,False,1.0
+50,ARG,a,1,187.0,s̠,False,a,False,1.0
+50,ARO,a,2,43.0,k,False,a,False,1.0
+50,ARO,a,1,181.0,s̪,False,a,False,1.0
+50,ARP,a,1,,∅,False,a,False,1.0
+50,ARP,a,2,43.0,k,False,a,False,1.0
+50,ARP,b,2,108.0,t̠͡ʃ,False,a,False,0.5
+50,ARP,b,2,177.0,θ,False,b,False,0.5
+50,ARP,b,1,,∅,False,a,False,1.0
+50,ASL,a,2,43.0,k,False,a,False,1.0
+50,ASL,a,1,187.0,s̠,False,a,False,1.0
+50,BAL,a,1,187.0,s̠,False,a,False,1.0
+50,BAL,a,2,43.0,k,False,a,False,1.0
+50,BR POR,a,2,43.0,k,False,a,False,1.0
+50,BR POR,a,1,183.0,s,False,a,False,1.0
+50,CAM,a,1,191.0,ʃ,False,a,False,1.0
+50,CAM,a,2,43.0,k,False,a,False,1.0
+50,CAS ESP,a,2,43.0,k,False,a,False,1.0
+50,CAS ESP,a,1,187.0,s̠,False,a,False,1.0
+50,CAT,a,2,43.0,k,False,a,False,1.0
+50,CAT,a,1,187.0,s̠,False,a,False,1.0
+50,COR,a,2,43.0,k,False,a,False,1.0
+50,COR,a,1,183.0,s,False,a,False,1.0
+50,CPN SRD,a,2,43.0,k,False,a,False,1.0
+50,CPN SRD,a,1,183.0,s,False,a,False,1.0
+50,CPN SRD,a,1,187.0,s̠,False,b,True,0.0
+50,EU FRA,b,1,,∅,False,a,False,1.0
+50,EU FRA,a,2,43.0,k,False,a,False,1.0
+50,EU FRA,b,2,191.0,ʃ,False,a,False,1.0
+50,EU FRA,a,1,,∅,False,a,False,1.0
+50,EU POR,a,2,43.0,k,False,a,False,1.0
+50,EU POR,a,1,191.0,ʃ,False,a,False,1.0
+50,FUR,a,2,43.0,k,False,a,False,1.0
+50,FUR,b,2,41.0,c,False,a,False,0.5
+50,FUR,b,2,108.0,t̠͡ʃ,False,b,False,0.5
+50,FUR,a,1,187.0,s̠,False,a,False,0.5
+50,FUR,a,1,191.0,ʃ,False,b,False,0.5
+50,FUR,b,1,187.0,s̠,False,a,False,0.5
+50,FUR,b,1,191.0,ʃ,False,b,False,0.5
+50,GAL,a,1,187.0,s̠,False,a,False,1.0
+50,GAL,a,1,183.0,s,False,b,True,0.0
+50,GAL,a,2,43.0,k,False,a,False,1.0
+50,GAS OCC,a,2,43.0,k,False,a,False,1.0
+50,GAS OCC,a,1,187.0,s̠,False,a,False,1.0
+50,ITA,a,1,183.0,s,False,a,False,1.0
+50,ITA,a,2,43.0,k,False,a,False,1.0
+50,LAT,a,2,43.0,k,False,a,False,1.0
+50,LAT,a,1,187.0,s̠,False,a,False,1.0
+50,LIG,a,2,43.0,k,False,a,False,1.0
+50,LIG,a,1,183.0,s,False,a,False,1.0
+50,LIG,a,1,191.0,ʃ,False,b,True,0.0
+50,LMO,a,2,43.0,k,False,a,False,1.0
+50,LMO,a,1,187.0,s̠,False,a,False,1.0
+50,LOG SRD,a,1,187.0,s̠,False,a,False,1.0
+50,LOG SRD,a,2,43.0,k,False,a,False,1.0
+50,OCC,a,2,43.0,k,False,a,False,1.0
+50,OCC,a,1,187.0,s̠,False,a,False,1.0
+50,OCC,b,2,43.0,k,False,a,False,1.0
+50,OCC,b,2,100.0,t͡s,False,b,True,0.0
+50,OCC,b,1,187.0,s̠,False,a,False,1.0
+50,PGL,a,1,183.0,s,False,a,False,1.0
+50,PGL,a,2,43.0,k,False,a,False,1.0
+50,QBC FRA,b,2,191.0,ʃ,False,a,False,1.0
+50,QBC FRA,a,2,43.0,k,False,a,False,1.0
+50,QBC FRA,a,1,,∅,False,a,False,1.0
+50,QBC FRA,b,1,,∅,False,a,False,1.0
+50,RMH,b,2,43.0,k,False,a,False,0.5
+50,RMH,b,2,41.0,c,False,b,False,0.5
+50,RMH,a,1,191.0,ʃ,False,a,False,1.0
+50,RMH,b,1,191.0,ʃ,False,a,False,1.0
+50,RMH,a,2,43.0,k,False,a,False,1.0
+50,ROM,a,2,43.0,k,False,a,False,1.0
+50,ROM,a,1,181.0,s̪,False,a,False,1.0
+50,SCN,a,1,183.0,s,False,a,False,0.5
+50,SCN,a,1,191.0,ʃ,False,b,False,0.5
+50,SCN,a,2,43.0,k,False,a,False,1.0
+50,VAL,a,2,43.0,k,False,a,False,1.0
+50,VAL,a,1,187.0,s̠,False,a,False,1.0
+50,VEN,a,1,187.0,s̠,False,a,False,1.0
+50,VEN,a,2,43.0,k,False,a,False,1.0
+50,WAL,a,1,181.0,s̪,False,a,False,1.0
+50,WAL,b,2,191.0,ʃ,False,a,False,0.333333
+50,WAL,b,2,43.0,k,False,b,False,0.333333
+50,WAL,b,2,205.0,h,False,c,False,0.333333
+50,WAL,a,2,43.0,k,False,a,False,1.0
+50,WAL,b,1,181.0,s̪,False,a,False,0.333333
+50,WAL,b,1,191.0,ʃ,False,b,False,0.333333
+50,WAL,b,1,205.0,h,False,c,False,0.333333
+51,ABR,a,3,269.0,ɾ,False,a,False,1.0
+51,ABR,a,2,29.0,t̪,False,a,False,1.0
+51,ABR,a,1,183.0,s,False,a,False,1.0
+51,AMR ESP,a,3,269.0,ɾ,False,a,False,1.0
+51,AMR ESP,a,2,29.0,t̪,False,a,False,1.0
+51,AMR ESP,a,1,183.0,s,False,a,False,1.0
+51,AND ESP,a,2,29.0,t̪,False,a,False,1.0
+51,AND ESP,a,3,269.0,ɾ,False,a,False,1.0
+51,AND ESP,a,1,205.0,h,False,a,False,1.0
+51,ARG,a,1,187.0,s̠,False,a,False,1.0
+51,ARG,a,2,29.0,t̪,False,a,False,1.0
+51,ARG,a,3,269.0,ɾ,False,a,False,1.0
+51,ARO,a,2,29.0,t̪,False,a,False,1.0
+51,ARO,a,1,181.0,s̪,False,a,False,1.0
+51,ARO,a,3,267.0,ɾ̪,False,a,False,1.0
+51,ARP,a,1,,∅,False,a,False,1.0
+51,ARP,a,2,29.0,t̪,False,a,False,1.0
+51,ARP,a,3,269.0,ɾ,False,a,False,1.0
+51,ARP,a,3,251.0,ʀ,False,b,True,0.0
+51,ASL,a,2,29.0,t̪,False,a,False,1.0
+51,ASL,a,3,269.0,ɾ,False,a,False,1.0
+51,ASL,a,1,187.0,s̠,False,a,False,1.0
+51,BAL,a,2,29.0,t̪,False,a,False,1.0
+51,BAL,a,1,187.0,s̠,False,a,False,1.0
+51,BAL,a,3,269.0,ɾ,False,a,False,1.0
+51,BR POR,a,2,29.0,t̪,False,a,False,1.0
+51,BR POR,a,3,269.0,ɾ,False,a,False,1.0
+51,BR POR,a,1,183.0,s,False,a,False,1.0
+51,CAM,a,2,29.0,t̪,False,a,False,1.0
+51,CAM,a,1,191.0,ʃ,False,a,False,1.0
+51,CAM,a,3,269.0,ɾ,False,a,False,1.0
+51,CAS ESP,a,1,187.0,s̠,False,a,False,1.0
+51,CAS ESP,a,2,29.0,t̪,False,a,False,1.0
+51,CAS ESP,a,3,269.0,ɾ,False,a,False,1.0
+51,CAT,a,2,29.0,t̪,False,a,False,1.0
+51,CAT,a,3,269.0,ɾ,False,a,False,1.0
+51,CAT,a,1,187.0,s̠,False,a,False,1.0
+51,COR,a,2,29.0,t̪,False,a,False,1.0
+51,COR,a,1,183.0,s,False,a,False,1.0
+51,COR,a,3,269.0,ɾ,False,a,False,1.0
+51,CPN SRD,a,1,183.0,s,False,a,False,1.0
+51,CPN SRD,a,1,187.0,s̠,False,b,True,0.0
+51,CPN SRD,a,2,29.0,t̪,False,a,False,1.0
+51,CPN SRD,a,3,269.0,ɾ,False,a,False,1.0
+51,EU FRA,a,3,202.0,ʁ,False,a,False,1.0
+51,EU FRA,a,3,251.0,ʀ,False,b,True,0.0
+51,EU FRA,a,1,,∅,False,a,False,1.0
+51,EU FRA,a,2,29.0,t̪,False,a,False,1.0
+51,EU POR,a,1,191.0,ʃ,False,a,False,1.0
+51,EU POR,a,3,269.0,ɾ,False,a,False,1.0
+51,EU POR,a,2,29.0,t̪,False,a,False,1.0
+51,FUR,a,2,29.0,t̪,False,a,False,1.0
+51,FUR,a,3,269.0,ɾ,False,a,False,1.0
+51,FUR,a,1,187.0,s̠,False,a,False,0.5
+51,FUR,a,1,191.0,ʃ,False,b,False,0.5
+51,GAL,a,3,269.0,ɾ,False,a,False,1.0
+51,GAL,a,1,187.0,s̠,False,a,False,1.0
+51,GAL,a,1,183.0,s,False,b,True,0.0
+51,GAL,a,2,29.0,t̪,False,a,False,1.0
+51,GAS OCC,a,3,269.0,ɾ,False,a,False,1.0
+51,GAS OCC,a,1,187.0,s̠,False,a,False,1.0
+51,GAS OCC,a,2,29.0,t̪,False,a,False,1.0
+51,ITA,a,3,269.0,ɾ,False,a,False,1.0
+51,ITA,a,1,183.0,s,False,a,False,1.0
+51,ITA,a,2,29.0,t̪,False,a,False,1.0
+51,LAT,a,3,269.0,ɾ,False,a,False,1.0
+51,LAT,a,2,29.0,t̪,False,a,False,1.0
+51,LAT,a,1,187.0,s̠,False,a,False,1.0
+51,LIG,a,2,29.0,t̪,False,a,False,1.0
+51,LIG,a,1,183.0,s,False,a,False,1.0
+51,LIG,a,1,191.0,ʃ,False,b,True,0.0
+51,LIG,a,3,269.0,ɾ,False,a,False,1.0
+51,LMO,a,1,187.0,s̠,False,a,False,1.0
+51,LMO,a,3,269.0,ɾ,False,a,False,1.0
+51,LMO,a,2,29.0,t̪,False,a,False,1.0
+51,LOG SRD,a,1,187.0,s̠,False,a,False,1.0
+51,LOG SRD,a,2,29.0,t̪,False,a,False,1.0
+51,LOG SRD,a,3,269.0,ɾ,False,a,False,1.0
+51,OCC,a,2,29.0,t̪,False,a,False,1.0
+51,OCC,a,1,187.0,s̠,False,a,False,1.0
+51,OCC,a,3,269.0,ɾ,False,a,False,1.0
+51,OCC,a,3,251.0,ʀ,False,b,True,0.0
+51,PGL,a,3,269.0,ɾ,False,a,False,1.0
+51,PGL,a,1,183.0,s,False,a,False,1.0
+51,PGL,a,2,29.0,t̪,False,a,False,1.0
+51,QBC FRA,a,3,202.0,ʁ,False,a,False,1.0
+51,QBC FRA,a,3,251.0,ʀ,False,b,True,0.0
+51,QBC FRA,a,1,,∅,False,a,False,1.0
+51,QBC FRA,a,2,29.0,t̪,False,a,False,1.0
+51,RMH,a,1,191.0,ʃ,False,a,False,1.0
+51,RMH,a,3,269.0,ɾ,False,a,False,1.0
+51,RMH,a,2,29.0,t̪,False,a,False,1.0
+51,ROM,a,1,181.0,s̪,False,a,False,1.0
+51,ROM,a,2,29.0,t̪,False,a,False,1.0
+51,ROM,a,3,267.0,ɾ̪,False,a,False,1.0
+51,SCN,a,2,37.0,ʈ,False,a,False,1.0
+51,SCN,a,1,183.0,s,False,a,False,0.5
+51,SCN,a,1,191.0,ʃ,False,b,False,0.5
+51,SCN,a,3,273.0,ɽ,False,a,False,0.5
+51,SCN,a,3,,∅,False,b,False,0.5
+51,VAL,a,3,269.0,ɾ,False,a,False,1.0
+51,VAL,a,2,29.0,t̪,False,a,False,1.0
+51,VAL,a,1,187.0,s̠,False,a,False,1.0
+51,VEN,a,3,269.0,ɾ,False,a,False,1.0
+51,VEN,a,2,29.0,t̪,False,a,False,1.0
+51,VEN,a,1,187.0,s̠,False,a,False,1.0
+51,WAL,a,3,251.0,ʀ,False,a,False,1.0
+51,WAL,a,1,181.0,s̪,False,a,False,1.0
+51,WAL,a,2,29.0,t̪,False,a,False,1.0
+52,ABR,a,3,269.0,ɾ,False,a,False,1.0
+52,ABR,a,2,43.0,k,False,a,False,1.0
+52,ABR,a,1,183.0,s,False,a,False,1.0
+52,AMR ESP,a,3,269.0,ɾ,False,a,False,1.0
+52,AMR ESP,a,2,43.0,k,False,a,False,1.0
+52,AMR ESP,a,1,183.0,s,False,a,False,1.0
+52,AND ESP,a,2,43.0,k,False,a,False,1.0
+52,AND ESP,a,3,269.0,ɾ,False,a,False,1.0
+52,AND ESP,a,1,205.0,h,False,a,False,1.0
+52,ARG,a,1,187.0,s̠,False,a,False,1.0
+52,ARG,a,2,43.0,k,False,a,False,1.0
+52,ARG,a,3,269.0,ɾ,False,a,False,1.0
+52,ARO,a,2,43.0,k,False,a,False,1.0
+52,ARO,a,1,181.0,s̪,False,a,False,1.0
+52,ARO,a,3,267.0,ɾ̪,False,a,False,1.0
+52,ARP,a,1,,∅,False,a,False,1.0
+52,ARP,a,2,43.0,k,False,a,False,1.0
+52,ARP,a,3,269.0,ɾ,False,a,False,1.0
+52,ARP,a,3,251.0,ʀ,False,b,True,0.0
+52,ASL,a,2,43.0,k,False,a,False,1.0
+52,ASL,a,3,269.0,ɾ,False,a,False,1.0
+52,ASL,a,1,187.0,s̠,False,a,False,1.0
+52,BAL,a,2,43.0,k,False,a,False,1.0
+52,BAL,a,1,187.0,s̠,False,a,False,1.0
+52,BAL,a,3,269.0,ɾ,False,a,False,1.0
+52,BR POR,a,2,43.0,k,False,a,False,1.0
+52,BR POR,a,3,269.0,ɾ,False,a,False,1.0
+52,BR POR,a,1,183.0,s,False,a,False,1.0
+52,CAM,a,2,43.0,k,False,a,False,1.0
+52,CAM,a,1,191.0,ʃ,False,a,False,1.0
+52,CAM,a,3,269.0,ɾ,False,a,False,1.0
+52,CAS ESP,a,1,187.0,s̠,False,a,False,1.0
+52,CAS ESP,a,2,43.0,k,False,a,False,1.0
+52,CAS ESP,a,3,269.0,ɾ,False,a,False,1.0
+52,CAT,a,2,43.0,k,False,a,False,1.0
+52,CAT,a,3,269.0,ɾ,False,a,False,1.0
+52,CAT,a,1,187.0,s̠,False,a,False,1.0
+52,COR,a,2,43.0,k,False,a,False,1.0
+52,COR,a,1,183.0,s,False,a,False,1.0
+52,COR,a,3,269.0,ɾ,False,a,False,1.0
+52,CPN SRD,a,1,183.0,s,False,a,False,1.0
+52,CPN SRD,a,1,187.0,s̠,False,b,True,0.0
+52,CPN SRD,a,2,43.0,k,False,a,False,1.0
+52,CPN SRD,a,3,269.0,ɾ,False,a,False,1.0
+52,EU FRA,a,3,202.0,ʁ,False,a,False,1.0
+52,EU FRA,a,3,251.0,ʀ,False,b,True,0.0
+52,EU FRA,a,1,,∅,False,a,False,1.0
+52,EU FRA,a,2,43.0,k,False,a,False,1.0
+52,EU POR,a,1,191.0,ʃ,False,a,False,1.0
+52,EU POR,a,3,269.0,ɾ,False,a,False,1.0
+52,EU POR,a,2,43.0,k,False,a,False,1.0
+52,FUR,a,2,43.0,k,False,a,False,1.0
+52,FUR,a,3,269.0,ɾ,False,a,False,1.0
+52,FUR,a,1,187.0,s̠,False,a,False,0.5
+52,FUR,a,1,191.0,ʃ,False,b,False,0.5
+52,GAL,a,3,269.0,ɾ,False,a,False,1.0
+52,GAL,a,1,187.0,s̠,False,a,False,1.0
+52,GAL,a,1,183.0,s,False,b,True,0.0
+52,GAL,a,2,43.0,k,False,a,False,1.0
+52,GAS OCC,a,3,269.0,ɾ,False,a,False,1.0
+52,GAS OCC,a,1,187.0,s̠,False,a,False,1.0
+52,GAS OCC,a,2,43.0,k,False,a,False,1.0
+52,ITA,a,3,269.0,ɾ,False,a,False,1.0
+52,ITA,a,1,183.0,s,False,a,False,1.0
+52,ITA,a,2,43.0,k,False,a,False,1.0
+52,LAT,a,3,269.0,ɾ,False,a,False,1.0
+52,LAT,a,2,43.0,k,False,a,False,1.0
+52,LAT,a,1,187.0,s̠,False,a,False,1.0
+52,LIG,a,2,43.0,k,False,a,False,1.0
+52,LIG,a,1,183.0,s,False,a,False,1.0
+52,LIG,a,1,191.0,ʃ,False,b,True,0.0
+52,LIG,a,3,269.0,ɾ,False,a,False,1.0
+52,LMO,a,1,187.0,s̠,False,a,False,1.0
+52,LMO,a,3,269.0,ɾ,False,a,False,1.0
+52,LMO,a,2,43.0,k,False,a,False,1.0
+52,LOG SRD,a,1,187.0,s̠,False,a,False,1.0
+52,LOG SRD,a,2,43.0,k,False,a,False,1.0
+52,LOG SRD,a,3,269.0,ɾ,False,a,False,1.0
+52,OCC,a,2,43.0,k,False,a,False,1.0
+52,OCC,a,1,187.0,s̠,False,a,False,1.0
+52,OCC,a,3,269.0,ɾ,False,a,False,1.0
+52,OCC,a,3,251.0,ʀ,False,b,True,0.0
+52,PGL,a,3,269.0,ɾ,False,a,False,1.0
+52,PGL,a,1,183.0,s,False,a,False,1.0
+52,PGL,a,2,43.0,k,False,a,False,1.0
+52,QBC FRA,a,3,202.0,ʁ,False,a,False,1.0
+52,QBC FRA,a,3,251.0,ʀ,False,b,True,0.0
+52,QBC FRA,a,1,,∅,False,a,False,1.0
+52,QBC FRA,a,2,43.0,k,False,a,False,1.0
+52,RMH,a,1,191.0,ʃ,False,a,False,1.0
+52,RMH,a,3,269.0,ɾ,False,a,False,1.0
+52,RMH,a,2,43.0,k,False,a,False,1.0
+52,ROM,a,1,181.0,s̪,False,a,False,1.0
+52,ROM,a,2,43.0,k,False,a,False,1.0
+52,ROM,a,3,267.0,ɾ̪,False,a,False,1.0
+52,SCN,a,2,43.0,k,False,a,False,1.0
+52,SCN,a,1,183.0,s,False,a,False,0.5
+52,SCN,a,1,191.0,ʃ,False,b,False,0.5
+52,SCN,a,3,269.0,ɾ,False,a,False,1.0
+52,VAL,a,3,269.0,ɾ,False,a,False,1.0
+52,VAL,a,2,43.0,k,False,a,False,1.0
+52,VAL,a,1,187.0,s̠,False,a,False,1.0
+52,VEN,a,3,269.0,ɾ,False,a,False,1.0
+52,VEN,a,2,43.0,k,False,a,False,1.0
+52,VEN,a,1,187.0,s̠,False,a,False,1.0
+52,WAL,a,3,251.0,ʀ,False,a,False,1.0
+52,WAL,a,1,181.0,s̪,False,a,False,1.0
+52,WAL,a,2,43.0,k,False,a,False,1.0
